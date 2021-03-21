@@ -65,9 +65,36 @@ http://www.typeright.org/
 
 ## Starting a foundry
 
+### Type foundry directories
+
+- [Type Foundry Directory](https://typefoundry.directory/)
+- [Type Foundry Directory (early Airtable version)](https://airtable.com/shrFnmJDFKQuik6Ju/tblOOfWzc1JT33c6k/viw3GySxCmxqD37GN)
+- [Type Foundry Index](https://type.lol/)
+- [Type Foundries Archive](https://type-foundries-archive.com/)
+
 ### E-commerce platforms
 
-- [Fontdue](https://www.fontdue.com/)
+- [Fontdue](https://www.fontdue.com/) is in closed beta but is used by several foundries already:
+	- [General Type](https://www.generaltypestudio.com)
+	- [Type By](https://www.typeby.com/)
+	- [Mass Driver](https://mass-driver.com/)
+	- [Public Type](https://www.publictype.us/)
+	- [Razzia Type](https://www.razziatype.com/)
+	- [Feliciano Type](https://felicianotype.com/)
 - [FoundryCore](https://foundrycore.tipografia.com.ar/)
 - [Lttr Shop](https://www.lttrshop.com/)
 - [Elefont](https://www.elefont.info/)
+- [Discussion on e-commerce platforms for type foundries](https://typedrawers.com/discussion/1679/e-commerce-platform-recommendations) [TypeDrawers]
+- [Gumroad](https://gumroad.com/) [Used by Delve Fonts, Cinetype, Justin Penner]
+
+### Website platforms
+
+- [Craft CMS](https://craftcms.com/)
+
+### Custom foundry site design and/or development
+
+- [Studio Lindeman](https://studiolindeman.com/)
+- [Chris Lewis](https://chrislewis.codes/)
+- [Magnus Holm](http://judofyr.net/)
+- [Humans & Machines](https://humans-machines.com/) [Dinamo]
+- [Hambly Freeman](https://hamblyfreeman.com/) [CoType Foundry]
