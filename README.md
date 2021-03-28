@@ -32,6 +32,13 @@ An exhaustive collection of type design resources.
 
 ### Social networks
 
+## Character design
+
+- [Fonts for Mathematics](http://www.typoma.com/publ/20041002-atypi.pdf), presentation slides by Johannes Küster at ATypI 2004 in Prague [Mirror](https://web.archive.org/web/20201007161310/http://www.typoma.com/publ/20041002-atypi.pdf)
+- [Mathematical symbols contrasted or not?](https://typedrawers.com/discussion/2965/mathematical-symbols-contrasted-or-not) discussion on TypeDrawers
+- [Maths glyphs in a non-maths font?](https://typedrawers.com/discussion/1649/maths-glyphs-in-a-non-maths-font/p1) discussion on TypeDrawers
+- [Math symbols for Latin 1](https://docs.microsoft.com/en-us/typography/develop/character-design-standards/math) from Microsoft's *Character design standards*
+
 ## Character sets & language support
 
 - [CharSet Checker](https://www.alphabet-type.com/tools/charset-checker/) and [CharSet Builder](https://www.alphabet-type.com/tools/charset-builder/) by Alphabet Type
@@ -39,12 +46,29 @@ An exhaustive collection of type design resources.
 - [FontDrop](https://fontdrop.info/)
 - [Validate](https://underware.nl/latin_plus/validate/) by Underware
 
+## Encoding borders and ornaments
+
+- ['ornm' feature](https://docs.microsoft.com/en-us/typography/opentype/spec/features_ko#tag-ornm) (Microsoft OpenType spec)
+- [Ornaments and Unicode](https://typedrawers.com/discussion/1156/ornaments-and-unicode/p1) discussion on TypeDrawers
+- [Border Ornaments and their implementation: questions & answers.](https://typedrawers.com/discussion/3799/border-ornaments-and-their-implementation-questions-answers) discussion on TypeDrawers
+
 ## Proofing
 
 - [The Font Testing Page](http://www.cyreal.org/Font-Testing-Page/)
 - [Wakamai Fondue](http://wakamaifondue.com/)
 - [FontDrop](https://fontdrop.info/)
 - [Validate](https://underware.nl/latin_plus/validate/) by Underware
+
+## Kerning
+
+- [Kerning manually adjusted on instances](https://forum.glyphsapp.com/t/kerning-manually-adjusted-on-instances/3920/4) (Glyphs forum post)
+
+## Testing variable fonts
+
+- [Dinamo Font Gauntlet](https://dinamodarkroom.com/gauntlet/)
+- [Wakamai Fondue](https://wakamaifondue.com/)
+- [Samsa Variable Font Inspector](https://www.axis-praxis.org/samsa/)
+- [Axis Praxis](https://www.axis-praxis.org/)
 
 ## Licensing
 
@@ -90,6 +114,17 @@ http://www.typeright.org/
 ### Website platforms
 
 - [Craft CMS](https://craftcms.com/)
+
+### Web specimen tools
+
+- [FitText](http://fittextjs.com/) by Paravel
+- [Font-To-Width](http://font-to-width.com/) by Nick Sherman and Chris Lewis
+- [fit-to-width.js](https://github.com/Lorp/fit-to-width) by Laurence Penney
+- [Font Face Observer](https://fontfaceobserver.com/)
+- [Fontsampler](https://underscoretype.github.io/fontsampler-js/) by Underscore Type
+- [TDF Type Tester](https://github.com/quitequinn/TypeTester_TDF) by Quinn Keaveney
+- [Typeshow](https://github.com/raureif/typeshow) by Frank Rausch
+- [specimenTools](https://github.com/graphicore/specimenTools) by Lasse Fister
 
 ### Custom foundry site design and/or development
 
