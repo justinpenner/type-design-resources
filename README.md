@@ -121,10 +121,11 @@ http://www.typeright.org/
 - [Font-To-Width](http://font-to-width.com/) by Nick Sherman and Chris Lewis
 - [fit-to-width.js](https://github.com/Lorp/fit-to-width) by Laurence Penney
 - [Font Face Observer](https://fontfaceobserver.com/)
-- [Fontsampler](https://underscoretype.github.io/fontsampler-js/) by Underscore Type
+- [Fontsampler](https://underscoretype.github.io/fontsampler-js/) by Johannes Neumeier
 - [TDF Type Tester](https://github.com/quitequinn/TypeTester_TDF) by Quinn Keaveney
 - [Typeshow](https://github.com/raureif/typeshow) by Frank Rausch
 - [specimenTools](https://github.com/graphicore/specimenTools) by Lasse Fister
+- [Font Testing Page](https://github.com/impallari/Font-Testing-Page) by Pablo Impallari
 
 ### Custom foundry site design and/or development
 
