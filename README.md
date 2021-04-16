@@ -34,10 +34,17 @@ An exhaustive collection of type design resources.
 
 ## Character design
 
+### Math symbols
+
 - [Fonts for Mathematics](http://www.typoma.com/publ/20041002-atypi.pdf), presentation slides by Johannes Küster at ATypI 2004 in Prague [Mirror](https://web.archive.org/web/20201007161310/http://www.typoma.com/publ/20041002-atypi.pdf)
 - [Mathematical symbols contrasted or not?](https://typedrawers.com/discussion/2965/mathematical-symbols-contrasted-or-not) discussion on TypeDrawers
 - [Maths glyphs in a non-maths font?](https://typedrawers.com/discussion/1649/maths-glyphs-in-a-non-maths-font/p1) discussion on TypeDrawers
 - [Math symbols for Latin 1](https://docs.microsoft.com/en-us/typography/develop/character-design-standards/math) from Microsoft's *Character design standards*
+
+### Diacritics
+
+- [diacritics.typo.cz](http://diacritics.typo.cz/) by Filip Blažek
+- [The Insects Project](http://theinsectsproject.eu/) (Central European diacritics)
 
 ## Character sets & language support
 
@@ -58,6 +65,12 @@ An exhaustive collection of type design resources.
 - [Wakamai Fondue](http://wakamaifondue.com/)
 - [FontDrop](https://fontdrop.info/)
 - [Validate](https://underware.nl/latin_plus/validate/) by Underware
+
+### Proofing texts
+
+- [adhesiontext](https://adhesiontext.com/) by Miguel Sousa
+- [Hoefler&Co Universal proofing text](https://github.com/hoeflerco/proofs) by Jonathan Hoefler
+- [Vietnamese and Pinyin proofing text](https://typedrawers.com/discussion/1952/vietnamese-and-pinyin-proofing-text) discussion on TypeDrawers
 
 ## Kerning
 
@@ -122,6 +135,7 @@ http://www.typeright.org/
 - [fit-to-width.js](https://github.com/Lorp/fit-to-width) by Laurence Penney
 - [Font Face Observer](https://fontfaceobserver.com/)
 - [Fontsampler](https://underscoretype.github.io/fontsampler-js/) by Johannes Neumeier
+- [Flont](https://flont.chrislewis.codes/) by Chris Lewis
 - [TDF Type Tester](https://github.com/quitequinn/TypeTester_TDF) by Quinn Keaveney
 - [Typeshow](https://github.com/raureif/typeshow) by Frank Rausch
 - [specimenTools](https://github.com/graphicore/specimenTools) by Lasse Fister
