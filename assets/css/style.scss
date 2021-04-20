@@ -25,9 +25,10 @@
 	margin-bottom: 1em;
 }
 .markdown-body h2 {
-	font-size: 2em;
 	font-weight: 700;
+	font-size: 2em;
 	border-bottom: .2em solid $text-gray-dark;
+	padding-bottom: 0.1em;
 	margin-top: 2em;
 }
 .markdown-body h3 {
@@ -40,10 +41,24 @@
 	border-bottom: 0px none;
 }
 .markdown-body h1:first-of-type::before {
-    content: "Github repo: justinpenner/";
+	content: "Github repo: justinpenner/";
 }
 a {
 	color: $text-gray-dark;
 	font-family: 'Work Sans', sans-serif;
 	font-weight: 500;
+}
+.markdown-body hr {	
+	display: block;
+    height: auto;
+	background-color: transparent;
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+.markdown-body hr::before {
+	content: '* * *';
+	text-align: center;
+	width: 100%;
+	font-size: 2em;
 }

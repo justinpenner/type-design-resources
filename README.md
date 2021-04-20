@@ -6,6 +6,8 @@ A growing, public, collaborative collection of type design resources. Everything
 
 To contribute, just post an issue, make a pull request, or send me an email at [justin@justinpenner.ca](justin@justinpenner.ca)
 
+---
+
 ## Learning type design
 
 ### Beginners guides to type design
