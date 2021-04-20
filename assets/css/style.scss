@@ -16,17 +16,18 @@
 .markdown-body h5,
 .markdown-body h6, {
 	font-family: 'Work Sans', sans-serif;
+	line-height: 1.1em;
 }
 .markdown-body h1 {
 	font-weight: 900;
-	font-size: 4em;
+	font-size: 2.5em;
 	border-bottom: .4em solid $text-gray-dark;
 	padding-bottom: 0.1em;
 	margin-bottom: 1em;
 }
 .markdown-body h2 {
 	font-weight: 700;
-	font-size: 2em;
+	font-size: 1.8em;
 	border-bottom: .2em solid $text-gray-dark;
 	padding-bottom: 0.1em;
 	margin-top: 2em;
