@@ -1,0 +1,18 @@
+---
+---
+
+@import "";
+
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,700;1,400;1,700&family=Work+Sans:wght@300;400;600;700&display=swap');
+
+.markdown-body {
+	font-family: 'Newsreader', serif;
+}
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6, {
+	font-family: 'Work Sans', sans-serif;
+}
