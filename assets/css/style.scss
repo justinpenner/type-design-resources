@@ -20,4 +20,28 @@
 .markdown-body h1 {
 	font-weight: 900;
 	font-size: 4em;
+	border-bottom: .4em solid $text-gray-dark;
+	padding-bottom: 0.1em;
+	margin-bottom: 1em;
+}
+.markdown-body h2 {
+	font-size: 2em;
+	font-weight: 700;
+	border-bottom: .2em solid $text-gray-dark;
+	margin-top: 2em;
+}
+.markdown-body h3 {
+	margin-top: 2em;
+}
+
+.markdown-body h1:first-of-type {
+	font-weight: 700;
+	font-size: 1em;
+	border-bottom: 0px none;
+}
+.markdown-body h1:first-of-type::before {
+    content: "Github repo: justinpenner/";
+}
+a {
+	color: #ff3;
 }
