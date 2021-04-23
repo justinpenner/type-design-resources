@@ -3,7 +3,7 @@
 
 @import "jekyll-theme-primer";
 
-@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,700;1,400;1,700&family=Work+Sans:wght@400;600;700;900&family=Langar&family=Rakkas&family=Kavoon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,700;1,400;1,700&family=Work+Sans:wght@400;600;700;900&family=Amaranth:ital@1&display=swap');
 
 .markdown-body {
 	font-family: 'Newsreader', serif;
@@ -48,9 +48,7 @@
 }
 a {
 	color: $text-gray-dark;
-	font-family: 'Langar', sans-serif;
-	/*font-weight: 600;*/
-	/*font-size: .92em;*/
+	font-family: 'Amaranth', sans-serif;
 }
 .markdown-body hr {	
 	display: block;
