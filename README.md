@@ -85,6 +85,14 @@ Worth noting that discounted student licenses are available with most of these a
 
 ## Character design
 
+### Latin
+
+- [Microsoft Character Design Standards](https://docs.microsoft.com/en-us/typography/develop/character-design-standards/)
+
+### Hebrew
+
+- [Some guidelines and recommendations for the design of a Hebrew book typeface](https://issuu.com/gerryleonidas/docs/2003_dissertation_adistern) (MA dissertation by Adi Stern)
+
 ### Math symbols
 
 - [Fonts for Mathematics](http://www.typoma.com/publ/20041002-atypi.pdf), presentation slides by Johannes Küster at ATypI 2004 in Prague [Mirror](https://web.archive.org/web/20201007161310/http://www.typoma.com/publ/20041002-atypi.pdf)
@@ -194,15 +202,19 @@ Desktop/web/ebook/app combined into a single license.
 ### Web specimen tools
 
 - [FitText](http://fittextjs.com/) by Paravel
-- [Font-To-Width](http://font-to-width.com/) by Nick Sherman and Chris Lewis
 - [fit-to-width.js](https://github.com/Lorp/fit-to-width) by Laurence Penney
 - [Font Face Observer](https://fontfaceobserver.com/)
-- [Fontsampler](https://underscoretype.github.io/fontsampler-js/) by Johannes Neumeier
-- [Flont](https://flont.chrislewis.codes/) by Chris Lewis
-- [TDF Type Tester](https://github.com/quitequinn/TypeTester_TDF) by Quinn Keaveney
-- [Typeshow](https://github.com/raureif/typeshow) by Frank Rausch
-- [specimenTools](https://github.com/graphicore/specimenTools) by Lasse Fister
+- [Font-To-Width](http://font-to-width.com/) by Nick Sherman and Chris Lewis
 - [Font Testing Page](https://github.com/impallari/Font-Testing-Page) by Pablo Impallari
+- [specimenTools](https://github.com/graphicore/specimenTools) by Lasse Fister
+
+### Type testers
+
+- [Flont](https://flont.chrislewis.codes/) by Chris Lewis
+- [Fontsampler](https://underscoretype.github.io/fontsampler-js/) by Johannes Neumeier
+- [TDF Type Tester](https://github.com/quitequinn/TypeTester_TDF) by Quinn Keaveney
+- [Type Neighbour](https://github.com/tiotype/type-neighbor) by Jon Young
+- [Typeshow](https://github.com/raureif/typeshow) by Frank Rausch
 
 ### Custom foundry site design and/or development
 
