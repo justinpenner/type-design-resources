@@ -1,3 +1,5 @@
+[Read this document on GitHub Pages](https://justinpenner.github.io/type-design-resources/)
+
 # Type Design Resources
 
 A growing, public, collaborative collection of type design resources. Everything from learning the basics to running your own foundry.
@@ -213,7 +215,7 @@ Desktop/web/ebook/app combined into a single license.
 - [Flont](https://flont.chrislewis.codes/) by Chris Lewis
 - [Fontsampler](https://underscoretype.github.io/fontsampler-js/) by Johannes Neumeier
 - [TDF Type Tester](https://github.com/quitequinn/TypeTester_TDF) by Quinn Keaveney
-- [Type Neighbour](https://github.com/tiotype/type-neighbor) by Jon Young
+- [Type Neighbor](https://github.com/tiotype/type-neighbor) by Jon Young
 - [Typeshow](https://github.com/raureif/typeshow) by Frank Rausch
 
 ### Custom foundry site design and/or development
