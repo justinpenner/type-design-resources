@@ -107,13 +107,17 @@ Worth noting that discounted student licenses are available with most of these a
 - [diacritics.typo.cz](http://diacritics.typo.cz/) by Filip Blažek
 - [The Insects Project](http://theinsectsproject.eu/) (Central European diacritics)
 
-## Character sets & language support
+## Language support
 
-- [Hyperglot](https://hyperglot.rosettatype.com/) by Rosetta Type
 - [CharSet Checker](https://www.alphabet-type.com/tools/charset-checker/) and [CharSet Builder](https://www.alphabet-type.com/tools/charset-builder/) by Alphabet Type
-- [Adobe Latin Character Sets](https://github.com/adobe-type-tools/adobe-latin-charsets) [Github]
 - [FontDrop](https://fontdrop.info/)
+- [Hyperglot](https://hyperglot.rosettatype.com/) by Rosetta Type
 - [Validate](https://underware.nl/latin_plus/validate/) by Underware
+- [Wakamai Fondue](http://wakamaifondue.com/)
+
+## Standardized character sets
+
+- [Adobe Latin Character Sets](https://github.com/adobe-type-tools/adobe-latin-charsets) [Github]
 
 ## Encoding borders and ornaments
 
