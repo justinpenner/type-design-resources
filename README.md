@@ -91,6 +91,15 @@ Worth noting that discounted student licenses are available with most of these a
 
 - [Microsoft Character Design Standards](https://docs.microsoft.com/en-us/typography/develop/character-design-standards/)
 
+### Cyrillic
+
+- [Cyrillic script variations and the importance of localisation](https://www.fontsmith.com/blog/2016/10/12/cyrillic-script-variations-and-the-importance-of-localisation) by Krista Radoeva
+- [Cyrillic local forms](https://localfonts.eu/typography-basics/fonts-the-importance-of-localisation/local-features/cyrillic-local-forms/) by Maria Doreuli
+- [Cyrillicsly](https://twitter.com/cyrillicsly) workshops for learning Cyrillic type design
+- [Extending Cyrillic (and later Latin) character sets](https://blog.typekit.com/2006/08/01/defining_an_ext/) by Thomas Phinney
+- [Some comments regarding Cyrillic glyphs](https://github.com/CatharsisFonts/Cormorant/issues/14) a lengthy GitHub issues discussion on Cyrillic glyphs in Catharsis Fonts' open-source typeface Cormorant
+- [The relatively easy way to find out the quality of a Cyrillic typeface](https://leksandra.livejournal.com/115861.html) by Alexandra Korolkova
+
 ### Hebrew
 
 - [Some guidelines and recommendations for the design of a Hebrew book typeface](https://issuu.com/gerryleonidas/docs/2003_dissertation_adistern) (MA dissertation by Adi Stern)
