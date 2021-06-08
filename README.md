@@ -112,6 +112,7 @@ Worth noting that discounted student licenses are available with most of these a
 - [CharSet Checker](https://www.alphabet-type.com/tools/charset-checker/) and [CharSet Builder](https://www.alphabet-type.com/tools/charset-builder/) by Alphabet Type
 - [FontDrop](https://fontdrop.info/)
 - [Hyperglot](https://hyperglot.rosettatype.com/) by Rosetta Type
+- [Pyfontaine](https://github.com/googlefonts/pyfontaine) by Google Fonts
 - [Validate](https://underware.nl/latin_plus/validate/) by Underware
 - [Wakamai Fondue](http://wakamaifondue.com/)
 
@@ -149,18 +150,37 @@ Worth noting that discounted student licenses are available with most of these a
 - [Samsa Variable Font Inspector](https://www.axis-praxis.org/samsa/)
 - [Axis Praxis](https://www.axis-praxis.org/)
 
-## Licensing
+## Type specimens
+
+Type specimens are the original marketing tool for type foundries, going back hundreds of years. Today, many type foundries still design a PDF specimen (and sometimes printed copies) for each typeface release, to complement the web specimen.
+
+See also: [Web specimen tools](#web-specimen-tools)
+
+- [Specimen Builder](https://github.com/markboulton/specimen-builder-print) by Mark Boulton
+- [SpecimenDropper](https://github.com/AlphabetType/SpecimenDropper) by Alphabet Type
+- [Text Fitting in InDesign](http://in-tools.com/article/scripts-blog/fun-with-text-fitting-in-indesign/) by In-Tools
+- [Type Specimens](https://typespecimens.xyz/) by Mark Boulton
+
+## Selling your fonts
+
+### Licensing
 
 - [Type Right](http://www.typeright.org/)
 
-### Foundries with unusual licensing schemes
+#### Criticising the status quo
 
-#### Pricing based on company size
+- [Licenses to Heal](http://www.revue-backoffice.com/en/issues/01-making-do-making-with/frank-adebiaye-licenses-to-heal) by Frank Adebiaye
+- [Font licensing is ill, please help heal it](https://fontsarena.com/blog/font-licensing-is-ill-please-help-heal-it/) by Alina Sava
+- [Developers, IT, and tech people criticising font licenses on HackerNews](https://news.ycombinator.com/item?id=26441594)
+
+#### Foundries with unusual licensing schemes
+
+##### Pricing based on company size
 
 - [ABC Dinamo](https://abcdinamo.com/news/about-our-pricing)
 - [Production Type](https://licensing.productiontype.com/)
 
-#### All-in-one licensing
+##### All-in-one licensing
 
 Desktop/web/ebook/app combined into a single license.
 
@@ -170,12 +190,6 @@ Desktop/web/ebook/app combined into a single license.
 - [DJR](https://djr.com/)
 - [Tiny Type Co](https://tinytype.co/)
 - [Alanna Munro](http://alannamunro.com/)
-
-### Criticising the status quo
-
-- [Licenses to Heal](http://www.revue-backoffice.com/en/issues/01-making-do-making-with/frank-adebiaye-licenses-to-heal) by Frank Adebiaye
-- [Font licensing is ill, please help heal it](https://fontsarena.com/blog/font-licensing-is-ill-please-help-heal-it/) by Alina Sava
-- [Developers, IT, and tech people criticising font licenses on HackerNews](https://news.ycombinator.com/item?id=26441594)
 
 ## Starting a foundry
 
