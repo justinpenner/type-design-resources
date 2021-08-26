@@ -158,6 +158,7 @@ Worth noting that discounted student licenses are available with most of these a
 - [Wakamai Fondue](https://wakamaifondue.com/)
 - [Samsa Variable Font Inspector](https://www.axis-praxis.org/samsa/)
 - [Axis Praxis](https://www.axis-praxis.org/)
+- [Bulletproof Font Tester](https://bulletproof.italic.space/)
 
 ## Type specimens
 
