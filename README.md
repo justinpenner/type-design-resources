@@ -69,7 +69,8 @@ Worth noting that discounted student licenses are available with most of these a
 
 ## Python and coding
 
-- [Python for Designers](https://pythonfordesigners.com/)
+- [Python for Designers](https://pythonfordesigners.com/) by Roberto Arista
+- [Git for Type Designers](https://github.com/frankrolf/git-for-type-designers) by Frank Grießhammer
 
 ## Community
 
@@ -135,11 +136,20 @@ Worth noting that discounted student licenses are available with most of these a
 - [Ornaments and Unicode](https://typedrawers.com/discussion/1156/ornaments-and-unicode/p1) discussion on TypeDrawers
 - [Border Ornaments and their implementation: questions & answers.](https://typedrawers.com/discussion/3799/border-ornaments-and-their-implementation-questions-answers) discussion on TypeDrawers
 
-## Kerning
+## Hinting
 
-- [Kerning manually adjusted on instances](https://forum.glyphsapp.com/t/kerning-manually-adjusted-on-instances/3920/4) (Glyphs forum post)
+- [How to hint variable fonts](https://googlefonts.github.io/how-to-hint-variable-fonts/) by Michael Duggan
 
-## Proofing
+## Kerning tools
+
+- [BubbleKern](https://github.com/Tosche/BubbleKern) by Toshi Omagari
+- [Hands, Face, Space!](https://gist.github.com/simoncozens/03da7e5ad7f52af711948ed52a797e23) by Simon Cozens
+- [HTLetterspacer](https://github.com/huertatipografica/HTLetterspacer) by Huerta Tipográfica
+- [Kern-a-lytics](https://github.com/adobe-type-tools/kernalytics-rf-ext) by Frank Grießhammer [[live demo @ Robothon 2018](https://www.facebook.com/RoyalAcademyKABK/videos/1614287785322531)]
+- [kerncritic](https://github.com/simoncozens/atokern) by Simon Cozens
+- [MetricsMachine](https://extensionstore.robofont.com/extensions/metricsMachine/) by Tal Leming
+
+## Proofing tools
 
 - [The Font Testing Page](http://www.cyreal.org/Font-Testing-Page/)
 - [Wakamai Fondue](http://wakamaifondue.com/)
@@ -158,7 +168,6 @@ Worth noting that discounted student licenses are available with most of these a
 - [Wakamai Fondue](https://wakamaifondue.com/)
 - [Samsa Variable Font Inspector](https://www.axis-praxis.org/samsa/)
 - [Axis Praxis](https://www.axis-praxis.org/)
-- [Bulletproof Font Tester](https://bulletproof.italic.space/)
 
 ## Type specimens
 
@@ -220,6 +229,7 @@ Desktop/web/ebook/app combined into a single license.
 	- [Razzia Type](https://www.razziatype.com/)
 	- [Feliciano Type](https://felicianotype.com/)
 - [FoundryCore](https://foundrycore.tipografia.com.ar/)
+	- [Undercase Type](https://undercase.xyz/)
 - [Lttr Shop](https://www.lttrshop.com/)
 - [Elefont](https://www.elefont.info/)
 - [Discussion on e-commerce platforms for type foundries](https://typedrawers.com/discussion/1679/e-commerce-platform-recommendations) [TypeDrawers]
@@ -231,11 +241,13 @@ Desktop/web/ebook/app combined into a single license.
 
 ### Web specimen tools
 
+- [BigText](https://github.com/zachleat/BigText) by Zach Leatherman
 - [FitText](http://fittextjs.com/) by Paravel
 - [fit-to-width.js](https://github.com/Lorp/fit-to-width) by Laurence Penney
 - [Font Face Observer](https://fontfaceobserver.com/)
-- [Font-To-Width](http://font-to-width.com/) by Nick Sherman and Chris Lewis
 - [Font Testing Page](https://github.com/impallari/Font-Testing-Page) by Pablo Impallari
+- [Font-To-Width](http://font-to-width.com/) by Nick Sherman and Chris Lewis
+- [slabText](https://github.com/freqDec/slabText) by Brian McAllister
 - [specimenTools](https://github.com/graphicore/specimenTools) by Lasse Fister
 
 ### Type testers
@@ -248,8 +260,10 @@ Desktop/web/ebook/app combined into a single license.
 
 ### Custom foundry site design and/or development
 
-- [Studio Lindeman](https://studiolindeman.com/)
-- [Chris Lewis](https://chrislewis.codes/)
-- [Magnus Holm](http://judofyr.net/)
-- [Humans & Machines](https://humans-machines.com/) [Dinamo]
+- [Ashler Design](https://www.ashler.design/) [Sudtipos, Nova Type]
+- [Chris Lewis](https://chrislewis.codes/) [I Love Typography, DJR, Positype, Laura Worthington]
 - [Hambly Freeman](https://hamblyfreeman.com/) [CoType Foundry]
+- [Humans & Machines](https://humans-machines.com/) [Dinamo]
+- [Magnus Holm](http://judofyr.net/)
+- [Setup Type](https://www.ashler.design/about)
+- [Studio Lindeman](https://studiolindeman.com/)
