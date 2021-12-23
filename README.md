@@ -129,6 +129,8 @@ Worth noting that discounted student licenses are available with most of these a
 ## Standardized character sets
 
 - [Adobe Latin Character Sets](https://github.com/adobe-type-tools/adobe-latin-charsets) [Github]
+- [Google Fonts Glyph Sets](https://github.com/googlefonts/glyphsets) [Github]
+- [Koeberlin Latin Character Sets](https://github.com/koeberlin/Latin-Character-Sets) [Github]
 
 ## Encoding borders and ornaments
 
