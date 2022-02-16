@@ -105,6 +105,10 @@ Worth noting that discounted student licenses are available with most of these a
 
 - [Some guidelines and recommendations for the design of a Hebrew book typeface](https://issuu.com/gerryleonidas/docs/2003_dissertation_adistern) (MA dissertation by Adi Stern)
 
+### Canadian Syllabics
+
+- [Lava Syllabics type specimen [PDF]](https://www.typotheque.com/fonts/lava/syllabics/getpdf) A well-researched and invaluable look at the process behind designing a Canadian Syllabics typeface, which includes many special features to support a wide range of local preferences for languages that use this script.
+
 ### Math symbols
 
 - [Fonts for Mathematics](http://www.typoma.com/publ/20041002-atypi.pdf), presentation slides by Johannes Küster at ATypI 2004 in Prague [Mirror](https://web.archive.org/web/20201007161310/http://www.typoma.com/publ/20041002-atypi.pdf)
@@ -216,24 +220,15 @@ Desktop/web/ebook/app combined into a single license.
 
 ### Type foundry directories
 
-- [Type Foundry Directory](https://typefoundry.directory/)
-- [Type Foundry Directory (early Airtable version)](https://airtable.com/shrFnmJDFKQuik6Ju/tblOOfWzc1JT33c6k/viw3GySxCmxqD37GN)
-- [Type Foundry Index](https://type.lol/)
 - [Type Foundries Archive](https://type-foundries-archive.com/)
+- [Type Foundry Directory](https://typefoundry.directory/) by Matthew Smith (also available as a [spreadsheet](https://airtable.com/shrFnmJDFKQuik6Ju/tblOOfWzc1JT33c6k/viw3GySxCmxqD37GN))
+- [Type Foundry Index](https://type.lol/)
 
 ### E-commerce platforms
 
-- [Fontdue](https://www.fontdue.com/) is in closed beta but is used by several foundries already:
-	- [General Type](https://www.generaltypestudio.com)
-	- [Type By](https://www.typeby.com/)
-	- [Mass Driver](https://mass-driver.com/)
-	- [Public Type](https://www.publictype.us/)
-	- [Razzia Type](https://www.razziatype.com/)
-	- [Feliciano Type](https://felicianotype.com/)
-- [FoundryCore](https://foundrycore.tipografia.com.ar/)
-	- [Undercase Type](https://undercase.xyz/)
+- [Fontdue](https://www.fontdue.com/) ~~is in closed beta~~ is now available
+- [FoundryCore](https://foundrycore.tipografia.com.ar/) is in closed beta but is being used by [Blackletra Type Foundry](https://blackletra.com/), [Blaze Type](https://blazetype.eu/), and [Undercase Type](https://undercase.xyz/)
 - [Lttr Shop](https://www.lttrshop.com/)
-- [Elefont](https://www.elefont.info/)
 - [Discussion on e-commerce platforms for type foundries](https://typedrawers.com/discussion/1679/e-commerce-platform-recommendations) [TypeDrawers]
 - [Gumroad](https://gumroad.com/) [Used by Delve Fonts, Cinetype, Justin Penner]
 
@@ -269,3 +264,10 @@ Desktop/web/ebook/app combined into a single license.
 - [Magnus Holm](http://judofyr.net/)
 - [Setup Type](https://www.ashler.design/about)
 - [Studio Lindeman](https://studiolindeman.com/)
+
+## See also
+
+More lists of type design resources.
+
+- [Font-Utilities](https://github.com/RoelN/Font-Utilities) by Roel Nieskens
+- [Awesome Typography](https://github.com/Jolg42/awesome-typography) by Joël Galeran (an extensive list of digital font tools and technology)
