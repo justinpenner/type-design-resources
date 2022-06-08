@@ -25,18 +25,21 @@ To contribute, just post an issue, make a pull request, or send me an email at [
 
 ### Workshops
 
-Tip: follow your favourite type [conferences](#conferences) – some of them present workshops and other events throughout the year.
+Tip: follow your favourite type [conferences](#conferences) – some of them present workshops and other events throughout the year.
 
+- [Cyrillicsly](https://twitter.com/cyrillicsly) workshops for learning Cyrillic type design
 - [Letterform Archive](https://letterformarchive.org/events/) presents a variety of workshops and other events
 - [Type@Cooper](http://coopertype.org/workshops/) presents a variety of workshops and other events
-- [Cyrillicsly](https://twitter.com/cyrillicsly) workshops for learning Cyrillic type design
 
 ### Courses
 
+- [Type Design Class](https://www.typedesignclass.com/) by Viktor Baltus and Ulrike Rausch
 - [Type Design School](https://typedesignschool.com/) by Lynne Yun
 
 ### Full-time programs
 
+- [ANRT](https://anrt-nancy.fr/) at ENSAD (Nancy, France)
+- [EsadType](http://postdiplome.esad-amiens.fr/) at Esad Amiens (Amiens, France)
 - [MATD](http://typefacedesign.net/courses/) at University of Reading (Reading, UK)
 - [Type@Cooper](http://coopertype.org/) at Cooper Union (New York City, USA)
 - [Type & Media](https://typemedia.org/) MA in Type Design at the KABK (The Hague, Netherlands)
@@ -53,7 +56,7 @@ Worth noting that discounted student licenses are available with most of these a
 	- Mac-only :(
 - [FontLab](https://www.fontlab.com/)
 	- $459 USD
-	- The gold standard for type design software, and the longest history – first released in 1992.
+	- The gold standard for type design software, and the longest history – first released in 1992.
 	- Mac and Windows. Best option for most Windows users.
 - [FontForge](https://fontforge.org/)
 	- The largest and most developed open-source font editor.
@@ -85,6 +88,27 @@ Worth noting that discounted student licenses are available with most of these a
 - [Typographics](https://typographics.com/)
 - [Typewknd](https://typewknd.com/) an online-only type conference (annually in September)
 - [Robothon](https://twitter.com/robothonconf)
+
+## Media
+
+Social media, multimedia, type news media
+
+### Podcasts
+
+- [Creative Characters](https://www.monotype.com/podcast) by Monotype — Bill Connolly interviews type designers and other creative characters
+- [The Interrogang Podcast](https://proofco.xyz/podcast) “A weekly briefing and discussion of type, design, and creativity.” by Proof&Co.
+- [Ohno Radio](https://ohnotype.co/info/ohno-radio) James Edmondson chats with up-and-coming and well-established type designers
+- [The Tiny Typecast](https://glog.glennf.com/tiny-type-blog) Glenn Fleishman talks with type designers, calligraphers, letterpress printers, historians, and more. [RSS link](https://tinytypemuseum.com/tinytypecast.rss)
+- [Type Radio](http://www.typeradio.org/) the oldest and most beloved podcast for type designers – interviews at conferences from 2005–2020
+- [The Weekly Typographic](https://www.theleagueofmoveabletype.com/podcast) from The League of Moveable Type
+
+### Videos
+
+TO-DO
+
+### Films
+
+TO-DO
 
 ## Character design
 
@@ -157,10 +181,11 @@ Worth noting that discounted student licenses are available with most of these a
 
 ## Proofing tools
 
+- [Crowbar](http://corvelsoftware.co.uk/crowbar/)
 - [The Font Testing Page](http://www.cyreal.org/Font-Testing-Page/)
-- [Wakamai Fondue](http://wakamaifondue.com/)
 - [FontDrop](https://fontdrop.info/)
 - [Validate](https://underware.nl/latin_plus/validate/) by Underware
+- [Wakamai Fondue](http://wakamaifondue.com/)
 
 ### Proofing texts
 
@@ -203,6 +228,7 @@ See also: [Web specimen tools](#web-specimen-tools)
 ##### Pricing based on company size
 
 - [ABC Dinamo](https://abcdinamo.com/news/about-our-pricing)
+- [Mass-Driver](https://mass-driver.com/licensing)
 - [Production Type](https://licensing.productiontype.com/)
 
 ##### All-in-one licensing
@@ -226,11 +252,11 @@ Desktop/web/ebook/app combined into a single license.
 
 ### E-commerce platforms
 
-- [Fontdue](https://www.fontdue.com/) ~~is in closed beta~~ is now available
+- [Fontdue](https://www.fontdue.com/) (developed by [Tom Conroy](http://tom.conroy.com.au/)) is currently used by many type foundries
 - [FoundryCore](https://foundrycore.tipografia.com.ar/) is in closed beta but is being used by [Blackletra Type Foundry](https://blackletra.com/), [Blaze Type](https://blazetype.eu/), and [Undercase Type](https://undercase.xyz/)
 - [Lttr Shop](https://www.lttrshop.com/)
 - [Discussion on e-commerce platforms for type foundries](https://typedrawers.com/discussion/1679/e-commerce-platform-recommendations) [TypeDrawers]
-- [Gumroad](https://gumroad.com/) [Used by Delve Fonts, Cinetype, Justin Penner]
+- [Gumroad](https://gumroad.com/) [Used by Delve Fonts, Cinetype, Justin Penner, Nuform]
 
 ### Website platforms
 
@@ -246,6 +272,12 @@ Desktop/web/ebook/app combined into a single license.
 - [Font-To-Width](http://font-to-width.com/) by Nick Sherman and Chris Lewis
 - [slabText](https://github.com/freqDec/slabText) by Brian McAllister
 - [specimenTools](https://github.com/graphicore/specimenTools) by Lasse Fister
+
+### Font tools for web development
+
+- [fontkit](https://github.com/foliojs/fontkit) (by FolioJS)
+- [opentype](https://github.com/bramstein/opentype) (by Bram Stein)
+- [OpenType.js](https://github.com/opentypejs/opentype.js) (outdated – does not support WOFF2)
 
 ### Type testers
 
