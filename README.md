@@ -52,12 +52,17 @@ Worth noting that discounted student licenses are available with most of these a
 - [Glyphs](https://glyphsapp.com/)
 	- €300
 	- Solid reputation for being the easiest font editor to learn, yet powerful enough that many professionals use it
-	- Mini version is only €49, and you'll get a discount if/when you upgrade to the full Glyphs app.
+	- Mac-only :(
+- [Glyphs Mini](https://glyphsapp.com/)
+	- €49, and you'll get a discount if/when you upgrade to the full Glyphs app.
 	- Mac-only :(
 - [FontLab](https://www.fontlab.com/)
 	- $459 USD
 	- The gold standard for type design software, and the longest history – first released in 1992.
 	- Mac and Windows. Best option for most Windows users.
+- [TypeTool](https://www.fontlab.com/font-editor/typetool/) by FontLab
+	- $49, and you'll get a discount if/when you upgrade to FontLab.
+	- Primarily for Windows, but a Windows-like port for Mac is available
 - [FontForge](https://fontforge.org/)
 	- The largest and most developed open-source font editor.
 - [Birdfont](https://birdfont.org/)
@@ -77,6 +82,7 @@ Worth noting that discounted student licenses are available with most of these a
 
 ## Community
 
+- [Type Crit Crew](https://typecritcrew.com/) a free resource for type design students to meet 1–1 with experienced type designers for virtual critiques
 - [TypeDrawers](https://typedrawers.com/) discussion forum for type designers
 - [Type Twitter](https://twitter.com/i/lists/15845166) a list of over 400 type foundries to follow on Twitter
 - [Fonts r Magic](https://twitter.com/mrkvlmrvc) an informal weekly Zoom meeting for type designers to chat and show their work, hosted on Friday afternoons by Mirko Velimirovic. Posting Zoom links publicly is probably asking for trouble, so I'd say just send Mirko a DM to join!
@@ -96,6 +102,7 @@ Social media, multimedia, type news media
 ### Podcasts
 
 - [Creative Characters](https://www.monotype.com/podcast) by Monotype — Bill Connolly interviews type designers and other creative characters
+- [Designed This Way](https://kawal.co/designedthisway) conversations with designers and other creative folks, including several type designers
 - [The Interrogang Podcast](https://proofco.xyz/podcast) “A weekly briefing and discussion of type, design, and creativity.” by Proof&Co.
 - [Ohno Radio](https://ohnotype.co/info/ohno-radio) James Edmondson chats with up-and-coming and well-established type designers
 - [The Tiny Typecast](https://glog.glennf.com/tiny-type-blog) Glenn Fleishman talks with type designers, calligraphers, letterpress printers, historians, and more. [RSS link](https://tinytypemuseum.com/tinytypecast.rss)
