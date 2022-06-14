@@ -15,6 +15,7 @@ To contribute, just post an issue, make a pull request, or send me an email at [
 ### Beginners guides to type design
 
 - [Design with FontForge](http://designwithfontforge.com/en-US/index.html) (this is a fantastic introduction to type design, regardless of what software you use)
+- [Getting started with type design](https://jonathanhoefler.com/articles/getting-started-with-typeface-design) by Jonathan Hoefler
 - [Glyphs Tutorials](https://glyphsapp.com/learn) (most tutorials here would be useful to non-Glyphs users too!)
 - [Ohno Type School](https://ohnotype.co/blog/tagged/teaching) (blog series by Ohno Type Co)
 
@@ -184,13 +185,17 @@ TO-DO
 - [HTLetterspacer](https://github.com/huertatipografica/HTLetterspacer) by Huerta Tipográfica
 - [Kern-a-lytics](https://github.com/adobe-type-tools/kernalytics-rf-ext) by Frank Grießhammer [[live demo @ Robothon 2018](https://www.facebook.com/RoyalAcademyKABK/videos/1614287785322531)]
 - [kerncritic](https://github.com/simoncozens/atokern) by Simon Cozens
+- [Kern On](https://kern-on.com/) by Tim Ahrens
 - [MetricsMachine](https://extensionstore.robofont.com/extensions/metricsMachine/) by Tal Leming
 
 ## Proofing tools
 
+- [Bulletproof Font Tester](https://bulletproof.italic.space/) by Adam Jagosz
 - [Crowbar](http://corvelsoftware.co.uk/crowbar/)
-- [The Font Testing Page](http://www.cyreal.org/Font-Testing-Page/)
+- [The Font Testing Page](http://www.cyreal.org/Font-Testing-Page/) by Pablo Impallari (currently down, but you can try mirrors by [Music Type Foundry](https://musictypefoundry.com/text-font-testing/), [Rosalie Wagner](http://www.rosaliewagner.com/font-testing/), [Girish Dalvi](http://www.idc.iitb.ac.in/~girish/test/), [Oketz](https://oketz.com/testing/), and Snapbuilder [The Font Testing Page](https://snapbuilder.com/tools/font_testing_page/)) [[Github source](https://github.com/impallari/font-testing-page)]
 - [FontDrop](https://fontdrop.info/)
+- [Galvanized Jets](http://www.galvanizedjets.com/) by Samarskaya & Partners
+- [Coverslip](https://simoncozens.github.io/coverslip/) by Simon Cozens
 - [Validate](https://underware.nl/latin_plus/validate/) by Underware
 - [Wakamai Fondue](http://wakamaifondue.com/)
 
@@ -198,6 +203,7 @@ TO-DO
 
 - [adhesiontext](https://adhesiontext.com/) by Miguel Sousa
 - [Hoefler&Co Universal proofing text](https://github.com/hoeflerco/proofs) by Jonathan Hoefler
+- [Just Another Test Text Generator](https://justanotherfoundry.com/generator) by Tim Ahrens [[Github source](https://github.com/justanotherfoundry/text-generator)]
 - [Vietnamese and Pinyin proofing text](https://typedrawers.com/discussion/1952/vietnamese-and-pinyin-proofing-text) discussion on TypeDrawers
 
 ## Testing variable fonts
