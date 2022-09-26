@@ -83,6 +83,7 @@ Worth noting that discounted student licenses are available with most of these a
 
 ## Community
 
+- [Alphacrit](https://www.alphacrit.alphabettes.org/) 
 - [Type Crit Crew](https://typecritcrew.com/) a free resource for type design students to meet 1–1 with experienced type designers for virtual critiques
 - [TypeDrawers](https://typedrawers.com/) discussion forum for type designers
 - [Type Twitter](https://twitter.com/i/lists/15845166) a list of over 400 type foundries to follow on Twitter
@@ -132,6 +133,7 @@ TO-DO
 - [Extending Cyrillic (and later Latin) character sets](https://blog.typekit.com/2006/08/01/defining_an_ext/) by Thomas Phinney
 - [Some comments regarding Cyrillic glyphs](https://github.com/CatharsisFonts/Cormorant/issues/14) a lengthy GitHub issues discussion on Cyrillic glyphs in Catharsis Fonts' open-source typeface Cormorant
 - [The relatively easy way to find out the quality of a Cyrillic typeface](https://leksandra.livejournal.com/115861.html) by Alexandra Korolkova
+- [Cyrillic's links](https://docs.google.com/document/d/1Pt-Hi_jeF0D7PlT4E7ib7oa2sKg9tazhOYuAl3hZKE8/edit?usp=sharing) a collection of links to many online Cyrillic type samples and inspirations, by [Vika and Vita](https://vikavita.com/)
 
 ### Hebrew
 
