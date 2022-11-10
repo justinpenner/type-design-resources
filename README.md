@@ -214,6 +214,7 @@ TO-DO
 - [Wakamai Fondue](https://wakamaifondue.com/)
 - [Samsa Variable Font Inspector](https://www.axis-praxis.org/samsa/)
 - [Axis Praxis](https://www.axis-praxis.org/)
+- [Variable Font Playground](https://github.com/imohanvadivel/variable-font-playground)
 
 ## Type specimens
 
