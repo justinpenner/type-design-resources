@@ -78,7 +78,46 @@ Worth noting that discounted student licenses are available with most of these a
 
 ## Python and coding
 
-- [Python for Designers](https://pythonfordesigners.com/) by Roberto Arista
+### Learn Python with DrawBot
+
+[DrawBot](https://drawbot.com/) is a free macOS app that allows you to draw graphics and typography with Python. It's one of the best ways for a type designer or graphic designer to start learning Python.
+
+- [Python for Designers](https://pythonfordesigners.com/) tutorial series by Roberto Arista
+- [Getting Started with DrawBot](https://learn.adafruit.com/getting-started-with-drawbot?view=all) tutorial by Andy Clymer
+- [Getting started with parametric design in DrawBot](https://www.typefloundry.com/getting-started-with-drawbot/) 3-part tutorial series by Stephen Nixon
+- [Animation tutorial screencast](https://forum.drawbot.com/topic/5/animation-tutorial-screencast) by Just van Rossum
+- [DrawBot: Drawing with Python](https://www.youtube.com/watch?v=h5h6NXC8ZoY) by David Jonathan Ross (workshop recording)
+- [Python for Visual Designers](http://coopertype.org/event/python_for_visual_designers_sp23) Type@Cooper course with David Jonathan Ross
+
+### Python scripting in Glyphs
+
+Learn from Glyphs' official tutorials, and from open-source scripts developed by other type designers.
+
+- [Scripting Glyphs](https://glyphsapp.com/learn/scripting-glyphs-part-1) official tutorials from Glyphs
+- [Glyphs 3 Python API](https://docu.glyphsapp.com/) documentation
+- [Glyphs scripts](https://github.com/mekkablue/Glyphs-Scripts) by Rainer Scheichelbauer (aka mekkablue)
+- [Glyphs scripts](https://github.com/slobzheninov/Glyphs-Scripts) by Alex Slobzheninov
+- [Glyphs scripts](https://github.com/FEDER-CO/Glyphs-Scripts) by 
+Federico Parra Barrios
+- [Glyphs scripts](https://github.com/filipenegrao/glyphsapp-scripts) by Filipe Negrão
+- [Glyphs scripts](https://github.com/guidoferreyra/Glyphs-Scripts) by Guido Ferreyra
+- [Glyphs scripts](https://github.com/harbortype/glyphs-scripts) by Henrique Beier
+- [Glyphs scripts](https://github.com/huertatipografica/huertatipografica-scripts) by Juan Pablo del Peral and Andrés Torresi
+- [Glyphs scripts](https://github.com/HugoJourdan/Glyphs-Script) by 
+Hugo Jourdan
+- [Glyphs scripts](https://github.com/jenskutilek/Glyphs-Scripts) by Jens Kutilek
+- [Glyphs scripts](https://github.com/jpt/font-scripts/) by Jeremy Tribby
+- [Glyphs scripts](https://github.com/kylewaynebenson/Glyphs-Scripts) by Kyle Benson
+- [Glyphs scripts](https://github.com/NaN-xyz/GlyphsApp-Scripts) by Luke Prowse
+- [Glyphs scripts](https://github.com/pedroarilla/glyphs-scripts) by Pedro Arilla
+- [Glyphs scripts](https://github.com/simoncozens/GlyphsScripts) by Simon Cozens
+- [Glyphs scripts](https://github.com/yanone/Yanone-GlyphsApp-Scripts) by Yanone
+- [Glyphs scripts](https://github.com/weiweihuanghuang/wei-glyphs-scripts) by Wei Huang
+- [Glyphs scripts](https://github.com/TypeNurse/Glyphs-Scripts) by Erik Moberg
+- [Glyphs scripts](https://github.com/Tosche/Glyphs-Scripts) by Tosche Omagari
+
+### Git and version control
+
 - [Git for Type Designers](https://github.com/frankrolf/git-for-type-designers) by Frank Grießhammer
 
 ## Community
