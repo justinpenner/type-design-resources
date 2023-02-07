@@ -234,6 +234,7 @@ TO-DO
 - [Bulletproof Font Tester](https://bulletproof.italic.space/) by Adam Jagosz
 - [Coverslip](https://simoncozens.github.io/coverslip/) by Simon Cozens
 - [Crowbar](http://corvelsoftware.co.uk/crowbar/)
+- [Font Proofer](https://fontproofer.com/) a commercial app for proofing fonts, by Peter Nowell
 - [The Font Testing Page](http://www.cyreal.org/Font-Testing-Page/) by Pablo Impallari (currently down, but you can try mirrors by [Music Type Foundry](https://musictypefoundry.com/text-font-testing/), [Rosalie Wagner](http://www.rosaliewagner.com/font-testing/), [Girish Dalvi](http://www.idc.iitb.ac.in/~girish/test/), [Oketz](https://oketz.com/testing/), and [Snapbuilder](https://snapbuilder.com/tools/font_testing_page/)) [[Github source](https://github.com/impallari/font-testing-page)]
 - [FontDrop](https://fontdrop.info/) by Viktor and Clemens Nübel
 - [Galvanized Jets](http://www.galvanizedjets.com/) by Samarskaya & Partners
