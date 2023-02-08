@@ -48,33 +48,49 @@ Tip: follow your favourite type [conferences](#conferences) – some of them pre
 
 ## Software
 
-Worth noting that discounted student licenses are available with most of these applications.
+It's worth noting that discounted student licenses are available with many of these applications.
 
+### Commercial font editors
+
+- [FontLab](https://www.fontlab.com/)
+	- $499 USD (2023)
+	- The gold standard for type design software, and the longest history – first released in 1992.
+	- Mac and Windows. Best option for most Windows users.
+- [Fontself](https://www.fontself.com/)
+	- $39–59 USD (2023)
+	- Illustrator/Photoshop plugin to turn your designs into fonts
+	- Mac and Windows
 - [Glyphs](https://glyphsapp.com/)
-	- €300
+	- €299 (2023)
 	- Solid reputation for being the easiest font editor to learn, yet powerful enough that many professionals use it
 	- Mac-only :(
 - [Glyphs Mini](https://glyphsapp.com/)
-	- €49, and you'll get a discount if/when you upgrade to the full Glyphs app.
+	- €49 (2023)
+	- Great for beginners that aren't ready to commit to the full app yet. Limited to designing single style fonts (no multiple masters or variable fonts).
 	- Mac-only :(
-- [FontLab](https://www.fontlab.com/)
-	- $459 USD
-	- The gold standard for type design software, and the longest history – first released in 1992.
-	- Mac and Windows. Best option for most Windows users.
-- [TypeTool](https://www.fontlab.com/font-editor/typetool/) by FontLab
-	- $49, and you'll get a discount if/when you upgrade to FontLab.
-	- Primarily for Windows, but a Windows-like port for Mac is available
-- [FontForge](https://fontforge.org/)
-	- The largest and most developed open-source font editor.
-- [Birdfont](https://birdfont.org/)
-	- Another popular open-source font editor.
+- [High Logic Font Creator](https://www.high-logic.com/font-editor/fontcreator)
+	- $49–199 USD (2023)
+	- "The world's most popular font editor"
+	- Windows-only :(
 - [Robofont](https://robofont.com/)
-	- €400
+	- €400 (2023)
 	- Robofont is for font designers who want to build their own tools and workflow.
 	- Mac-only :(
-- [Fontself](https://www.fontself.com/)
-	- $39–59 USD
-	- Mac and Windows
+- [TypeTool](https://www.fontlab.com/font-editor/typetool/) by FontLab
+	- $49 (2023)
+	- Primarily for Windows, but a Windows-like port for Mac is available
+
+### Free font editors
+
+- [Birdfont](https://birdfont.org/)
+	- Another popular open-source font editor.
+- [FontForge](https://fontforge.org/)
+	- The largest and most developed open-source font editor.
+- [Modular Font Editor K](https://mfek.org/)
+	- Currently in development (2023)
+	- The entire code base is modular, written in Rust and built as a set of a libraries for each task. The app is actually functional while in development, as it uses code from FontForge to fill in the gaps.
+- [Runebender](https://github.com/linebender/runebender)
+	- Currently in early stage development (2023)
 
 ## Python and coding
 
@@ -316,7 +332,8 @@ Desktop/web/ebook/app combined into a single license.
 
 ### Website platforms
 
-- [Craft CMS](https://craftcms.com/)
+- [Craft CMS](https://craftcms.com/) [Used by DJR, Positype]
+- [Processwire](https://processwire.com/) [Used by Velvetyne]
 
 ### Web specimen tools
 
