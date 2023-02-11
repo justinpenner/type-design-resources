@@ -1,0 +1,21 @@
+
+            <h4><a href="{{ item.url }}"{% if item.offline == true %} class="offline"{% elsif item.abandoned == true %} class="abandoned"{% endif %}>{{ item.name }}</a>{% if item.offline == true %} (offline){% elsif item.abandoned == true %} (abandoned){% endif %}</h4>
+
+            {%- if item.description %}
+
+            <div class="description">
+
+              {{ item.description | markdownify }}
+            </div>
+
+            {%- endif %}
+
+            {%- if item.links %}
+
+            <div class="links">
+              {%- for link in item.links %}
+              <a href="{{ link.url }}">{{ link.name }}</a>
+              {%- endfor %}
+            </div>
+
+            {%- endif %}
