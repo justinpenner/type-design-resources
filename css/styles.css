@@ -64,12 +64,12 @@ a {
 
 @font-face {
   font-family: Isenheim-Light;
-  src: url(/fonts/Isenheim_Fin.woff2) format('woff2');
+  src: url(../fonts/Isenheim_Fin.woff2) format('woff2');
   font-display: block;
 }
 @font-face {
   font-family: Isenheim-Regular;
-  src: url(/fonts/Isenheim_Regulier.woff2) format('woff2');
+  src: url(../fonts/Isenheim_Regulier.woff2) format('woff2');
   font-display: block;
 }
 
