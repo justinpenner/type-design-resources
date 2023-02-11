@@ -1,0 +1,772 @@
+categories:
+  - name: Learning type design
+    subcategories:
+      - name: Beginners guides to type design
+        items:
+          - name: Design with FontForge
+            url: http://designwithfontforge.com/en-US/index.html
+            description: This is a fantastic introduction to type design, regardless of what software you use.
+          - name: Getting started with type design
+            url: https://jonathanhoefler.com/articles/getting-started-with-typeface-design
+            description: by Jonathan Hoefler
+          - name: Glyphs Tutorials
+            url: https://glyphsapp.com/learn
+            description: most tutorials here would be useful to non-Glyphs users too!
+          - name: Ohno Type School
+            url: https://ohnotype.co/blog/tagged/teaching
+            description: blog series by Ohno Type Co
+      - name: Books
+        items:
+          - name: Recommended Type Design and Typography Books
+            url: https://typedrawers.com/discussion/1275/recommended-type-design-and-typography-books/p1
+            description: discussion on TypeDrawers
+          - name: Teachers, show us your reading lists
+            url: https://typedrawers.com/discussion/186/teachers-show-us-your-reading-lists
+            description: discussion on typedrawers
+      - name: Workshops
+        description: "Tip: follow your favourite type [conferences](#conferences) – some of them present workshops and other events throughout the year."
+        items:
+          - name: Cyrillicsly
+            url: https://twitter.com/cyrillicsly
+            description: workshops for learning Cyrillic type design
+          - name: Letterform Archive
+            url: https://letterformarchive.org/events/
+            description: presents a variety of workshops and other events
+          - name: Type@Cooper
+            url: http://coopertype.org/workshops/
+            description: presents a variety of workshops and other events
+      - name: Courses
+        items:
+          - name: Type Design Class
+            url: https://www.typedesignclass.com/
+            description: by Viktor Baltus and Ulrike Rausch
+          - name: Type Design School
+            url: https://typedesignschool.com/
+            description: by Lynne Yun
+      - name: Full-time programs
+        items:
+          - name: ANRT
+            url: https://anrt-nancy.fr/
+            description: at ENSAD (Nancy, France)
+          - name: EsadType
+            url: http://postdiplome.esad-amiens.fr/
+            description: at Esad Amiens (Amiens, France)
+          - name: MATD
+            url: http://typefacedesign.net/courses/
+            description: at University of Reading (Reading, UK)
+          - name: Type@Cooper
+            url: http://coopertype.org/
+            description: at Cooper Union (New York City, USA)
+          - name: Type & Media
+            url: https://typemedia.org/
+            description: MA in Type Design at the KABK (The Hague, Netherlands)
+          - name: Type West
+            url: https://letterformarchive.org/education/
+            description: at the Letterform Archive (San Francisco, USA)
+  - name: Software
+    description: Discounted student licenses are available with many of these applications.
+    subcategories:
+      - name: Commercial font editors
+        items:
+          - name: FontLab
+            url: https://www.fontlab.com/
+            price: $499 USD (2023)
+            description: The gold standard for type design software, and the longest history – first released in 1992.
+            os: Mac and Windows. Best option for most Windows users.
+          - name: Fontself
+            url: https://www.fontself.com/
+            price: $39–59 USD (2023)
+            description: Illustrator/Photoshop plugins to turn your designs into fonts.
+            os: Mac and Windows
+          - name: Glyphs
+            url: https://glyphsapp.com/
+            price: €299 (2023)
+            description: Solid reputation for being the easiest font editor to learn, yet powerful enough that many professionals use it
+            os: Mac-only :(
+          - name: Glyphs Mini
+            url: https://glyphsapp.com/
+            price: €49 (2023)
+            description: Great for beginners that aren't ready to commit to the full app yet. Limited to designing single style fonts (no multiple masters or variable fonts).
+            os: Mac-only :(
+          - name: High Logic Font Creator
+            url: https://www.high-logic.com/font-editor/fontcreator
+            price: $49–199 USD (2023)
+            description: "The world's most popular font editor"
+            os: Windows-only :(
+          - name: RoboFont
+            url: https://robofont.com/
+            price: €400 (2023)
+            description: A popular font editor for designers who want to build their own tools and workflow.
+            os: Mac-only :(
+          - name: TypeTool
+            by: FontLab
+            description: A simpler font editor for beginners, from the makers of FontLab.
+            url: https://www.fontlab.com/font-editor/typetool/
+            price: $49 (2023)
+            os: Primarily for Windows, but a Windows-like port for Mac is available
+      - name: Free font editors
+        items:
+          - name: Birdfont
+            url: https://birdfont.org/
+            description: Another popular open-source font editor.
+          - name: FontForge
+            url: https://fontforge.org/
+            description: The largest and most developed open-source font editor.
+          - name: Modular Font Editor K
+            url: https://mfek.org/
+            description: Currently in development (2023). The entire code base is modular, written in Rust and built as a set of a libraries for each task. The app is actually functional while in development, as it uses code from FontForge to fill in the gaps.
+          - name: Runebender
+            url: https://github.com/linebender/runebender
+            description: Currently in early stage development (2023)
+  - name: Python and coding
+    subcategories:
+      - name: Learn Python with DrawBot
+        description: "[DrawBot](https://drawbot.com/) is a free macOS app that allows you to draw graphics and typography with Python. It's one of the best ways for a type designer or graphic designer to start learning Python."
+        items:
+          - name: Python for Designers
+            url: https://pythonfordesigners.com/
+            description: tutorial series by Roberto Arista
+          - name: Getting Started with DrawBot
+            url: https://learn.adafruit.com/getting-started-with-drawbot?view=all
+            description: tutorial by Andy Clymer
+          - name: Getting started with parametric design in DrawBot
+            url: https://www.typefloundry.com/getting-started-with-drawbot/
+            description: 3-part tutorial series by Stephen Nixon
+          - name: Animation tutorial screencast
+            url: https://forum.drawbot.com/topic/5/animation-tutorial-screencast
+            description: by Just van Rossum
+          - name: "DrawBot: Drawing with Python"
+            url: https://www.youtube.com/watch?v=h5h6NXC8ZoY
+            description: by David Jonathan Ross (workshop recording)
+          - name: Python for Visual Designers
+            url: http://coopertype.org/event/python_for_visual_designers_sp23
+            description: Type@Cooper course with David Jonathan Ross
+      - name: Python scripting in Glyphs
+        description: Learn from Glyphs' official tutorials, and from open-source scripts developed by other type designers.
+        items:
+          - name: Scripting Glyphs
+            url: https://glyphsapp.com/learn/scripting-glyphs-part-1
+            description: official tutorials from Glyphs
+          - name: Glyphs 3 Python API
+            url: https://docu.glyphsapp.com/
+            description: documentation
+          - name: Glyphs scripts
+            url: https://github.com/mekkablue/Glyphs-Scripts
+            description: "by Rainer Scheichelbauer (aka mekkablue) of the Glyphs team. This repo contains many useful tools and code examples to help you write your own scripts.\n\nThere are many more repos of Glyphs scripts by type designers and developers:"
+            links:
+              - name: Alex Slobzheninov
+                url: https://github.com/slobzheninov/Glyphs-Scripts
+              - name: Erik Moberg
+                url: https://github.com/TypeNurse/Glyphs-Scripts
+              - name: Federico Parra Barrios
+                url: https://github.com/FEDER-CO/Glyphs-Scripts
+              - name: Filipe Negrão
+                url: https://github.com/filipenegrao/glyphsapp-scripts
+              - name: Guido Ferreyra
+                url: https://github.com/guidoferreyra/Glyphs-Scripts
+              - name: Henrique Beier
+                url: https://github.com/harbortype/glyphs-scripts
+              - name: Hugo Jourdan
+                url: https://github.com/HugoJourdan/Glyphs-Script
+              - name: Jens Kutilek
+                url: https://github.com/jenskutilek/Glyphs-Scripts
+              - name: Jeremy Tribby
+                url: https://github.com/jpt/font-scripts/
+              - name: Juan Pablo del Peral and Andrés Torresi
+                url: https://github.com/huertatipografica/huertatipografica-scripts
+              - name: Kyle Benson
+                url: https://github.com/kylewaynebenson/Glyphs-Scripts
+              - name: Luke Prowse
+                url: https://github.com/NaN-xyz/GlyphsApp-Scripts
+              - name: Pedro Arilla
+                url: https://github.com/pedroarilla/glyphs-scripts
+              - name: Simon Cozens
+                url: https://github.com/simoncozens/GlyphsScripts
+              - name: Tosche Omagari
+                url: https://github.com/Tosche/Glyphs-Scripts
+              - name: Wei Huang
+                url: https://github.com/weiweihuanghuang/wei-glyphs-scripts
+              - name: Yanone
+                url: https://github.com/yanone/Yanone-GlyphsApp-Scripts
+      - name: Git and version control
+        items:
+          - name: Git for Type Designers
+            url: https://github.com/frankrolf/git-for-type-designers
+            description: by Frank Grießhammer
+  - name: Community
+    items:
+    subcategories:
+      - name: Groups
+        items:
+          - name: Alphacrit
+            url: https://www.alphacrit.alphabettes.org/
+            description: Online event series of type critiques, by Alphabettes
+          - name: Type Crit Crew
+            url: https://typecritcrew.com/
+            description: a free resource for type design students to meet 1–1 with experienced type designers for virtual critiques
+          - name: TypeDrawers
+            url: https://typedrawers.com/
+            description: discussion forum for type designers
+          - name: Type Twitter
+            url: https://twitter.com/i/lists/15845166
+            description: a list of over 400 type foundries to follow on Twitter
+          - name: Fonts r Magic
+            url: https://twitter.com/mrkvlmrvc
+            description: an informal weekly Zoom meeting for type designers to chat and show their work, hosted on Friday afternoons by Mirko Velimirovic. Posting Zoom links publicly is probably asking for trouble, so I'd say just send Mirko a DM to join!
+      - name: Conferences
+        items:
+          - name: ATypI
+            url: https://www.atypi.org/
+            description: A global type conference, hosted in a different country each year in September.
+          - name: TypeCon
+            url: https://www.typecon.com/
+            description: annual conference presented by [S{o}TA](https://www.typesociety.org/)
+          - name: Typographics
+            url: https://typographics.com/
+            description: Annually in June at The Cooper Union in New York City. Typographics hosts in-person and streaming events, plus workshops, a book fair, and [TypeLab](https://typographics.com/typelab/), an informal, multi-day, global typographic hackathon.
+          - name: TypeWknd
+            url: https://typewknd.com/
+            description: an online-only type conference (annually in September)
+          - name: Robothon
+            url: https://twitter.com/robothonconf
+            description: Triennial conference on font software & technology.
+      - name: Associations
+        items:
+          - name: ATypI
+            url: https://www.atypi.org/
+            description: A global organization representing type designers and foundries. Holds an annual conference, hosted in a different country each year in September.
+          - name: SoTA
+            url: https://www.typesociety.org/
+            description: “An open community dedicated to supporting and advancing the typographic arts and design education.” Organizer of [TypeCon](https://www.typecon.com/).
+          - name: Type Directors Club
+            url: https://www.tdc.org/
+            description: Type Directors Club is an international organization promoting typography and type design. Since 1946 they've hosted events, conferences, and competitions in New York City and around the world. Each year they produce Typography Annual, recognizing the year's best typographers and type designers.
+  - name: Media
+    description: Social media, multimedia, type news media
+    subcategories:
+      - name: Podcasts
+        items:
+          - name: Creative Characters
+            url: https://www.monotype.com/podcast
+            description: by Monotype — Bill Connolly interviews type designers and other creative characters
+          - name: Designed This Way
+            url: https://kawal.co/designedthisway
+            description: conversations with designers and other creative folks, including several type designers
+          - name: The Interrogang Podcast
+            url: https://proofco.xyz/the-interrogang-podcast
+            description: “A weekly briefing and discussion of type, design, and creativity.” by Proof&Co.
+          - name: Ohno Radio
+            url: https://ohnotype.co/info/ohno-radio
+            description: James Edmondson chats with up-and-coming and well-established type designers
+          - name: The Tiny Typecast
+            url: https://glog.glennf.com/tiny-type-blog
+            description: Glenn Fleishman talks with type designers, calligraphers, letterpress printers, historians, and more. [RSS link](https://tinytypemuseum.com/tinytypecast.rss)
+          - name: Type Radio
+            url: http://www.typeradio.org/
+            description: the oldest and most beloved podcast for type designers – interviews at conferences from 2005–2020
+          - name: The Weekly Typographic
+            url: https://www.theleagueofmoveabletype.com/podcast
+            description: from The League of Moveable Type
+      - name: Streamers
+        description: Watch a type designer!
+        items:
+          - name: Alanna Munro
+            url: https://www.twitch.tv/alannamun
+            links:
+              - name: Twitch
+                url: https://www.twitch.tv/alannamun
+              - name: YouTube
+                url: https://www.youtube.com/@alannamun
+          - name: Blaze Type
+            url: https://www.twitch.tv/blazetype
+            links:
+              - name: Twitch
+                url: https://www.twitch.tv/blazetype
+              - name: YouTube
+                url: https://www.youtube.com/@blazetype
+          - name: Eli Heuer
+            url: https://www.twitch.tv/eli_gtl
+            links:
+              - name: Twitch
+                url: https://www.twitch.tv/eli_gtl
+              - name: YouTube
+                url: https://www.youtube.com/@EliHeuer
+          - name: Stephen Nixon (Arrow Type)
+            url: https://www.twitch.tv/arrowtype
+            links:
+              - name: Twitch
+                url: https://www.twitch.tv/arrowtype
+              - name: YouTube
+                url: https://www.youtube.com/arrowtype
+  - name: Character design
+    subcategories:
+      - name: Latin
+        items:
+          - name: Microsoft Character Design Standards
+            url: https://docs.microsoft.com/en-us/typography/develop/character-design-standards/
+      - name: Cyrillic
+        items:
+          - name: Cyrillic script variations and the importance of localisation
+            url: https://www.fontsmith.com/blog/2016/10/12/cyrillic-script-variations-and-the-importance-of-localisation
+            description: by Krista Radoeva
+          - name: Cyrillic local forms
+            url: https://localfonts.eu/typography-basics/fonts-the-importance-of-localisation/local-features/cyrillic-local-forms/
+            description: by Maria Doreuli
+          - name: Cyrillicsly
+            url: https://twitter.com/cyrillicsly
+            description: workshops for learning Cyrillic type design
+          - name: Extending Cyrillic (and later Latin) character sets
+            url: https://blog.typekit.com/2006/08/01/defining_an_ext/
+            description: by Thomas Phinney
+          - name: Some comments regarding Cyrillic glyphs
+            url: https://github.com/CatharsisFonts/Cormorant/issues/14
+            description: a lengthy GitHub issues discussion on Cyrillic glyphs in Catharsis Fonts' open-source typeface Cormorant
+          - name: The relatively easy way to find out the quality of a Cyrillic typeface
+            url: https://leksandra.livejournal.com/115861.html
+            description: by Alexandra Korolkova
+          - name: Cyrillic's links
+            url: https://docs.google.com/document/d/1Pt-Hi_jeF0D7PlT4E7ib7oa2sKg9tazhOYuAl3hZKE8/edit?usp=sharing
+            description: a collection of links to many online Cyrillic type samples and inspirations, by [Vika and Vita](https://vikavita.com/)
+      - name: Hebrew
+        items:
+          - name: Some guidelines and recommendations for the design of a Hebrew book typeface
+            url: https://issuu.com/gerryleonidas/docs/2003_dissertation_adistern
+            description: MA dissertation by Adi Stern
+      - name: Canadian Syllabics
+        items:
+          - name: Lava Syllabics type specimen [PDF]
+            url: https://www.typotheque.com/fonts/lava/syllabics/getpdf
+            description: A well-researched and invaluable look at the process behind designing a Canadian Syllabics typeface, which includes many special features to support a wide range of local preferences for languages that use this script.
+      - name: Math symbols
+        items:
+          - name: Fonts for Mathematics
+            url: http://www.typoma.com/publ/20041002-atypi.pdf, presentation slides by Johannes Küster at ATypI 2004 in Prague [Mirror](https://web.archive.org/web/20201007161310/http://www.typoma.com/publ/20041002-atypi.pdf)
+          - name: Mathematical symbols contrasted or not?
+            url: https://typedrawers.com/discussion/2965/mathematical-symbols-contrasted-or-not
+            description: discussion on TypeDrawers
+          - name: Maths glyphs in a non-maths font?
+            url: https://typedrawers.com/discussion/1649/maths-glyphs-in-a-non-maths-font/p1
+            description: discussion on TypeDrawers
+          - name: Math symbols for Latin 1
+            url: https://docs.microsoft.com/en-us/typography/develop/character-design-standards/math
+            description: from Microsoft's *Character design standards*
+      - name: Diacritics
+        items:
+          - name: diacritics.typo.cz
+            url: http://diacritics.typo.cz/
+            description: by Filip Blažek
+          - name: The Insects Project
+            url: http://theinsectsproject.eu/
+            description: Central European diacritics
+  - name: Language support
+    description: Determining the true language support of a font is a complex problem that hasn't really been solved. Most of these tools will simply report which languages a font *seems* to support, based solely on its character set.
+    items:
+      - name: CharSet Checker
+        url: https://www.alphabet-type.com/tools/charset-checker/
+        description: and [CharSet Builder](https://www.alphabet-type.com/tools/charset-builder/) by Alphabet Type
+      - name: FontDrop
+        url: https://fontdrop.info/
+      - name: Hyperglot
+        url: https://hyperglot.rosettatype.com/
+        description: by Rosetta Type. This is by far the most well-researched tool for checking language support. Hyperglot is available as a command line tool and a web interface.
+        links:
+          - name: Web interface
+            url: https://hyperglot.rosettatype.com/
+          - name: Github repo
+            url: https://github.com/rosettatype/hyperglot
+      - name: Pyfontaine
+        url: https://github.com/googlefonts/pyfontaine
+        description: by Google Fonts
+      - name: Validate
+        url: https://underware.nl/latin_plus/validate/
+        description: by Underware
+      - name: Wakamai Fondue
+        url: http://wakamaifondue.com/
+  - name: Standardized character sets
+    items:
+      - name: Adobe Latin Character Sets
+        url: https://github.com/adobe-type-tools/adobe-latin-charsets
+      - name: Google Fonts Glyph Sets
+        url: https://github.com/googlefonts/glyphsets
+      - name: Koeberlin Latin Character Sets
+        url: https://github.com/koeberlin/Latin-Character-Sets
+  - name: Encoding borders and ornaments
+    items:
+      - name: "'ornm' feature"
+        url: https://docs.microsoft.com/en-us/typography/opentype/spec/features_ko#tag-ornm
+        description: Microsoft OpenType spec
+      - name: Ornaments and Unicode
+        url: https://typedrawers.com/discussion/1156/ornaments-and-unicode/p1
+        description: discussion on TypeDrawers
+      - name: "Border Ornaments and their implementation: questions & answers."
+        url: https://typedrawers.com/discussion/3799/border-ornaments-and-their-implementation-questions-answers
+        description: discussion on TypeDrawers
+  - name: Hinting
+    items:
+      - name: How to hint variable fonts
+        url: https://googlefonts.github.io/how-to-hint-variable-fonts/
+        description: by Michael Duggan
+  - name: Kerning tools
+    items:
+      - name: BubbleKern
+        url: https://github.com/Tosche/BubbleKern
+        description: by Toshi Omagari
+      - name: Hands, Face, Space!
+        url: https://gist.github.com/simoncozens/03da7e5ad7f52af711948ed52a797e23
+        description: by Simon Cozens
+      - name: HTLetterspacer
+        url: https://github.com/huertatipografica/HTLetterspacer
+        description: by Huerta Tipográfica
+      - name: Kern-a-lytics
+        url: https://github.com/adobe-type-tools/kernalytics-rf-ext
+        description: by Frank Grießhammer [[live demo @ Robothon 2018](https://www.facebook.com/RoyalAcademyKABK/videos/1614287785322531)]
+      - name: kerncritic
+        url: https://github.com/simoncozens/atokern
+        description: by Simon Cozens
+      - name: Kern On
+        url: https://kern-on.com/
+        description: by Tim Ahrens
+      - name: MetricsMachine
+        url: https://extensionstore.robofont.com/extensions/metricsMachine/
+        description: by Tal Leming
+  - name: Proofing tools
+    subcategories:
+      - name: Font proofing software
+        items:
+          - name: Font Proofer
+            url: https://fontproofer.com/
+            description: A commercial app for proofing fonts, by Peter Nowell. Integrates with Glyphs and RoboFont, allowing you to re-generate proofs anytime with a single click.
+      - name: Web-based proofing and testing
+        description: There are a wide range of browser-based tools that you can drop your work-in-progress font into to test it. Most of these tools process your font using a client-side library like OpenType.js, which means your font is not uploaded to any server.
+        items:
+          - name: Axis Praxis
+            url: https://www.axis-praxis.org/
+            description: A playground for testing variable fonts. Made by Laurence Penney.
+          - name: Bulletproof Font Tester
+            url: https://bulletproof.italic.space/
+            description: by Adam Jagosz
+          - name: Coverslip
+            url: https://simoncozens.github.io/coverslip/
+            description: by Simon Cozens
+          - name: Crowbar
+            url: http://corvelsoftware.co.uk/crowbar/
+          - name: Dinamo Font Gauntlet
+            url: https://dinamodarkroom.com/gauntlet/
+            description: A tool for proofing and animating variable fonts.
+          - name: Font Tester
+            url: https://www.motaitalic.com/tools/font-tester/latin/
+            description: A modified version, by Mota Italic, of Pablo Impallari's Font Testing Page. See also the [Devanagari](https://www.motaitalic.com/tools/devanagari-font-tester/) and [Hebrew](https://www.motaitalic.com/tools/font-tester/hebrew/) versions.
+          - name: The Font Testing Page
+            url: http://www.cyreal.org/Font-Testing-Page/
+            description: by Pablo Impallari (currently down, but you can try mirrors by [Music Type Foundry](https://musictypefoundry.com/text-font-testing/), [Rosalie Wagner](http://www.rosaliewagner.com/font-testing/), [Girish Dalvi](http://www.idc.iitb.ac.in/~girish/test/), [Oketz](https://oketz.com/testing/), and [Snapbuilder](https://snapbuilder.com/tools/font_testing_page/))
+            links: 
+              - name: Github source
+                url: https://github.com/impallari/font-testing-page
+          - name: FontDrop
+            url: https://fontdrop.info/
+            description: by Viktor and Clemens Nübel
+          - name: Galvanized Jets
+            url: http://www.galvanizedjets.com/
+            description: by Samarskaya & Partners
+          - name: Samsa Variable Font Inspector
+            url: https://www.axis-praxis.org/samsa/
+            description: by Laurence Penney
+          - name: Validate
+            url: https://underware.nl/latin_plus/validate/
+            description: by Underware
+          - name: Variable Font Playground
+            url: https://github.com/imohanvadivel/variable-font-playground
+          - name: Wakamai Fondue
+            url: http://wakamaifondue.com/
+            description: by Roel Nieskens
+          - name: Waterfall
+            url: https://workshop.mass-driver.com/waterfall
+            description: A tool by Mass-Driver that generates words of equal length after you drop in a font. Great for proofing in early stages of a font, when you're still seeing how the forms interact with each other.
+      - name: Proofing texts
+        items:
+          - name: adhesiontext
+            url: https://adhesiontext.com/
+            description: by Miguel Sousa
+          - name: Hoefler&Co Universal proofing text
+            url: https://github.com/hoeflerco/proofs
+            description: by Jonathan Hoefler
+          - name: Just Another Test Text Generator
+            url: https://justanotherfoundry.com/generator
+            description: by Tim Ahrens
+            links:
+              - name: Github source
+                url: https://github.com/justanotherfoundry/text-generator
+          - name: Vietnamese and Pinyin proofing text
+            url: https://typedrawers.com/discussion/1952/vietnamese-and-pinyin-proofing-text
+            description: discussion on TypeDrawers
+  - name: Type specimens
+    description: "Type specimens are the original marketing tool for type foundries, going back hundreds of years. Today, many type foundries still design a PDF specimen (and sometimes printed copies) for each typeface release, to complement the web specimen.\n\nSee also: [Web specimen tools](#web-specimen-tools)"
+    items:
+      - name: Specimen Builder
+        url: https://github.com/markboulton/specimen-builder-print
+        description: by Mark Boulton
+      - name: SpecimenDropper
+        url: https://github.com/AlphabetType/SpecimenDropper
+        description: by Alphabet Type
+      - name: Text Fitting in InDesign
+        url: http://in-tools.com/article/scripts-blog/fun-with-text-fitting-in-indesign/
+        description: by In-Tools
+      - name: Type Specimens
+        url: https://typespecimens.xyz/
+        description: A research project by Mark Boulton about type specimens.
+  - name: Open-source your fonts
+    items:
+      - name: SIL Open Font License
+        url: https://scripts.sil.org/OFL
+        description: The most common open-source license used for fonts. Required if you want to add your fonts to the Google Fonts library.
+      - name: Google Fonts
+        url: https://fonts.google.com/
+        description: Used by millions of websites, it's the world's largest repository of high-quality open-source fonts. Google Fonts has also funded the development of many open-source fonts.
+        links:
+          - name: Google Fonts Contribution Guide
+            url: https://googlefonts.github.io/gf-guide/
+    subcategories:
+      - name: Open source type foundries
+        description: Foundries that primarily release open-source fonts
+        items:
+          - name: Velvetyne
+            url: https://velvetyne.fr/
+          - name: The League of Moveable Type
+            url: https://www.theleagueofmoveabletype.com/
+            description: The O.G. of open-source foundries
+          - name: Tunera
+            url: https://www.tunera.xyz/
+          - name: Collletttivo
+            url: https://www.collletttivo.it/
+  - name: Selling your fonts
+    subcategories:
+      - name: Marketplaces & distributors
+        items:
+          - name: Monotype
+            url: https://www.monotype.com/
+            description: Sell your fonts through MyFonts, FontShop, Linotype.com, Fonts.com, etc. Royalty rate 50%.
+            links:
+              - name: Getting started
+                url: https://foundrysupport.monotype.com/hc/en-us/articles/360028863311-Get-Started
+          - name: Fontspring
+            url: https://fontspring.com/
+            description: Formerly known as the world's largest independent font marketplace, Fontspring is now owned by Creative Market, and has since reduced royalty rates from 70% to 50%.
+            links:
+              - name: Foundry Signup
+                url: https://www.fontspring.com/account/foundries/info
+          - name: Fontstand
+            url: https://fontstand.com/
+            description: Font rentals distributor. 50% royalty rate.
+            links:
+              - name: Foundry Signup
+                url: https://www.fontspring.com/account/foundries/info
+          - name: Adobe Fonts
+            url: https://fonts.adobe.com/
+            description: Anyone with an Adobe Creative Cloud subscription can use your fonts, and you get paid based on usage.
+          - name: Creative Market
+            url: https://creativemarket.com/
+            description: A marketplace for all types of creative assets, including fonts. Seems to be geared more toward hobbyists and freelancers rather than companies. Royalty rate 50%.
+            links:
+              - name: Open a Shop
+                url: https://creativemarket.com/sell
+          - name: Type Network
+            url: https://typenetwork.com/
+            description: A network that distributes for many of the world's best type designers.
+          - name: I Love Typography
+            url: https://fonts.ilovetypography.com/
+            description: A new distributor with a large roster of some of the best indie type foundries.
+          - name: YouWorkForThem
+            url: https://www.youworkforthem.com/
+            description: Opened in 2001, it's one of the longest-running marketplaces for fonts and stock assets.
+            links:
+              - name: Submissions
+                url: https://www.youworkforthem.com/submissions
+      - name: Learn about licensing
+        items:
+          - name: Type Right
+            url: http://www.typeright.org/
+          - name: Why don’t EULA’ve me?
+            url: https://www.youtube.com/watch?v=3qVJCs-y39I
+            description: ATypI presentation by Joyce Ketterer, Font Licensing Expert
+          - name: Why Addenda?
+            url: https://www.youtube.com/watch?v=1fN9_KYfoaQ
+            description: ATypI presentation by Joyce Ketterer, Font Licensing Expert
+          - name: Three Ways to Improve Your EULA
+            url: https://medium.com/type-thursday/three-ways-to-improve-your-eula-4cdb7c2515e8
+            description: Thomas Jockin interviews Joyce Ketterer for TypeThursday
+          - name: 15 Things I Learned from Joyce Ketterer about EULAs
+            url: https://alexjohnlucas.com/type/joyceketterer
+            description: by Alex John Lucas
+          - name: Exploring End User Licensing Agreements
+            url: https://alexjohnlucas.com/type/eula
+            description: by Alex John Lucas
+      - name: Criticising the status quo
+        items:
+          - name: Licenses to Heal
+            url: http://www.revue-backoffice.com/en/issues/01-making-do-making-with/frank-adebiaye-licenses-to-heal
+            description: by Frank Adebiaye
+          - name: Font licensing is ill, please help heal it
+            url: https://fontsarena.com/blog/font-licensing-is-ill-please-help-heal-it/
+            description: by Alina Sava
+          - name: Developers, IT, and tech people criticising font licenses
+            description: Comments on HackerNews
+            url: https://news.ycombinator.com/item?id=26441594
+      - name: "Innovative licensing: pricing based on company size"
+        items:
+          - name: ABC Dinamo
+            url: https://abcdinamo.com/news/about-our-pricing
+          - name: Mass-Driver
+            url: https://mass-driver.com/licensing
+          - name: Newlyn
+            url: https://newlyn.com/licensing
+          - name: Production Type
+            url: https://licensing.productiontype.com/
+      - name: "Innovative licensing: all-in-one licenses"
+        description: Desktop/web/ebook/app combined into a single license.
+        items:
+          - name: Swiss Typefaces
+            url: https://www.swisstypefaces.com/
+            description: probably one of the first to do this?
+          - name: Fontwerk
+            url: https://fontwerk.com/
+          - name: New Glyph
+            url: https://beta.newglyph.com/licence/
+          - name: DJR
+            url: https://djr.com/
+          - name: Tiny Type Co
+            url: https://tinytype.co/
+          - name: Alanna Munro
+            url: http://alannamunro.com/
+      - name: License enforcement
+        items:
+          - name: FontRadar
+            url: https://www.fontradar.com/
+            description: Crawls the web to help you find and correct authorized and unauthorized usage of your fonts.
+  - name: Starting a foundry
+    subcategories:
+      - name: Type foundry directories
+        items:
+          - name: Type Foundries Archive
+            offline: true
+            url: https://type-foundries-archive.com/
+            links:
+              - name: Archived copy
+                url: https://web.archive.org/web/20220829055903/https://type-foundries-archive.com/
+          - name: Type Foundry Directory
+            url: https://typefoundry.directory/
+            description: by Matthew Smith (also available as a [spreadsheet](https://airtable.com/shrFnmJDFKQuik6Ju/tblOOfWzc1JT33c6k/viw3GySxCmxqD37GN))
+          - name: Type Foundry Index
+            url: https://type.lol/
+      - name: E-commerce platforms
+        items:
+          - name: Fontdue
+            url: https://www.fontdue.com/
+            description: Developed by [Tom Conroy](http://tom.conroy.com.au/) and currently used by many type foundries.
+          - name: FoundryCore
+            url: https://foundrycore.tipografia.com.ar/
+            description: Developed by Guido Ferreyra and is currently used by foundries like [Blackletra Type Foundry](https://blackletra.com/), [Blaze Type](https://blazetype.eu/), and [Undercase Type](https://undercase.xyz/).
+          - name: Lttr Shop
+            url: https://www.lttrshop.com/
+            description: "Developed by Filip Paldia and currently used by foundries like [DizajnDesign](https://www.dizajndesign.sk/) and [Setup Type](https://www.setuptype.com)."
+          - name: Discussion on e-commerce platforms for type foundries
+            url: https://typedrawers.com/discussion/1679/e-commerce-platform-recommendations
+            description: TypeDrawers
+          - name: Gumroad
+            url: https://gumroad.com/
+            description: A large e-commerce platform for creatives to sell digital products. Used by [Delve Fonts](https://delvefonts.com/), [Cinetype](https://www.cinetype.com/), [Justin Penner](https://justinpenner.ca/), [Nuform](https://nuformtype.com/).
+      - name: Website platforms
+        items:
+          - name: Craft CMS
+            url: https://craftcms.com/
+            description: Used by [DJR](https://djr.com/), [Positype](https://positype.com/)
+          - name: ProcessWire
+            url: https://processwire.com/
+            description: Used by [Velvetyne](https://velvetyne.fr/)
+      - name: Web specimen tools
+        items:
+          - name: BigText
+            url: https://github.com/zachleat/BigText
+            description: by Zach Leatherman
+          - name: FitText
+            url: http://fittextjs.com/
+            description: by Paravel
+          - name: fit-to-width.js
+            url: https://github.com/Lorp/fit-to-width
+            description: by Laurence Penney
+          - name: Font Face Observer
+            url: https://fontfaceobserver.com/
+          - name: Font Testing Page
+            url: https://github.com/impallari/Font-Testing-Page
+            description: by Pablo Impallari
+          - name: Font-To-Width
+            url: http://font-to-width.com/
+            description: by Nick Sherman and Chris Lewis
+          - name: slabText
+            url: https://github.com/freqDec/slabText
+            description: by Brian McAllister
+          - name: specimenTools
+            url: https://github.com/graphicore/specimenTools
+            description: by Lasse Fister
+      - name: Font tools for web development
+        items:
+          - name: fontkit
+            url: https://github.com/foliojs/fontkit
+            description: A JavaScript library by Devon Govett for parsing fonts. Supports a wide range of font formats and OpenType features. Does not support variable fonts.
+          - name: lib-font
+            url: https://github.com/Pomax/lib-font
+            description: A JavaScript library by Pomax for inspecting fonts. Supports a wide range of font formats.
+          - name: opentype
+            abandoned: true
+            url: https://github.com/bramstein/opentype
+            description: A JavaScript library by Bram Stein for parsing fonts.
+          - name: OpenType.js
+            url: https://github.com/opentypejs/opentype.js
+            description: A popular JavaScript library by Frederik De Bleser for parsing glyph outlines from font binaries. Note that it does not support the complete range of OpenType tables and formats that its name would suggest.
+      - name: Type testers
+        items:
+          - name: Flont
+            url: https://flont.chrislewis.codes/
+            description: by Chris Lewis
+          - name: Fontsampler
+            url: https://underscoretype.github.io/fontsampler-js/
+            description: by Johannes Neumeier
+          - name: TDF Type Tester
+            url: https://github.com/quitequinn/TypeTester_TDF
+            description: by Quinn Keaveney
+          - name: Type Neighbor
+            url: https://github.com/tiotype/type-neighbor
+            description: by Jon Young
+          - name: Typeshow
+            url: https://github.com/raureif/typeshow
+            description: by Frank Rausch
+      - name: Custom foundry site design and/or development
+        items:
+          - name: Chris Lewis
+            url: https://chrislewis.codes/
+            description: Clients include I Love Typography, DJR, Positype, Laura Worthington.
+          - name: Ashler Design
+            url: https://www.ashler.design/
+            description: Clients include Sudtipos, Nova Type.
+          - name: Hambly Freeman
+            url: https://hamblyfreeman.com/
+            description: Clients include CoType Foundry.
+          - name: Humans & Machines
+            url: https://humans-machines.com/
+            description: The complexity-loving, beautiful minds behind [Dinamo](https://abcdinamo.com/news/2020-launch-press-release)'s website.
+          - name: Studio Lindeman
+            url: https://studiolindeman.com/
+            description: Clients include [A2-Type](https://studiolindeman.com/a2-type/).
+  - name: See also…
+    description: More lists of type design resources.
+    items:
+      - name: Font-Utilities
+        url: https://github.com/RoelN/Font-Utilities
+        description: by Roel Nieskens
+      - name: Awesome Typography
+        url: https://github.com/Jolg42/awesome-typography
+        description: by Joël Galeran (an extensive list of digital font tools and technology)
+      - name: Velvetyne's Tools & Resources
+        url: https://velvetyne.fr/about/ressources/
+        description: A list of type design resources and open-source type foundries.
+      - name: Mota Italic's Type Design Resources
+        url: https://www.motaitalic.com/info/type-design-resources/

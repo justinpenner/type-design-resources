@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
+    <title>Type Design Resources</title>
+
+    <meta property="og:title" content="Type Design Resources">
+    <meta property="og:description" content="Everything from learning the basics to running your own foundry.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://typedesignresources.com/">
+    <meta name="og:image" content="https://typedesignresources.com/img/screenshot.png">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@_justinpenner">
+    <meta name="twitter:creator" content="@_justinpenner">
+
+    <!--  Chrome, Firefox OS and Opera / Windows Phone / iOS Safari  -->
+    <meta class="theme" name="theme-color" content="#fff">
+    <meta class="theme" name="theme-color" content="#000" media="(prefers-color-scheme: dark)">
+    <meta class="theme" name="msapplication-navbutton-color" content="#fff">
+    <meta class="theme" name="apple-mobile-web-app-status-bar-style" content="#fff">
+
+    <!--  Chrome, Firefox  -->
+    <link rel="icon" href="/img/icon.svg" type="image/svg+xml">
+
+    <!--  Safari :P  -->
+    <link rel="mask-icon" href="/img/icon.svg" type="image/svg+xml" color="#000">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" type="image/svg+xml">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Sofia+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Spline+Sans+Mono:wght@340;440&display=block" rel="stylesheet">
+    <link href="/css/styles.css?t={{ "now" | date: "%s" }}" rel="stylesheet">
+    <script defer src="/js/main.js?t={{ "now" | date: "%s" }}"></script>
+  </head>
+
+  <body>
+
+    <input type="checkbox" id="navButton">
+    <label for="navButton">—</label>
+
+    <nav>
+
+      <ul class="categories">
+        <li class="navBackToTop">
+          <a href="#">↑</a>
+        </li>
+        {%- for cat in site.data.data.categories %}
+        <li>
+          <a href="#{{ cat.name | slugify: "latin" }}">{{ cat.name }}</a>
+          {%- if cat.subcategories %}
+          <ul class="subcategories">            
+            {%- for subcat in cat.subcategories %}
+            <li><a href="#{{ subcat.name | slugify: 'latin' }}">{{ subcat.name }}</a></li>
+            {%- endfor %}
+          </ul>
+          {%- endif %}
+        </li>
+        {%- endfor %}
+      </ul>
+
+    </nav>
+
+    <div class="wrapper">
+      <header>
+
+        <h1>Type Design Resources</h1>
+        
+        <p>A growing, public, collaborative collection of type design resources. Everything from learning the basics to running your own foundry.</p>
+
+      </header>
+
+      <hr>
+
+      <section class="intro">
+
+        <p>To contribute, post an issue or make a pull request on the <a href="https://github.com/justinpenner/type-design-resources">Github repo</a>, or email <a href="mailto:justin@justinpenner.ca">justin@justinpenner.ca</a></p>
+
+      </section>
+
+      <hr>
+
+      <main>
+
+        {%- for cat in site.data.data.categories %}
+        <section id="{{ cat.name | slugify: "latin" }}">
+          <h2>
+            <div>{{ cat.name }}</div>
+            {{ cat.description | markdownify }}
+          </h2>
+
+
+          {%- if cat.items %}
+          <ul class="items">
+
+            {%- if cat.sort == false %}
+              {%- assign items = cat.items %}
+            {%- else %}
+              {%- assign items = cat.items | sort_natural: "name" %}
+            {%- endif %}
+
+            {%- for item in items %}
+            <li class="item">
+              {% include item.html item=item %}
+            </li>
+            {%- endfor %}
+          </ul>
+          {%- endif %}
+
+          {%- for subcat in cat.subcategories %}
+          <section id="{{ subcat.name | slugify: 'latin' }}">
+            <h3>
+              <div>{{ subcat.name }}</div>
+              {{ subcat.description | markdownify }}
+            </h3>
+            
+            <ul class="items">
+
+              {%- if subcat.sort == false %}
+                {%- assign items = subcat.items %}
+              {%- else %}
+                {%- assign items = subcat.items | sort_natural: "name" %}
+              {%- endif %}
+
+              {%- for item in items %}
+              <li class="item">
+                {% include item.html item=item %}
+              </li>
+              {%- endfor %}
+            </ul>
+
+          </section>
+          {%- endfor %}
+
+        </section>
+        {%- endfor %}
+
+      </main>
+
+      <hr>
+
+      <footer>
+
+        <section class="intro">
+
+          <p>To contribute, post an issue or make a pull request on the <a href="https://github.com/justinpenner/type-design-resources">Github repo</a>, or email <a href="mailto:justin@justinpenner.ca">justin@justinpenner.ca</a></p>
+
+        </section>
+
+        <hr>
+
+        {{ "**Type Design Resources** was designed and developed by [Justin Penner](https://justinpenner.ca). Masthead set in [Isenheim](https://www.tunera.xyz/fonts/isenheim/) by Benoît Ferran. Headings set in [Spline Sans Mono](https://github.com/SorkinType/SplineSansMono) by Eben Sorkin and Mirko Velimirović. Text set in [Sofia Sans](https://www.lettersoup.de/sofia-sans/) by Lettersoup. Built in Jekyll and hosted by Github." | markdownify }}
+
+        {{ "This site does not contain trackers or cookies." | markdownify }}
+      </footer>
+
+    </div>
+
+  </body>
+
+</html>

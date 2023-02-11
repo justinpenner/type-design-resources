@@ -1,0 +1,350 @@
+/* CUSTOM RESET (mostly based on Josh Comeau's reset)
+https://www.joshwcomeau.com/css/custom-css-reset/
+ */
+
+@media screen and (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+  appearance: none;
+  border: unset;
+  scroll-margin-top: 4rem;
+  color: inherit;
+  background: transparent;
+  hyphens: inherit;
+  font-synthesis: none;
+}
+body {
+  /*
+  font-smoothing: auto applies faux bold to all fonts on modern browsers,
+  but we want the font to render as intended by the typeface designer.
+  (Note: Chrome applies font-smoothing: auto up to font-size: 161px)
+  */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-wrap: break-word;
+  line-height: inherit;
+  hyphens: none;
+}
+p {
+  hyphens: auto;
+}
+em {
+  font-style: italic;
+}
+strong {
+  font-weight: bold;
+}
+button {
+  cursor: pointer;
+}
+img, picture, video, canvas, svg, iframe {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+*:focus-visible, *:focus-visible * {
+  outline: none;
+  color: var(--signal) !important;
+}
+
+/* FONTS */
+
+@font-face {
+  font-family: Isenheim-Light;
+  src: url(/fonts/Isenheim_Fin.woff2) format('woff2');
+  font-display: block;
+}
+@font-face {
+  font-family: Isenheim-Regular;
+  src: url(/fonts/Isenheim_Regulier.woff2) format('woff2');
+  font-display: block;
+}
+
+/* VARIABLES */
+:root {
+  --fg: #000;
+  --bg: #fff;
+  --signal: #f8e;
+  --signalClear: #f8e0;
+  --pageMargin: max(1.25rem, 5vw);
+  --underlineThickness: .125em;
+  --paraGap: .5em;
+  --itemGap: 1em;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --fg: #fff;
+    --bg: #000;
+    --signal: #f0a;
+    --signalClear: #f070;
+  }
+}
+
+/* MAIN LAYOUT */
+
+:root {
+  font-family: 'Sofia Sans', sans-serif;
+  font-weight: normal;
+  line-height: 1.2;
+  line-height: 1.3;
+  font-size: 1rem;
+  color: var(--fg);
+  background-color: var(--bg);
+}
+@media (min-width: 500px) {
+  :root {
+    font-size: 1.125rem;
+  }
+}
+div.wrapper {
+  padding: var(--pageMargin);
+}
+div.wrapper, main section {
+  display: flex;
+  flex-direction: column;
+  gap: var(--itemGap);
+}
+
+div.wrapper > * {
+  width: 100%;
+  max-width: 44em;
+/*  margin: 0 auto;*/
+  display: flex;
+  flex-direction: column;
+  gap: var(--itemGap);
+}
+
+hr {
+  border-top: 1px solid var(--fg);
+  padding: 0;
+  max-width: unset;
+  margin: min(6vw, 4em) 0;
+}
+header {
+/*  padding-top: min(4.5vw, 6rem);*/
+  padding-top: 1em;
+}
+header > p:first-of-type {
+  font-family: 'Spline Sans Mono', monospace;
+  font-weight: 340;
+  font-size: 5.5vw;
+  font-size: 1.4em;
+  font-size: min(5.5vw, 1.4em);
+  line-height: 1.4;
+  hyphens: none;
+}
+section.intro {
+/*  background-color: var(--signal);*/
+  border: 2px solid var(--signal);
+  padding: 1.25em;
+}
+section.intro a {
+  text-decoration-line: underline;
+  text-decoration-color: var(--signal);
+  text-decoration-thickness: var(--underlineThickness);
+}
+h1 {
+  font-family: Isenheim-Light, serif;
+  font-size: min(18vw, 9em);
+  line-height: .9;
+  letter-spacing: -.02em;
+}
+
+/* NAV */
+
+nav {
+  display: none;
+  flex-direction: column;
+  gap: var(--paraGap);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: var(--bg);
+  padding: var(--pageMargin);
+  overflow-y: scroll;
+}
+nav a {
+  display: block;
+  text-decoration: none;
+  box-sizing: content-box;
+  border-left: .5em solid transparent;
+  padding-left: .5em;
+}
+nav .active > a {
+/*  background-color: var(--signal);*/
+  border-left: .5em solid var(--signal);
+}
+nav ul ul li {
+  margin-left: 1em;
+}
+nav li {
+  display: block;
+  list-style-type: none;
+}
+nav ul, nav > ul > li {
+  display: contents;
+}
+nav ul.categories {
+  font-size: 1.2em;
+}
+nav ul.subcategories {
+  font-size: 1rem;
+}
+@media (min-width: 1300px) {
+  body {
+    display: flex;
+    justify-content: space-between;
+  }
+  nav {
+    max-width: 30rem;
+    display: flex;
+    position: sticky;
+    order: 2;
+    padding-left: 0;
+    height: 100vh;
+  }
+  label[for=navButton] {
+    display: none;
+  }
+}
+label[for=navButton] {
+  width: calc(var(--pageMargin) * 3);
+  height: calc(var(--pageMargin) * 3);
+  position: fixed;
+  z-index: 99;
+  top: 0;
+  right: 0;
+  color: var(--fg);
+  background-image: linear-gradient(45deg, var(--signalClear), var(--signalClear), var(--signal));
+  text-align: center;
+  content: '+';
+  line-height: calc(var(--pageMargin) * 2);
+  font-size: 1.5rem;
+}
+#navButton {
+  display: none;
+}
+#navButton:checked + label[for=navButton] {
+  transform: rotate(45deg);
+  background-image: unset;
+}
+#navButton:checked ~ nav {
+  display: flex;
+}
+li.navBackToTop a {
+/*  box-sizing: border-box;*/
+}
+li.navBackToTop a {
+  box-sizing: content-box;
+  text-decoration: none;
+  display: block;
+  position: fixed;
+  bottom: var(--pageMargin);
+  right: var(--pageMargin);
+  background-color: var(--signal);
+  width: 1.8em;
+  height: 1.8em;
+  border-radius: 1.8em;
+  line-height: 1.8em;
+  text-align: center;
+  border-style: none;
+  padding: 0;
+}
+
+/* MAIN */
+
+h2 {
+  font-family: 'Spline Sans Mono', monospace;
+  font-weight: 340;
+  font-size: 1.8em;
+  margin-top: var(--itemGap);
+  background-color: var(--signal);
+  padding: var(--paraGap);
+  display: flex;
+  flex-direction: column;
+  gap: var(--paraGap);
+}
+h2 p {
+  font-weight: 440;
+  font-size: .8rem;
+}
+h2 a {
+  text-decoration-color: var(--bg);
+}
+h3 {
+  margin-top: var(--paraGap);
+  font-weight: 400;
+  font-size: 1.4em;
+  display: flex;
+  flex-direction: column;
+  gap: var(--paraGap);
+}
+h3 p {
+  font-weight: 400;
+  font-size: 1rem;
+}
+h4 {
+  font-size: 1.2em;
+}
+a {
+  text-decoration-line: underline;
+  text-decoration-color: var(--signal);
+  text-decoration-thickness: var(--underlineThickness);
+  hyphens: none;
+}
+ul.items {
+  display: flex;
+  flex-direction: column;
+  gap: var(--itemGap);
+}
+li.item {
+  padding: 1em;
+  border: 1px solid var(--fg);
+  display: flex;
+  flex-direction: column;
+  gap: var(--paraGap);
+}
+.description {
+  display: flex;
+  flex-direction: column;
+  gap: var(--paraGap);
+}
+.links {
+  display: flex;
+  flex-direction: row;
+  gap: 0 var(--paraGap);
+  flex-wrap: wrap;
+}
+.offline, .abandoned {
+  text-decoration-line: line-through;
+}
+
+/* FOOTER */
+
+footer strong {
+  font-family: Isenheim-Regular, serif;
+  font-weight: 400;
+  font-size: min(18vw, 9em);
+  line-height: .9;
+  letter-spacing: -.02em;
+  font-size: 3em;
+  display: block;
+  padding-bottom: .5rem;
+}
