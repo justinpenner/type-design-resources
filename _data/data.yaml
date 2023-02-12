@@ -286,6 +286,11 @@ categories:
                 url: https://www.twitch.tv/alannamun
               - name: YouTube
                 url: https://www.youtube.com/@alannamun
+          - name: Alex Slobzheninov
+            url: https://www.youtube.com/@slobzheninov
+            links:
+              - name: YouTube
+                url: https://www.youtube.com/@slobzheninov
           - name: Blaze Type
             url: https://www.twitch.tv/blazetype
             links:
