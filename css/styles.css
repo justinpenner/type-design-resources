@@ -77,6 +77,7 @@ a {
 :root {
   --fg: #000;
   --bg: #fff;
+  --bg2: #ddd;
   --signal: #f8e;
   --signalClear: #f8e0;
   --pageMargin: max(1.25rem, 5vw);
@@ -88,6 +89,7 @@ a {
   :root {
     --fg: #fff;
     --bg: #000;
+    --bg2: #222;
     --signal: #f0a;
     --signalClear: #f070;
   }
@@ -320,6 +322,19 @@ li.item {
   display: flex;
   flex-direction: column;
   gap: var(--paraGap);
+}
+ul.data {
+  display: flex;
+  gap: var(--paraGap);
+}
+ul.data li {
+  list-style-type: none;
+  margin: 0;
+  font-style: italic;
+}
+ul.data li + li::before {
+  content: "/";
+  padding-right: var(--paraGap);
 }
 .description {
   display: flex;

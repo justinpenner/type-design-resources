@@ -10,6 +10,16 @@
 
             {%- endif %}
 
+            {%- if item.data %}
+
+            <ul class="data">
+              {%- for data in item.data %}
+              <li>{{ data }}</a>
+              {%- endfor %}
+            </ul>
+
+            {%- endif %}
+
             {%- if item.links %}
 
             <div class="links">
