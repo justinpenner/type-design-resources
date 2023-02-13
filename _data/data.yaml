@@ -332,6 +332,9 @@ categories:
           - name: Extending Cyrillic (and later Latin) character sets
             url: https://blog.typekit.com/2006/08/01/defining_an_ext/
             description: by Thomas Phinney
+          - name: How to design Cyrillic letters Њ (Nje), Љ (Lje), Ћ (Tshe), and Ђ (Dje)
+            url: https://uxdesign.cc/design-guides-for-cyrillic-letter-%D1%9A-nje-how-to-design-cyrillic-letters-%D1%9A-nje-%D1%99-lje-%D1%9B-tshe-f9b565a477cc
+            description: An article by Igor Petrovic on localizing your glyphs for Serbian and Macedonian Cyrillic.
           - name: Some comments regarding Cyrillic glyphs
             url: https://github.com/CatharsisFonts/Cormorant/issues/14
             description: a lengthy GitHub issues discussion on Cyrillic glyphs in Catharsis Fonts' open-source typeface Cormorant
