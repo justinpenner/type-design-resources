@@ -68,7 +68,7 @@ categories:
             description: MA in Type Design at the KABK (The Hague, Netherlands)
           - name: Type West
             url: https://letterformarchive.org/education/
-            description: at the Letterform Archive (San Francisco, USA)
+            description: at Letterform Archive (San Francisco, USA)
   - name: Software
     description: Discounted student licenses are available with many of these applications.
     subcategories:
@@ -588,6 +588,9 @@ categories:
     subcategories:
       - name: Historic type specimens
         items:
+        - name: Online Archive of Type Specimens
+          url: https://oa.letterformarchive.org/?dims=Format&vals0=Type%20Specimen&friendly0=Type%20Specimen&sortby=decade
+          description: by Letterform Archive
         - name: Specimen Books of Metal & Wood Type
           url: https://library.typographica.org/specimen-books-of-metal-wood-type
           description: A directory by Typographica of type foundry catalogs available online
