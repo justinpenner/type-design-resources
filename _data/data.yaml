@@ -43,6 +43,12 @@ categories:
           - name: Type Design School
             url: https://typedesignschool.com/
             description: by Lynne Yun
+          - name: Practica Program
+            url: https://practicaprogram.com/
+            description: A two-part, 6 week + 18 week part-time program for learning type design.
+          - name: Type Electives
+            url: https://www.typeelectives.com/
+            description: An online school with a range of type design and typography courses.
       - name: Full-time programs
         items:
           - name: ANRT
