@@ -127,81 +127,6 @@ categories:
           - name: Runebender
             url: https://github.com/linebender/runebender
             description: Currently in early stage development (2023)
-  - name: Python and coding
-    subcategories:
-      - name: Learn Python with DrawBot
-        description: "[DrawBot](https://drawbot.com/) is a free macOS app that allows you to draw graphics and typography with Python. It's one of the best ways for a type designer or graphic designer to start learning Python."
-        items:
-          - name: Python for Designers
-            url: https://pythonfordesigners.com/
-            description: tutorial series by Roberto Arista
-          - name: Getting Started with DrawBot
-            url: https://learn.adafruit.com/getting-started-with-drawbot?view=all
-            description: tutorial by Andy Clymer
-          - name: Getting started with parametric design in DrawBot
-            url: https://www.typefloundry.com/getting-started-with-drawbot/
-            description: 3-part tutorial series by Stephen Nixon
-          - name: Animation tutorial screencast
-            url: https://forum.drawbot.com/topic/5/animation-tutorial-screencast
-            description: by Just van Rossum
-          - name: "DrawBot: Drawing with Python"
-            url: https://www.youtube.com/watch?v=h5h6NXC8ZoY
-            description: by David Jonathan Ross (workshop recording)
-          - name: Python for Visual Designers
-            url: http://coopertype.org/event/python_for_visual_designers_sp23
-            description: Type@Cooper course with David Jonathan Ross
-      - name: Python scripting in Glyphs
-        description: Learn from Glyphs' official tutorials, and from open-source scripts developed by other type designers.
-        items:
-          - name: Scripting Glyphs
-            url: https://glyphsapp.com/learn/scripting-glyphs-part-1
-            description: official tutorials from Glyphs
-          - name: Glyphs 3 Python API
-            url: https://docu.glyphsapp.com/
-            description: documentation
-          - name: Glyphs scripts
-            url: https://github.com/mekkablue/Glyphs-Scripts
-            description: "by Rainer Scheichelbauer (aka mekkablue) of the Glyphs team. This repo contains many useful tools and code examples to help you write your own scripts.\n\nThere are many more repos of Glyphs scripts by type designers and developers:"
-            links:
-              - name: Alex Slobzheninov
-                url: https://github.com/slobzheninov/Glyphs-Scripts
-              - name: Erik Moberg
-                url: https://github.com/TypeNurse/Glyphs-Scripts
-              - name: Federico Parra Barrios
-                url: https://github.com/FEDER-CO/Glyphs-Scripts
-              - name: Filipe Negrão
-                url: https://github.com/filipenegrao/glyphsapp-scripts
-              - name: Guido Ferreyra
-                url: https://github.com/guidoferreyra/Glyphs-Scripts
-              - name: Henrique Beier
-                url: https://github.com/harbortype/glyphs-scripts
-              - name: Hugo Jourdan
-                url: https://github.com/HugoJourdan/Glyphs-Script
-              - name: Jens Kutilek
-                url: https://github.com/jenskutilek/Glyphs-Scripts
-              - name: Jeremy Tribby
-                url: https://github.com/jpt/font-scripts/
-              - name: Juan Pablo del Peral and Andrés Torresi
-                url: https://github.com/huertatipografica/huertatipografica-scripts
-              - name: Kyle Benson
-                url: https://github.com/kylewaynebenson/Glyphs-Scripts
-              - name: Luke Prowse
-                url: https://github.com/NaN-xyz/GlyphsApp-Scripts
-              - name: Pedro Arilla
-                url: https://github.com/pedroarilla/glyphs-scripts
-              - name: Simon Cozens
-                url: https://github.com/simoncozens/GlyphsScripts
-              - name: Tosche Omagari
-                url: https://github.com/Tosche/Glyphs-Scripts
-              - name: Wei Huang
-                url: https://github.com/weiweihuanghuang/wei-glyphs-scripts
-              - name: Yanone
-                url: https://github.com/yanone/Yanone-GlyphsApp-Scripts
-      - name: Git and version control
-        items:
-          - name: Git for Type Designers
-            url: https://github.com/frankrolf/git-for-type-designers
-            description: by Frank Grießhammer
   - name: Community
     items:
     subcategories:
@@ -375,6 +300,17 @@ categories:
           - name: The Insects Project
             url: http://theinsectsproject.eu/
             description: Central European diacritics
+  - name: OpenType feature programming
+    items:
+      - name: Fonts and Layout for Global Scripts
+        url: https://simoncozens.github.io/fonts-and-layout/
+        description: An introduction to Unicode, the OpenType font format, and OpenType feature programming, by Simon Cozens.
+      - name: The OpenType Cookbook
+        url: http://opentypecookbook.com/
+        description: Learn to code your own OpenType features with Tal Leming.
+      - name: OpenType Feature File specification
+        url: https://adobe-type-tools.github.io/afdko/OpenTypeFeatureFileSpecification.html
+        description: Technical specification for the OpenType programming language.
   - name: Language support
     description: Determining the true language support of a font is a complex problem that hasn't really been solved. Most of these tools will simply report which languages a font *seems* to support, based solely on its character set.
     items:
@@ -418,6 +354,81 @@ categories:
       - name: "Border Ornaments and their implementation: questions & answers."
         url: https://typedrawers.com/discussion/3799/border-ornaments-and-their-implementation-questions-answers
         description: discussion on TypeDrawers
+  - name: Python and coding
+    subcategories:
+      - name: Learn Python with DrawBot
+        description: "[DrawBot](https://drawbot.com/) is a free macOS app that allows you to draw graphics and typography with Python. It's one of the best ways for a type designer or graphic designer to start learning Python."
+        items:
+          - name: Python for Designers
+            url: https://pythonfordesigners.com/
+            description: tutorial series by Roberto Arista
+          - name: Getting Started with DrawBot
+            url: https://learn.adafruit.com/getting-started-with-drawbot?view=all
+            description: tutorial by Andy Clymer
+          - name: Getting started with parametric design in DrawBot
+            url: https://www.typefloundry.com/getting-started-with-drawbot/
+            description: 3-part tutorial series by Stephen Nixon
+          - name: Animation tutorial screencast
+            url: https://forum.drawbot.com/topic/5/animation-tutorial-screencast
+            description: by Just van Rossum
+          - name: "DrawBot: Drawing with Python"
+            url: https://www.youtube.com/watch?v=h5h6NXC8ZoY
+            description: by David Jonathan Ross (workshop recording)
+          - name: Python for Visual Designers
+            url: http://coopertype.org/event/python_for_visual_designers_sp23
+            description: Type@Cooper course with David Jonathan Ross
+      - name: Python scripting in Glyphs
+        description: Learn from Glyphs' official tutorials, and from open-source scripts developed by other type designers.
+        items:
+          - name: Scripting Glyphs
+            url: https://glyphsapp.com/learn/scripting-glyphs-part-1
+            description: official tutorials from Glyphs
+          - name: Glyphs 3 Python API
+            url: https://docu.glyphsapp.com/
+            description: documentation
+          - name: Glyphs scripts
+            url: https://github.com/mekkablue/Glyphs-Scripts
+            description: "by Rainer Scheichelbauer (aka mekkablue) of the Glyphs team. This repo contains many useful tools and code examples to help you write your own scripts.\n\nThere are many more repos of Glyphs scripts by type designers and developers:"
+            links:
+              - name: Alex Slobzheninov
+                url: https://github.com/slobzheninov/Glyphs-Scripts
+              - name: Erik Moberg
+                url: https://github.com/TypeNurse/Glyphs-Scripts
+              - name: Federico Parra Barrios
+                url: https://github.com/FEDER-CO/Glyphs-Scripts
+              - name: Filipe Negrão
+                url: https://github.com/filipenegrao/glyphsapp-scripts
+              - name: Guido Ferreyra
+                url: https://github.com/guidoferreyra/Glyphs-Scripts
+              - name: Henrique Beier
+                url: https://github.com/harbortype/glyphs-scripts
+              - name: Hugo Jourdan
+                url: https://github.com/HugoJourdan/Glyphs-Script
+              - name: Jens Kutilek
+                url: https://github.com/jenskutilek/Glyphs-Scripts
+              - name: Jeremy Tribby
+                url: https://github.com/jpt/font-scripts/
+              - name: Juan Pablo del Peral and Andrés Torresi
+                url: https://github.com/huertatipografica/huertatipografica-scripts
+              - name: Kyle Benson
+                url: https://github.com/kylewaynebenson/Glyphs-Scripts
+              - name: Luke Prowse
+                url: https://github.com/NaN-xyz/GlyphsApp-Scripts
+              - name: Pedro Arilla
+                url: https://github.com/pedroarilla/glyphs-scripts
+              - name: Simon Cozens
+                url: https://github.com/simoncozens/GlyphsScripts
+              - name: Tosche Omagari
+                url: https://github.com/Tosche/Glyphs-Scripts
+              - name: Wei Huang
+                url: https://github.com/weiweihuanghuang/wei-glyphs-scripts
+              - name: Yanone
+                url: https://github.com/yanone/Yanone-GlyphsApp-Scripts
+      - name: Git and version control
+        items:
+          - name: Git for Type Designers
+            url: https://github.com/frankrolf/git-for-type-designers
+            description: by Frank Grießhammer
   - name: Hinting
     items:
       - name: How to hint variable fonts
