@@ -837,7 +837,7 @@ categories:
         items:
           - name: Chris Lewis
             url: https://chrislewis.codes/
-            description: Clients include I Love Typography, DJR, Positype, Laura Worthington.
+            description: Clients include [I Love Typography](https://fonts.ilovetypography.com), DJR, Positype, Laura Worthington.
           - name: Ashler Design
             url: https://www.ashler.design/
             description: Clients include Sudtipos, Nova Type.
@@ -852,7 +852,10 @@ categories:
             description: The complexity-loving, beautiful minds behind [Dinamo](https://abcdinamo.com/news/2020-launch-press-release)'s website.
           - name: Studio Lindeman
             url: https://studiolindeman.com/
-            description: Clients include [A2-Type](https://studiolindeman.com/a2-type/).
+            description: Clients include [I Love Typography](https://fonts.ilovetypography.com), [A2-Type](https://studiolindeman.com/a2-type/).
+          - name: Kenneth Ormandy
+            url: https://kennethormandy.com/
+            description: Clients include [I Love Typography](https://fonts.ilovetypography.com), [Alanna Munro]https://alannamunro.com/).
   - name: See also…
     description: More lists of type design resources.
     items:
