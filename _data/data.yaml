@@ -269,6 +269,11 @@ categories:
           - name: Cyrillic's links
             url: https://docs.google.com/document/d/1Pt-Hi_jeF0D7PlT4E7ib7oa2sKg9tazhOYuAl3hZKE8/edit?usp=sharing
             description: a collection of links to many online Cyrillic type samples and inspirations, by [Vika and Vita](https://vikavita.com/)
+      - name: Greek
+        items:
+          - name: Greek type design
+            url: https://leonidas.net/greek-type-design/
+            description: by Gerry Leonidas
       - name: Hebrew
         items:
           - name: Some guidelines and recommendations for the design of a Hebrew book typeface
@@ -279,6 +284,22 @@ categories:
           - name: Lava Syllabics type specimen [PDF]
             url: https://www.typotheque.com/fonts/lava/syllabics/getpdf
             description: A well-researched and invaluable look at the process behind designing a Canadian Syllabics typeface, which includes many special features to support a wide range of local preferences for languages that use this script.
+      - name: Vietnamese
+        items:
+          - name: Vietnamese Typography
+            url: https://vietnamesetypography.com/
+            description: by Donny Trương, comprehensive resource typographic features and diacritics in Vietnamese
+      - name: Diacritics
+        items:
+          - name: diacritics.typo.cz
+            url: http://diacritics.typo.cz/
+            description: by Filip Blažek
+          - name: The Insects Project
+            url: http://theinsectsproject.eu/
+            description: Central European diacritics
+          - name: Diacritics resources Twitter thread 
+            url: https://twitter.com/aleksamul/status/1057350288061984770
+            description: by Aleksandra Samuļenkova, thread listing many resources concerning diacritics and special characters of the Latin script
       - name: Math symbols
         items:
           - name: Fonts for Mathematics
@@ -292,14 +313,11 @@ categories:
           - name: Math symbols for Latin 1
             url: https://docs.microsoft.com/en-us/typography/develop/character-design-standards/math
             description: from Microsoft's *Character design standards*
-      - name: Diacritics
+      - name: Box drawing characters
         items:
-          - name: diacritics.typo.cz
-            url: http://diacritics.typo.cz/
-            description: by Filip Blažek
-          - name: The Insects Project
-            url: http://theinsectsproject.eu/
-            description: Central European diacritics
+          - name: boxDrawing.py
+            url: https://github.com/adobe-type-tools/box-drawing
+            description: Script for generating box drawing characters and block elements
   - name: OpenType feature programming
     items:
       - name: Fonts and Layout for Global Scripts
@@ -424,6 +442,19 @@ categories:
                 url: https://github.com/weiweihuanghuang/wei-glyphs-scripts
               - name: Yanone
                 url: https://github.com/yanone/Yanone-GlyphsApp-Scripts
+      - name: Python scripting and extensions in Robofont
+        description: Learn from Robofont’s official tutorials, and from open-source scripts developed by other type designers.
+        items:
+          - name: Robofont documentation
+            url: https://robofont.com/documentation/
+          - name: Robofont community Discord channel
+            url: https://discord.gg/fbRmAFyZar
+          - name: Robofont mechanic
+            url: https://robofontmechanic.com/
+            description: Extension manager for Robofont
+          - name: RoboFont Script Database
+            url: https://docs.google.com/spreadsheets/d/1uyeZXfwLe-vs1YmIDQvQwDBjTQohCd9dbRN2WqGJQf8/
+            description: Spreadsheet by Ryan Bugden of useful extensions not in Mechanic.
       - name: Git and version control
         items:
           - name: Git for Type Designers
@@ -461,6 +492,9 @@ categories:
     subcategories:
       - name: Font proofing software
         items:
+          - name: Font Goggles
+            url: https://fontgoggles.org/
+            description: by Just van Rossum, a macOS desktop font viewer for testing fonts, specifically text shaping and variation behavior.
           - name: Font Proofer
             url: https://fontproofer.com/
             description: A commercial app for proofing fonts, by Peter Nowell. Integrates with Glyphs and RoboFont, allowing you to re-generate proofs anytime with a single click.
@@ -530,6 +564,9 @@ categories:
   - name: Type specimens
     description: "Type specimens are the original marketing tool for type foundries, going back hundreds of years. Today, many type foundries still design a PDF specimen (and sometimes printed copies) for each typeface release, to complement the web specimen.\n\nSee also: [Web specimen tools](#web-specimen-tools)"
     items:
+      - name: DeliverGlyphs in InDesign
+        url: https://le-blog.jloupf.fr/indesign/scripts/deliverglyphs-importer-rapidement-tous-les-glyphes-dune-police
+        description: by Jean loup Fusz, InDesign script to list all glyphs in a font (site in French)
       - name: Specimen Builder
         url: https://github.com/markboulton/specimen-builder-print
         description: by Mark Boulton
@@ -542,6 +579,23 @@ categories:
       - name: Type Specimens
         url: https://typespecimens.xyz/
         description: A research project by Mark Boulton about type specimens.
+    subcategories:
+      - name: Historic type specimens
+        items:
+        - name: Specimen Books of Metal & Wood Type
+          url: https://library.typographica.org/specimen-books-of-metal-wood-type
+          description: A directory by Typographica of type foundry catalogs available online
+        - name: "Mad, Bad (but Good to Know): A survey of type specimens offline and online"
+          url: https://www.paulshawletterdesign.com/2023/02/mad-bad-but-good-to-know-a-survey-of-type-specimens-offline-and-online/
+          description: by Paul Shaw
+        - name: Resources on the history of type specimens
+          url: https://twitter.com/HoeflerCo/status/1304801378628513792
+          description: Twitter thread by Hoefler&Co, a list of books
+  - name: Naming your font
+    items:
+    - name: Typeface name check
+      url: https://namecheck.fontdata.com/
+      description: Use this tool by Lars Schwarz to check if your font name might already be taken.
   - name: Open-source your fonts
     items:
       - name: SIL Open Font License
@@ -628,6 +682,9 @@ categories:
           - name: Exploring End User Licensing Agreements
             url: https://alexjohnlucas.com/type/eula
             description: by Alex John Lucas
+          - name: XYZ Type – Foundry Documents
+            url: https://github.com/XYZ-Type/Foundry_Documents
+            description: A collection of documents (EULA and business documents) from XYZ Type, provided under Creative Commons CC0 license.
       - name: Criticising the status quo
         items:
           - name: Licenses to Heal
@@ -775,6 +832,9 @@ categories:
           - name: Ashler Design
             url: https://www.ashler.design/
             description: Clients include Sudtipos, Nova Type.
+          - name: Friends of The Web
+            url: https://friendsoftheweb.com/
+            description: Clients include Frere-Jones Type, Kilotype
           - name: Hambly Freeman
             url: https://hamblyfreeman.com/
             description: Clients include CoType Foundry.
@@ -798,3 +858,7 @@ categories:
         description: A list of type design resources and open-source type foundries.
       - name: Mota Italic's Type Design Resources
         url: https://www.motaitalic.com/info/type-design-resources/
+      - name: Tools for font designers 
+        url: https://typeheist.co/blog/handy-tools-for-font-designers/
+      - name: Type links by Rosalie Wagner
+        url: http://rosaliewagner.com/type-links/
