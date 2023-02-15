@@ -76,39 +76,40 @@ categories:
         items:
           - name: FontLab
             url: https://www.fontlab.com/
-            description: The gold standard for type design software, and the longest history – first released in 1992.
+            description: An all-in-one font editor for Mac and Windows – first released in 1992.
             data:
               - $499 USD
               - Mac
               - Windows
           - name: Fontself
             url: https://www.fontself.com/
-            description: Illustrator/Photoshop plugins to turn your designs into fonts.
+            description: Plugins for Adobe Illustrator & Photoshop for creating fonts within Creative Suite. Also available as an iPad app.
             data:
               - $39–59 USD
               - Mac
               - Windows
+              - iOS (iPad)
           - name: Glyphs
             url: https://glyphsapp.com/
-            description: Solid reputation for being the easiest font editor to learn, yet powerful enough that many professionals use it
+            description: A fully-featured, Mac-based font editor with an active community.
             data:
               - €299
               - Mac
           - name: Glyphs Mini
             url: https://glyphsapp.com/
-            description: Great for beginners that aren't ready to commit to the full app yet. Limited to designing single style fonts (no multiple masters or variable fonts).
+            description: A paired down version of the full Glyphs app, meant for beginners. Limited to designing single-style fonts (no multiple masters or variable fonts).
             data:
               - €49
               - Mac
           - name: High Logic Font Creator
             url: https://www.high-logic.com/font-editor/fontcreator
-            description: "The world's most popular font editor"
+            description: A Windows-native font editor.
             data:
               - $49–199 USD
               - Windows
           - name: RoboFont
             url: https://robofont.com/
-            description: A popular font editor for designers who want to build their own tools and workflow.
+            description: A Python-based font editor that puts an emphasis on scripting and extendability.
             data:
               - €400
               - Mac
@@ -119,20 +120,34 @@ categories:
             data:
               - $49
               - Windows
-      - name: Free font editors
+      - name: Free and open source (FOSS) font editors
         items:
           - name: Birdfont
             url: https://birdfont.org/
-            description: Another popular open-source font editor.
+            description: A cross-platform, pay-what-you-want font editor written in the Vala programming language. Paid "Plus" version can export Color fonts, OpenType-CFF fonts, and single stroke fonts for CNC.
+            data:
+              - Pay what you want, Commercial license $4.99+ USD, "Plus" version $9.99+ USD
+              - Windows
+              - Linux
+              - Mac
+              - BSD
           - name: FontForge
             url: https://fontforge.org/
-            description: The largest and most developed open-source font editor.
+            description: A cross-platform, FOSS font editor written in C. Can export many formats. First released in 1994.
+            data:
+              - Free
+              - Windows
+              - Mac
+              - GNU+Linux. 
           - name: Modular Font Editor K
             url: https://mfek.org/
-            description: Currently in development (2023). The entire code base is modular, written in Rust and built as a set of a libraries for each task. The app is actually functional while in development, as it uses code from FontForge to fill in the gaps.
+            description: A modular, Rust-based, FOSS font editor. Currently unfinisehd and in development (2023).
           - name: Runebender
             url: https://github.com/linebender/runebender
-            description: Currently in early stage development (2023)
+            description: A FOSS font editor, also written in Rust. Currently unfinished and in development (2023).
+          - name: TruFont
+            url: http://trufont.github.io/
+            description: A Mac-based FOSS font editor, written in Python. Now discontinued (2023).
   - name: Community
     items:
     subcategories:
