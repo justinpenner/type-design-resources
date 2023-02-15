@@ -772,7 +772,7 @@ categories:
         items:
           - name: Craft CMS
             url: https://craftcms.com/
-            description: Used by [DJR](https://djr.com/), [Positype](https://positype.com/)
+            description: Used by [DJR](https://djr.com/), [Positype](https://positype.com/), [TypeMates](https://typemates.com/)
           - name: ProcessWire
             url: https://processwire.com/
             description: Used by [Velvetyne](https://velvetyne.fr/)
