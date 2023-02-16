@@ -544,7 +544,7 @@ categories:
             description: by Underware
           - name: TN Type Tools
             url: https://typetools.typenetwork.com/
-            description: A set of layout tools for exerimenting with variable fonts in various ways. By Type Network.
+            description: A set of layout tools for experimenting with variable fonts in various ways. By Type Network.
             links:
               - name: Github source
                 url: https://github.com/FontBureau/variable-type-tools/
