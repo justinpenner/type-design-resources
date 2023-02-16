@@ -519,6 +519,34 @@ categories:
           - name: Font Proofer
             url: https://fontproofer.com/
             description: A commercial app for proofing fonts, by Peter Nowell. Integrates with Glyphs and RoboFont, allowing you to re-generate proofs anytime with a single click.
+      - name: Printer recommendations
+        description: Discussions by type designers on printers they use for proofing type.
+        items:
+          - name: Twitter threads
+            description: 
+            links:
+              # - name: 2023
+              #   url: https://twitter.com/keyavadgama/status/1625959288643657730
+              - name: 2022
+                url: https://twitter.com/tulseytype/status/1533931491511656448
+              - name: 2021
+                url: https://twitter.com/mttymtt/status/1395395411830005766
+              - name: 2017
+                url: https://twitter.com/connordavenpo/status/881524083736940544
+              - name: 2016
+                url: https://twitter.com/rileycran/status/755086057599700992
+              - name: 2013
+                url: https://twitter.com/fostertype/status/306607673527382019
+          - name: TypeDrawers threads
+            links:
+              - name: 2020
+                url: https://typedrawers.com/discussion/3560/printer-for-proofing
+              - name: 2016
+                url: https://typedrawers.com/discussion/1917/not-too-expensive-printer-for-testing-font-printing
+              - name: 2015
+                url: https://typedrawers.com/discussion/896/printer-for-type-design-proofing
+              - name: 2013–2022
+                url: https://typedrawers.com/discussion/314/printer-recommendations-for-proofing/p1
       - name: Web-based proofing and testing
         description: There are a wide range of browser-based tools that you can drop your work-in-progress font into to test it. Most of these tools process your font using a client-side library like OpenType.js, which means your font is not uploaded to any server.
         items:

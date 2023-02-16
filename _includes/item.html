@@ -1,5 +1,12 @@
 
-            <h4><a href="{{ item.url }}"{% if item.offline == true %} class="offline"{% elsif item.abandoned == true %} class="abandoned"{% endif %}>{{ item.name }}</a>{% if item.offline == true %} (offline){% elsif item.abandoned == true %} (abandoned){% endif %}</h4>
+            <h4>
+              <a{% if item.url %} href="{{ item.url }}"{% endif %}{% if item.offline == true %} class="offline"{% elsif item.abandoned == true %} class="abandoned"{% endif %}>{{ item.name }}</a>              
+              {%- if item.offline == true %}
+              (offline)
+              {%- elsif item.abandoned == true %}
+              (abandoned)
+              {%- endif %}
+            </h4>
 
             {%- if item.description %}
 
