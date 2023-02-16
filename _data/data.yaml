@@ -585,6 +585,12 @@ categories:
           - name: Validate
             url: https://underware.nl/latin_plus/validate/
             description: by Underware
+          - name: TN Type Tools
+            url: https://typetools.typenetwork.com/
+            description: A set of layout tools for experimenting with variable fonts in various ways. By Type Network.
+            links:
+              - name: Github source
+                url: https://github.com/FontBureau/variable-type-tools/
           - name: Variable Font Playground
             url: https://github.com/imohanvadivel/variable-font-playground
           - name: Wakamai Fondue
