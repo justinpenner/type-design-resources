@@ -222,6 +222,23 @@ categories:
           - name: The Weekly Typographic
             url: https://www.theleagueofmoveabletype.com/podcast
             description: from The League of Moveable Type
+      - name: Publications
+        items:
+          - name: Footnotes
+            url: http://www.footnotes.ch/
+            description: A print-only periodical dedicated to type design.
+          - name: Typographica
+            url: https://typographica.org/
+            description: Typeface reviews, articles on type design and typography.
+          - name: Type Magazine
+            url: https://www.typemag.org/
+            description: Print and online magazine on type and typography.
+          - name: Font Review Journal
+            url: https://fontreviewjournal.com/
+            description: Deep-dive reviews of fonts, by Bethany Heck.
+          - name: TYPE01
+            url: https://type-01.com/
+            description: News and articles from the world of type design. Online and print.
       - name: Streamers
         description: Watch a type designer!
         items:
@@ -295,6 +312,9 @@ categories:
           - name: Greek type design
             url: https://leonidas.net/greek-type-design/
             description: by Gerry Leonidas
+          - name: "Polytonic Greek: a guide for type designers"
+            url: https://github.com/irenevl/Polytonic-tutorial
+            description: by Irene Vlachou
       - name: Hebrew
         items:
           - name: Some guidelines and recommendations for the design of a Hebrew book typeface
