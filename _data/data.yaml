@@ -37,6 +37,9 @@ categories:
             description: presents a variety of workshops and other events
       - name: Courses
         items:
+          - name: Tipo-g
+            url: https://tipo-g.com/
+            description: A type design school in Barcelona, Spain. Currently teaching a 21-week part-time program with an emphasis on variable fonts.
           - name: Type Design Class
             url: https://www.typedesignclass.com/
             description: by Viktor Baltus and Ulrike Rausch
@@ -138,6 +141,12 @@ categories:
               - Windows
               - Mac
               - GNU+Linux. 
+          - name: Fontra
+            url: https://fontra.xyz/
+            description: A browser-based FOSS font editor that allows distributed teams to work on a font together. Currently unfinished and in development (2023). Developed by [Black[Foundry]](https://black-foundry.com/) and [Google Fonts](https://fonts.google.com/).
+            links:
+              - name: GitHub
+                url: https://github.com/googlefonts/fontra
           - name: Modular Font Editor K
             url: https://mfek.org/
             description: A modular, Rust-based, FOSS font editor. Currently unfinished and in development (2023).
@@ -483,19 +492,25 @@ categories:
                 url: https://github.com/weiweihuanghuang/wei-glyphs-scripts
               - name: Yanone
                 url: https://github.com/yanone/Yanone-GlyphsApp-Scripts
-      - name: Python scripting and extensions in Robofont
-        description: Learn from Robofont’s official tutorials, and from open-source scripts developed by other type designers.
+          - name: Python Scripting for Type Design
+            url: https://pnowell.com/python-type-design
+            description: A workshop by Peter Nowell for type designers working in Glyphs or RoboFont with little to no coding experience.
+      - name: Python scripting and extensions in RoboFont
+        description: Learn from RoboFont’s official tutorials, and from open-source scripts developed by other type designers.
         items:
-          - name: Robofont documentation
+          - name: RoboFont documentation
             url: https://robofont.com/documentation/
-          - name: Robofont community Discord channel
+          - name: RoboFont community Discord channel
             url: https://discord.gg/fbRmAFyZar
-          - name: Robofont mechanic
+          - name: RoboFont mechanic
             url: https://robofontmechanic.com/
-            description: Extension manager for Robofont
+            description: Extension manager for RoboFont
           - name: RoboFont Script Database
             url: https://docs.google.com/spreadsheets/d/1uyeZXfwLe-vs1YmIDQvQwDBjTQohCd9dbRN2WqGJQf8/
             description: Spreadsheet by Ryan Bugden of useful extensions not in Mechanic.
+          - name: Python Scripting for Type Design
+            url: https://pnowell.com/python-type-design
+            description: A workshop by Peter Nowell for type designers working in Glyphs or RoboFont with little to no coding experience.
       - name: Git and version control
         items:
           - name: Git for Type Designers
@@ -674,6 +689,12 @@ categories:
     - name: Typeface name check
       url: https://namecheck.fontdata.com/
       description: Use this tool by Lars Schwarz to check if your font name might already be taken.
+    - name: WoLiBaFoNaGen
+      url: https://github.com/jenskutilek/WoLiBaFoNaGen
+      description: WordListBasedFontNameGenerator, an app by Jens Kutilek.
+      data:
+        - macOS
+        - Windows
   - name: Open-source your fonts
     items:
       - name: SIL Open Font License
@@ -806,7 +827,40 @@ categories:
             url: https://www.fontradar.com/
             description: Crawls the web to help you find and correct authorized and unauthorized usage of your fonts.
   - name: Starting a foundry
+    description: Thinking about starting a foundry, or setting up a website to support your shop? Here are some tools that might come in handy.
     subcategories:
+      - name: Running a type foundry
+        items:
+          - name: Type Foundries Today
+            url: https://census.typographica.org/
+            description: A 2013 census and report on the state of type foundries, published by Typographica.
+          - name: Ohno Radio
+            url: https://ohnotype.co/info/ohno-radio
+            description: A podcast hosted by James Edmondson, where he chats with type designers and often discusses what it's like to run a foundry.
+          - name: Starting Your Own Type Foundry
+            url: https://medium.com/type-thursday/starting-your-own-type-foundry-1ef7c768308a
+            description: Ulrik Hogrebe (TypeThursday) talks with Jesse Ragan and Ben Kiel about starting their new type foundry.
+          - name: "Starting a type foundry 101: a checklist"
+            url: https://www.youtube.com/watch?v=j9EDHxHgc2A
+            description: A presentation at ATypI 2016 by Jean-Baptiste Levée.
+          - name: Why did I start a type foundry?
+            url: https://ilovetypography.com/2010/05/06/why-did-i-start-a-type-foundry/
+            description: by Christian Schwartz
+          - name: Type Foundry Survey
+            url: https://abcdinamo.com/news/type-foundry-survey-1
+            description: Dinamo talks with 15 type foundry owners in 2022.
+          - name: Is it realistic to want to start up a type foundry?
+            url: https://www.quora.com/Is-it-realistic-to-want-to-start-up-a-type-foundry
+            description: A Quora post with answers from several well-known type designers and foundry owners.
+          - name: "Taking Your Fonts to Market: Foundry, Reseller, or Go Solo?"
+            url: https://typographica.org/on-typography/taking-your-fonts-to-market-foundry-reseller-or-go-solo/
+            description: by Stephen Coles for Typographica.
+          - name: 2022 Annual Report & Almanac
+            url: https://proofco.gumroad.com/
+            description: Statistics, facts and data from 2022 in the world of independent type foundries, by [Proof&Co](https://proofco.xyz/).
+          - name: The Autobiography of an Independent Type Foundry
+            url: https://www.adobe.com/max/2022/sessions/na-the-autobiography-of-an-independent-type-found-s301.html
+            description: Presentation by James Edmondson of OHno Type Co at Adobe Max 2022.
       - name: Type foundry directories
         items:
           - name: Type Foundries Archive
