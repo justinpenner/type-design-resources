@@ -57,6 +57,9 @@ categories:
           - name: ANRT
             url: https://anrt-nancy.fr/
             description: at ENSAD (Nancy, France)
+          - name: ECAL
+            url: https://ecal.ch/en/courses-and-research/master/type-design/
+            description: A two-year master’s degree program in Renens, Switzerland.
           - name: EsadType
             url: http://postdiplome.esad-amiens.fr/
             description: at Esad Amiens (Amiens, France)
