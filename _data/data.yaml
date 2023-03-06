@@ -287,6 +287,9 @@ categories:
                 url: https://www.twitch.tv/arrowtype
               - name: YouTube
                 url: https://www.youtube.com/arrowtype
+          - name: Adobe Fonts Livestreams
+            url: https://www.behance.net/adobefonts/livestreams
+            description: Discussing type with Adobe’s foundry partners.
   - name: Character design
     subcategories:
       - name: Latin
