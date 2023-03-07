@@ -159,7 +159,7 @@ categories:
           - name: TruFont
             url: http://trufont.github.io/
             description: A Mac-based FOSS font editor, written in Python. Now discontinued (2023).
-            abandoned: true
+            discontinued: true
   - name: Community
     items:
     subcategories:
@@ -940,7 +940,7 @@ categories:
             url: https://github.com/Pomax/lib-font
             description: A JavaScript library by Pomax for inspecting fonts. Supports a wide range of font formats.
           - name: opentype
-            abandoned: true
+            discontinued: true
             url: https://github.com/bramstein/opentype
             description: A JavaScript library by Bram Stein for parsing fonts.
           - name: OpenType.js
