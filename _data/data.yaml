@@ -804,6 +804,9 @@ categories:
           - name: Developers, IT, and tech people criticising font licenses
             description: Comments on HackerNews
             url: https://news.ycombinator.com/item?id=26441594
+          - name: A rant on web font licenses
+            description: Blog post by web developer Manuel Moreale. It's a good summary of how some web developers feel about web font licenses, but far more interesting is the [comments thread on HackerNews](https://news.ycombinator.com/item?id=35095393).
+            url: https://manuelmoreale.com/a-rant-on-web-font-licenses
       - name: "Innovative licensing: pricing based on company size"
         items:
           - name: ABC Dinamo
