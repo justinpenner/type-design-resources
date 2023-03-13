@@ -126,6 +126,14 @@ categories:
             data:
               - $49 USD
               - Windows
+          - name: Drop & Type
+            by: TypeProject
+            description: An application that generates Japanese or Latin fonts from Adobe Illustrator files.
+            url: https://typeproject.com/fonts/dropandtype
+            data:
+              - ¥4,000 JPY
+              - Mac
+              - Windows
       - name: Free and open source (FOSS) font editors
         items:
           - name: Birdfont
