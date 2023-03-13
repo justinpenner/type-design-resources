@@ -120,20 +120,18 @@ categories:
               - €400
               - Mac
           - name: TypeTool
-            by: FontLab
             description: A simpler font editor for beginners, from the makers of FontLab.
             url: https://www.fontlab.com/font-editor/typetool/
             data:
               - $49 USD
               - Windows
           - name: Drop & Type
-            by: TypeProject
             description: An application that generates Japanese or Latin fonts from Adobe Illustrator files.
             url: https://typeproject.com/fonts/dropandtype
             data:
               - ¥4,000 JPY
-              - Mac
               - Windows
+              - Mac
       - name: Free and open source (FOSS) font editors
         items:
           - name: Birdfont
