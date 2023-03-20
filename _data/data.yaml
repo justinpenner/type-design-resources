@@ -138,6 +138,11 @@ categories:
               - ¥4,000 JPY
               - Windows
               - Mac
+          - name: FontArk
+            description: A browser-based font editor that’s currently in open beta.
+            url: https://fontark.net/
+            data:
+              - Free (while in beta)
       - name: Free and open source (FOSS) font editors
         items:
           - name: Birdfont
@@ -175,6 +180,12 @@ categories:
             url: http://trufont.github.io/
             description: A Mac-based FOSS font editor, written in Python. Now discontinued (2023).
             discontinued: true
+          - name: Glyphr Studio
+            url: https://github.com/glyphr-studio/Glyphr-Studio-1
+            description: A browser-based FOSS font editor.
+            links:
+              - name: GitHub
+                url: https://github.com/glyphr-studio/Glyphr-Studio-1
   - name: Community
     items:
     subcategories:
