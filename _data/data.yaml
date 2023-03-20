@@ -55,6 +55,9 @@ categories:
           - name: Type Electives
             url: https://www.typeelectives.com/
             description: An online school with a range of type design and typography courses.
+          - name: Variable Font Course
+            url: https://www.variablefontcourse.com/
+            description: An on-demand video course by Arthur Reinders Folmer on creating variable fonts, and variable colour fonts.
       - name: Full-time programs
         items:
           - name: ANRT
