@@ -365,6 +365,32 @@ categories:
           - name: Diacritics resources Twitter thread 
             url: https://twitter.com/aleksamul/status/1057350288061984770
             description: by Aleksandra Samuļenkova, thread listing many resources concerning diacritics and special characters of the Latin script
+      - name: Italics & Obliques
+        items:
+          - name: Design an Italic Typeface
+            url: https://www.linkedin.com/learning/design-an-italic-typeface
+            description: On-demand course by Charles Nix for LinkedIn Learning. You might be able to access LinkedIn Learning for free via your local library.
+          - name: Designing italics
+            url: https://gaultney.org/jvgtype/italics/designing-italics/
+            description: A thesis stemming from a five-year study by Victor Gaultney.
+          - name: The essential italic
+            url: https://gaultney.org/jvgtype/italics/essential-italic/
+            description: A presentation at ATypI 2017 by Victor Gaultney.
+          - name: The italic design process
+            url: https://gaultney.org/jvgtype/italics/italic-design-process/
+            description: A presentation at ATypI 2020 by Victor Gaultney.
+          - name: Italics workflow
+            url: https://typedrawers.com/discussion/comment/18274
+            description: A discussion on TypeDrawers.
+          - name: Maintaining Contrast and Weight across Upright and Italics
+            url: https://typedrawers.com/discussion/comment/59107
+            description: A discussion on TypeDrawers.
+          - name: Why are italics lighter than their upright counterparts?
+            url: https://typedrawers.com/discussion/1106/why-are-italics-lighter-than-their-upright-counterparts
+            description: A discussion on TypeDrawers.
+          - name: Easy oblique
+            url: https://glyphsapp.com/learn/easy-oblique
+            description: Glyphs tutorial by Rainer Erich Scheichelbauer.
       - name: Math symbols
         items:
           - name: Fonts for Mathematics
