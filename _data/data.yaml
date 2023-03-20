@@ -35,6 +35,9 @@ categories:
           - name: Type@Cooper
             url: http://coopertype.org/workshops/
             description: presents a variety of workshops and other events
+          - name: Typographische Gesellschaft München
+            url: https://tgm-online.de/angebot/?type=tgm-angebot-Fortbildung
+            description: Typographic Society of Munich hosts a wide range of in-person workshops and courses on typography, including type design.
       - name: Courses
         items:
           - name: Tipo-g
@@ -206,11 +209,23 @@ categories:
           - name: Robothon
             url: https://twitter.com/robothonconf
             description: Triennial conference on font software & technology.
+          - name: Signs of the times
+            url: https://signs-of-the-times.net/
+            description: A two-day hybrid conference organized by Granshan, an organization that celebrates non-Latin typefaces and typography.
+            links:
+              - name: YouTube
+                url: https://www.youtube.com/@granshanconference7285
+          - name: Dynamic Font Day
+            url: https://dynamicfontday.com/
+            description: A conference on digital typography and technology, presented by [Typographische Gesellschaft München](https://tgm-online.de/) (Typographic Society of Munich).
       - name: Associations
         items:
           - name: ATypI
             url: https://www.atypi.org/
             description: A global organization representing type designers and foundries. Holds an annual conference, hosted in a different country each year in September.
+          - name: Granshan
+            url: https://www.granshan.com/
+            description: An organization that promotes and celebrates non-Latin type design and typography. Holds an annual or biannual type design competition, followed by a conference and exhibition.
           - name: SoTA
             url: https://www.typesociety.org/
             description: “An open community dedicated to supporting and advancing the typographic arts and design education.” Organizer of [TypeCon](https://www.typecon.com/).
