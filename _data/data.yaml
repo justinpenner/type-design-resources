@@ -178,8 +178,15 @@ categories:
             description: A FOSS font editor, also written in Rust. Currently unfinished and in development (2023).
           - name: TruFont
             url: http://trufont.github.io/
-            description: A Mac-based FOSS font editor, written in Python. Now discontinued (2023).
+            description: A cross-platform FOSS font editor, written in Python. Now discontinued (2023).
             discontinued: true
+            links:
+              - name: GitHub
+                url: https://github.com/trufont/trufont
+            data:
+              - Windows
+              - Mac
+              - Linux
           - name: Glyphr Studio
             url: https://github.com/glyphr-studio/Glyphr-Studio-1
             description: A browser-based FOSS font editor.
