@@ -681,10 +681,20 @@ categories:
             description: A modified version, by Mota Italic, of Pablo Impallari's Font Testing Page. See also the [Devanagari](https://www.motaitalic.com/tools/devanagari-font-tester/) and [Hebrew](https://www.motaitalic.com/tools/font-tester/hebrew/) versions.
           - name: The Font Testing Page
             url: http://www.cyreal.org/Font-Testing-Page/
-            description: by Pablo Impallari (currently down, but you can try mirrors by [Music Type Foundry](https://musictypefoundry.com/text-font-testing/), [Rosalie Wagner](http://www.rosaliewagner.com/font-testing/), [Girish Dalvi](http://www.idc.iitb.ac.in/~girish/test/), [Oketz](https://oketz.com/testing/), and [Snapbuilder](https://snapbuilder.com/tools/font_testing_page/))
+            description: by Pablo Impallari
             links: 
               - name: Github source
                 url: https://github.com/impallari/font-testing-page
+              - name: Mirror 1
+                url: https://musictypefoundry.com/text-font-testing/
+              - name: Mirror 2
+                url: http://www.rosaliewagner.com/font-testing/
+              - name: Mirror 3
+                url: http://www.idc.iitb.ac.in/~girish/test/
+              - name: Mirror 4
+                url: https://oketz.com/testing/
+              - name: Mirror 5
+                url: https://snapbuilder.com/tools/font_testing_page/
           - name: FontDrop
             url: https://fontdrop.info/
             description: by Viktor and Clemens Nübel
