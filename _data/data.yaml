@@ -226,7 +226,7 @@ categories:
             description: Annually in June at The Cooper Union in New York City. Typographics hosts in-person and streaming events, plus workshops, a book fair, and [TypeLab](https://typographics.com/typelab/), an informal, multi-day, global typographic hackathon.
           - name: TypeWknd
             url: https://typewknd.com/
-            description: an online-only type conference (annually in September)
+            description: An online-only type conference
           - name: Robothon
             url: https://twitter.com/robothonconf
             description: Triennial conference on font software & technology.
@@ -299,6 +299,11 @@ categories:
       - name: Streamers
         description: Watch a type designer!
         items:
+          - name: akimbo.black
+            url: https://www.twitch.tv/akimbodotblack
+            links:
+              - name: Twitch
+                url: https://www.twitch.tv/akimbodotblack
           - name: Alanna Munro
             url: https://www.twitch.tv/alannamun
             links:
@@ -318,6 +323,13 @@ categories:
                 url: https://www.twitch.tv/blazetype
               - name: YouTube
                 url: https://www.youtube.com/@blazetype
+          - name: Daniel Nisbet
+            url: https://www.twitch.tv/danielnisbet/
+            links:
+              - name: Twitch
+                url: https://www.twitch.tv/danielnisbet/
+              - name: YouTube
+                url: https://www.youtube.com/@danielnisbet
           - name: Eli Heuer
             url: https://www.twitch.tv/eli_gtl
             links:
@@ -325,6 +337,13 @@ categories:
                 url: https://www.twitch.tv/eli_gtl
               - name: YouTube
                 url: https://www.youtube.com/@EliHeuer
+          - name: SophiaTypeLove
+            url: https://www.twitch.tv/sophiatypelove/
+            links:
+              - name: Twitch
+                url: https://www.twitch.tv/sophiatypelove/
+              - name: YouTube
+                url: https://www.youtube.com/@SophiaTypeLove
           - name: Stephen Nixon (Arrow Type)
             url: https://www.twitch.tv/arrowtype
             links:
@@ -332,6 +351,11 @@ categories:
                 url: https://www.twitch.tv/arrowtype
               - name: YouTube
                 url: https://www.youtube.com/arrowtype
+          - name: typedesign_bk
+            url: https://www.twitch.tv/typedesign_bk
+            links:
+              - name: Twitch
+                url: https://www.twitch.tv/typedesign_bk
           - name: Adobe Fonts Livestreams
             url: https://www.behance.net/adobefonts/livestreams
             description: Discussing type with Adobe’s foundry partners.
