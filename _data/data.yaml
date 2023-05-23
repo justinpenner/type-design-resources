@@ -17,6 +17,18 @@ categories:
             description: blog series by Ohno Type Co
       - name: Books
         items:
+          - name: How to design fonts?
+            url: https://learntype.eu/
+            description: A 140-page PDF and print-on-demand book by Blaze Type Foundry.
+          - name: "Designing Fonts: An Introduction to Professional Type Design"
+            url: https://thamesandhudson.com/designing-fonts-an-introduction-to-professional-type-design-9780500241554
+            description: by Chris Campe and Ulrike Rausch. A [German edition](https://typografie.de/produkt/making-fonts/) is also available.
+          - name: Designing Type
+            url: https://yalebooks.yale.edu/book/9780300249927/designing-type/
+            description: by Karen Cheng.
+          - name: "How to create typefaces: From sketch to screen"
+            url: https://www.tipo-e.com/publicaciones/how-to-create-typefaces.html
+            description: by Cristóbal Henestrosa, Laura Meseguer, José Scaglione. Also available in a [Spanish edition](http://tipo-e.com/publicaciones/como-crear-tipografias.html).
           - name: Recommended Type Design and Typography Books
             url: https://typedrawers.com/discussion/1275/recommended-type-design-and-typography-books/p1
             description: discussion on TypeDrawers
@@ -35,6 +47,9 @@ categories:
           - name: Type@Cooper
             url: http://coopertype.org/workshops/
             description: presents a variety of workshops and other events
+          - name: Type Design Class
+            url: https://www.typedesignclass.com/workshops
+            description: Online workshops by Viktor Baltus for learning type design and typography.
           - name: Typographische Gesellschaft München
             url: https://tgm-online.de/angebot/?type=tgm-angebot-Fortbildung
             description: Typographic Society of Munich hosts a wide range of in-person workshops and courses on typography, including type design.
@@ -44,8 +59,8 @@ categories:
             url: https://tipo-g.com/
             description: A type design school in Barcelona, Spain. Currently teaching a 21-week part-time program with an emphasis on variable fonts.
           - name: Type Design Class
-            url: https://www.typedesignclass.com/
-            description: by Viktor Baltus and Ulrike Rausch
+            url: https://www.typedesignclass.com/classes
+            description: Self-guided courses by Viktor Baltus for learning type design and typography.
           - name: Type Design School
             url: https://typedesignschool.com/
             description: by Lynne Yun
@@ -239,6 +254,21 @@ categories:
           - name: Dynamic Font Day
             url: https://dynamicfontday.com/
             description: A conference on digital typography and technology, presented by [Typographische Gesellschaft München](https://tgm-online.de/) (Typographic Society of Munich).
+      - name: Events & Lectures
+        description: "Events that occur regularly (except [Conferences](#conferences)), or organizations that host regular events on type design and typography."
+        items:
+          - name: Future Fonts HyperTalks
+            url: https://www.futurefonts.xyz/blog/243-announcing-hypertalks
+            description: A new online event series, featuring lightning talks from designers, which may or may not be related to fonts.
+            links:
+              - name: YouTube
+                url: https://www.youtube.com/watch?v=0gqD-rxqD_8
+          - name: Letterform Archive
+            url: https://letterformarchive.org/events/
+            description: Letterform Archive in San Francisco hosts many lectures and events, both online and in-person.
+          - name: St. Bride Foundation
+            url: https://letterformarchive.org/events/
+            description: St. Bride Foundation in London hosts many lectures and events on printing, design, and typography.
       - name: Associations
         items:
           - name: ATypI
@@ -296,6 +326,14 @@ categories:
           - name: TYPE01
             url: https://type-01.com/
             description: News and articles from the world of type design. Online and print.
+      - name: Blogs
+        description: Type foundry and type designer blogs, or blogs that frequently feature articles on type design.
+        items:
+          - name: "Type Design School: Resources"
+            url: https://www.typedesignclass.com/resources
+            description: A series of articles and tutorials by Viktor Baltus on type design.
+          - name: Blaze Type Blog
+            url: https://blazetype.eu/blog
       - name: Streamers
         description: Watch a type designer!
         items:
@@ -481,7 +519,7 @@ categories:
         url: https://adobe-type-tools.github.io/afdko/OpenTypeFeatureFileSpecification.html
         description: Technical specification for the OpenType programming language.
   - name: Language support
-    description: Determining the true language support of a font is a complex problem that hasn't really been solved. Most of these tools will simply report which languages a font *seems* to support, based solely on its character set.
+    description: "Determining the true language support of a font is a complex problem that hasn't really been solved (update: see Shaperglot below). Most of these tools will simply report which languages a font *seems* to support, based solely on its character set."
     items:
       - name: CharSet Checker
         url: https://www.alphabet-type.com/tools/charset-checker/
@@ -496,6 +534,9 @@ categories:
             url: https://hyperglot.rosettatype.com/
           - name: Github repo
             url: https://github.com/rosettatype/hyperglot
+      - name: Shaperglot
+        url: https://github.com/googlefonts/shaperglot
+        description: A Python library by Simon Cozens for testing a font's language support. Notably the only tool in this category that checks the behaviour of a font's OpenType features in order to confirm support for languages that require the use of OpenType features.
       - name: Pyfontaine
         url: https://github.com/googlefonts/pyfontaine
         description: by Google Fonts
@@ -661,8 +702,10 @@ categories:
           - name: Twitter threads
             description: 
             links:
-              # - name: 2023
-              #   url: https://twitter.com/keyavadgama/status/1625959288643657730
+              - name: 2023
+                url: https://twitter.com/kaja_slojewska/status/1659265175038435343
+              - name: 2023
+                url: https://twitter.com/keyavadgama/status/1625959288643657730
               - name: 2022
                 url: https://twitter.com/tulseytype/status/1533931491511656448
               - name: 2021
@@ -1043,6 +1086,9 @@ categories:
             description: by Lasse Fister
       - name: Font tools for web development
         items:
+          - name: FontFreeze
+            url: https://github.com/MuTsunTsai/fontfreeze
+            description: A JavaScript tool by Mu-Tsun Tsai for freezing OpenType features into a font file. Runs entirely in the user's browser without uploading font files to a server. This is accomplished by running fontTools in the user's browser via Pyodide, a Python distribution built in WebAssembly.
           - name: fontkit
             url: https://github.com/foliojs/fontkit
             description: A JavaScript library by Devon Govett for parsing fonts. Supports a wide range of font formats and OpenType features. Does not support variable fonts.
