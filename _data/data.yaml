@@ -329,7 +329,7 @@ categories:
       - name: Blogs
         description: Type foundry and type designer blogs, or blogs that frequently feature articles on type design.
         items:
-          - name: "Type Design School: Resources"
+          - name: "Type Design Class: Resources"
             url: https://www.typedesignclass.com/resources
             description: A series of articles and tutorials by Viktor Baltus on type design.
           - name: Blaze Type Blog
