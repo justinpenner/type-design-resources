@@ -3,6 +3,9 @@ categories:
     subcategories:
       - name: Beginners guides to type design
         items:
+          - name: Type Design School
+            url: https://typedesignschool.com
+            description: Video guide by Lynne Yun
           - name: Design with FontForge
             url: http://designwithfontforge.com/en-US/index.html
             description: This is a fantastic introduction to type design, regardless of what software you use.
@@ -61,9 +64,6 @@ categories:
           - name: Type Design Class
             url: https://www.typedesignclass.com/classes
             description: Self-guided courses by Viktor Baltus for learning type design and typography.
-          - name: Type Design School
-            url: https://typedesignschool.com/
-            description: by Lynne Yun
           - name: Practica Program
             url: https://practicaprogram.com/
             description: A two-part, 6 week + 18 week part-time program for learning type design.
