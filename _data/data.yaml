@@ -73,6 +73,9 @@ categories:
           - name: Variable Font Course
             url: https://www.variablefontcourse.com/
             description: An on-demand video course by Arthur Reinders Folmer on creating variable fonts, and variable colour fonts.
+          - name: I Love Typography Academy
+            url: https://ilovetypography.com/academy/
+            description: ILT academy exists to promote expert teaching of type design, font production, and typography. Courses cover various script systems and are taught in a number of languages.
       - name: Full-time programs
         items:
           - name: ANRT
@@ -235,7 +238,7 @@ categories:
             description: A global type conference, hosted in a different country each year in September.
           - name: TypeCon
             url: https://www.typecon.com/
-            description: annual conference presented by [S{o}TA](https://www.typesociety.org/)
+            description: Annual conference presented by [S{o}TA](https://www.typesociety.org/). Hosted in-person in Portland, Oregon.
           - name: Typographics
             url: https://typographics.com/
             description: Annually in June at The Cooper Union in New York City. Typographics hosts in-person and streaming events, plus workshops, a book fair, and [TypeLab](https://typographics.com/typelab/), an informal, multi-day, global typographic hackathon.
@@ -244,7 +247,7 @@ categories:
             description: An online-only type conference
           - name: Robothon
             url: https://twitter.com/robothonconf
-            description: Triennial conference on font software & technology.
+            description: Triennial conference on font software & technology. Hosted in-person in The Hague, Netherlands.
           - name: Signs of the times
             url: https://signs-of-the-times.net/
             description: A two-day hybrid conference organized by Granshan, an organization that celebrates non-Latin typefaces and typography.
@@ -254,6 +257,19 @@ categories:
           - name: Dynamic Font Day
             url: https://dynamicfontday.com/
             description: A conference on digital typography and technology, presented by [Typographische Gesellschaft München](https://tgm-online.de/) (Typographic Society of Munich).
+          - name: Inscript
+            url: https://inscript.tf/
+            description: A five-day online conference showcasing presentations at the overlap of typography and technology.
+          - name: Fontstand Conference
+            url: https://fontstand.com/conference/
+            description: Annual typography conference organized by Fontstand, the typeface discovery and rental app.
+          - name: Kerning
+            url: https://kerning.it/
+            description: Kerning is the first international conference in Italy dedicated solely to typography and web typography. Last event was in 2019, but the [organizers are keen to host future events](https://twitter.com/ssstofff/status/1547939771623755778) if sponsors come forward.
+            discontinued: true
+          - name: Multilingüe
+            url: https://www.typedrivesculture.com/
+            description: Online conference on writing and typography for native languages from Latin America. Hosted by the Type Directors Club.
       - name: Events & Lectures
         description: "Events that occur regularly (except [Conferences](#conferences)), or organizations that host regular events on type design and typography."
         items:
@@ -269,6 +285,12 @@ categories:
           - name: St. Bride Foundation
             url: https://letterformarchive.org/events/
             description: St. Bride Foundation in London hosts many lectures and events on printing, design, and typography.
+          - name: Type Electives
+            url: https://www.typeelectives.com/events
+            description: Type Electives hosts lectures and events that go beyond traditional type design topics.
+            links:
+              - name: YouTube
+                url: https://www.youtube.com/@typeelectives
       - name: Associations
         items:
           - name: ATypI
