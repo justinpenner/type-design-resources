@@ -25,7 +25,7 @@ fi
 
 # Start Jekyll!
 if [[ "$localip" != "" ]]; then
-	jekyll serve --livereload --open-url --host ${localip}
+	bundle exec jekyll serve --livereload --open-url --host ${localip}
 else
-	jekyll serve --livereload --open-url
+	bundle exec jekyll serve --livereload --open-url
 fi
