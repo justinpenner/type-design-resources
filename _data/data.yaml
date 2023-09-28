@@ -15,6 +15,9 @@ categories:
           - name: Glyphs Tutorials
             url: https://glyphsapp.com/learn
             description: most tutorials here would be useful to non-Glyphs users too!
+          - name: GT Academy
+            url: https://www.instagram.com/grillitype
+            description: Series of Instagram posts how to construct certain Glyphs. 
           - name: Ohno Type School
             url: https://ohnotype.co/blog/tagged/teaching
             description: blog series by Ohno Type Co
@@ -32,6 +35,9 @@ categories:
           - name: "How to create typefaces: From sketch to screen"
             url: https://www.tipo-e.com/publicaciones/how-to-create-typefaces.html
             description: by Cristóbal Henestrosa, Laura Meseguer, José Scaglione. Also available in a [Spanish edition](http://tipo-e.com/publicaciones/como-crear-tipografias.html).
+          - name: "Italic: What gives Typography its emphasis"
+            url: https://www.niggli.ch/en/produkt/italic/
+            description: by Hendrik Weber.
           - name: Recommended Type Design and Typography Books
             url: https://typedrawers.com/discussion/1275/recommended-type-design-and-typography-books/p1
             description: discussion on TypeDrawers
@@ -270,6 +276,12 @@ categories:
           - name: Multilingüe
             url: https://www.typedrivesculture.com/
             description: Online conference on writing and typography for native languages from Latin America. Hosted by the Type Directors Club.
+          - name: Future of Reading
+            url: https://fure-website.webflow.io
+            description: Conference about the future of reading and typography. Hosted by FH Münster, Germany.
+          - name: Leipziger Typotage
+            url: https://typotage.de
+            description: The Leipziger Typotage is an annual event on type design and typography organised by the Gesellschaft zur Förderung der Druckkunst Leipzig e.V. since 1995 hosted at [Museum für Druckkunst Leipzig](https://www.druckkunst-museum.de/en/home.html), Germany.
       - name: Events & Lectures
         description: "Events that occur regularly (except [Conferences](#conferences)), or organizations that host regular events on type design and typography."
         items:
