@@ -82,6 +82,9 @@ categories:
           - name: I Love Typography Academy
             url: https://ilovetypography.com/academy/
             description: ILT academy exists to promote expert teaching of type design, font production, and typography. Courses cover various script systems and are taught in a number of languages.
+          - name: TypeParis
+            url: https://typeparis.com/
+            description: A 6-week intensive type design programme held each summer in Paris (in English).
       - name: Full-time programs
         items:
           - name: ANRT
@@ -282,6 +285,12 @@ categories:
           - name: Leipziger Typotage
             url: https://typotage.de
             description: The Leipziger Typotage is an annual event on type design and typography organised by the Gesellschaft zur Förderung der Druckkunst Leipzig e.V. since 1995 hosted at [Museum für Druckkunst Leipzig](https://www.druckkunst-museum.de/), Germany.
+          - name: Now24
+            url: https://typeparis.com/now24
+            description: A one-day conference (in English) held in Paris each year by TypeParis.
+            links:
+              - name: Now23
+                url: https://typeparis.com/now23
       - name: Events & Lectures
         description: "Events that occur regularly (except [Conferences](#conferences)), or organizations that host regular events on type design and typography."
         items:
