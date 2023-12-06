@@ -21,6 +21,9 @@ categories:
           - name: Ohno Type School
             url: https://ohnotype.co/blog/tagged/teaching
             description: blog series by Ohno Type Co
+          - name: Ohno Essential Robofont
+            url: https://school.ohnotype.co/p/essential-robofont
+            description: Video class introduction to the classic editor
       - name: Books
         items:
           - name: How to design fonts?
