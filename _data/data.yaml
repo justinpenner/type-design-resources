@@ -18,10 +18,10 @@ categories:
           - name: GT Academy
             url: https://www.instagram.com/grillitype
             description: Ongoing series of Instagram posts on how to construct certain glyphs. 
-          - name: Ohno Type School
+          - name: Ohno Type School Articles
             url: https://ohnotype.co/blog/tagged/teaching
-            description: blog series by Ohno Type Co
-          - name: Ohno Essential Robofont
+            description: Series of articles teaching the basics of type design.
+          - name: Ohno Essential RoboFont
             url: https://school.ohnotype.co/p/essential-robofont
             description: Video class introduction to the classic editor
       - name: Books
@@ -88,6 +88,9 @@ categories:
           - name: TypeParis
             url: https://typeparis.com/
             description: A 6-week intensive type design programme held each summer in Paris (in English).
+          - name: Ohno Type School Courses
+            url: https://school.ohnotype.co/
+            description: A series of free courses for RoboFont users.
       - name: Full-time programs
         items:
           - name: ANRT
