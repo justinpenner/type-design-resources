@@ -839,9 +839,9 @@ categories:
           - name: Waterfall
             url: https://workshop.mass-driver.com/waterfall
             description: A tool by Mass-Driver that generates words of equal length after you drop in a font. Great for proofing in early stages of a font, when you're still seeing how the forms interact with each other.
-          - name: SStack & Justify
+          - name: Stack & Justify
             url: https://max-esnee.com/stack-and-justify/
-            description: Stack & Justify is a tool to help create type specimens by finding words or phrases of the same width. Inspired by Mass Driver’s Waterfall.
+            description: Stack & Justify is a tool to help create type specimens by finding words or phrases of the same width. Inspired by Mass-Driver’s Waterfall tool.
       - name: Proofing texts
         items:
           - name: adhesiontext
