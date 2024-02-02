@@ -876,6 +876,21 @@ categories:
           - name: "Font Engineering: Defining a Profession"
             url: https://www.youtube.com/watch?v=5aIYHYX4Dvc
             description: A presentation by Rosalie Wagner for ATypI 2022 Tech Talks
+          - name: Font Engineering resources needed
+            url: https://typedrawers.com/discussion/4027/font-engineering-resources-needed
+            description: Discussion on TypeDrawers
+          - name: Fonts and Layout for Global Scripts
+            url: https://simoncozens.github.io/fonts-and-layout/
+            description: A free book about font design, Unicode and the computer processing of complex text, by Simon Cozens.
+          - name: The Raster Tragedy at Low-Resolution Revisited
+            url: http://rastertragedy.com/
+            description: An essay on the problems of rendering text on-screen, with a focus on hinting. Updated several times since it was originally presented in 1997, this essay is considered required reading by many accomplished type designers.
+          - name: Make Your Fonts Work in…
+            url: https://www.youtube.com/watch?v=wmT4LfcIP5Q
+            description: A presentation on font engineering by Rainer Erich Scheichelbauer of Glyphs, at ATypI Tech Talks 2022.
+          - name: Font Engineering
+            url: https://www.alphabet-type.com/fontengineering/
+            description: An overview of Alphabet Type's font engineering workflow, including links to more resources on each topic.
       - name: Tools for font engineering
         items:
           - name: Fontbakery
