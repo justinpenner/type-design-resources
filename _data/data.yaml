@@ -856,6 +856,39 @@ categories:
           - name: Vietnamese and Pinyin proofing text
             url: https://typedrawers.com/discussion/1952/vietnamese-and-pinyin-proofing-text
             description: discussion on TypeDrawers
+  - name: Font engineering
+    description: "Font engineering is the technical side of making font files that work as intended on a wide range of systems."
+    subcategories:
+      - name: What is font engineering?
+        items:
+          - name: Font engineering and the importance of what you can't see.
+            url: https://www.monotype.com/resources/expertise/font-engineering-explained
+            description: by Tom Rickner
+          - name: Font Engineering with Rainer Erich Scheichelbauer
+            url: https://ilovetypography.com/academy/font-engineering/
+            description: A course from ILT Academy that will introduce you to font engineering.
+          - name: Practical Font Engineering with Elí Castellanos
+            url: https://tipastype.com/font-engineering/
+            description: A course from Tipastype
+          - name: "Font Engineering: Defining a Profession"
+            url: https://www.youtube.com/watch?v=5aIYHYX4Dvc
+            description: A presentation by Rosalie Wagner for ATypI 2022 Tech Talks
+      - name: Tools for font engineering
+        items:
+          - name: Fontbakery
+            url: https://github.com/fonttools/fontbakery
+            description: A quality-assurance tool for fonts, developed by Google but used by many foundries. Primarily a command-line tool, a web interface was recently added.
+            links:
+              - name: Github source
+                url: https://github.com/fonttools/fontbakery
+              - name: Web interface
+                url: http://fontbakery.com/
+          - name: Font engineering tools
+            url: https://github.com/simoncozens/font-engineering
+            description: A collection of font engineering utilities by Simon Cozens
+          - name: Microsoft Typography Docs
+            url: https://learn.microsoft.com/en-us/typography/
+            description: A collection of resources for font engineering, including the OpenType specification, and various other articles and tools.
   - name: Type specimens
     description: "Type specimens are the original marketing tool for type foundries, going back hundreds of years. Today, many type foundries still design a PDF specimen (and sometimes printed copies) for each typeface release, to complement the web specimen.\n\nSee also: [Web specimen tools](#web-specimen-tools)"
     items:
