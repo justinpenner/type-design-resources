@@ -907,6 +907,15 @@ categories:
           - name: Microsoft Typography Docs
             url: https://learn.microsoft.com/en-us/typography/
             description: A collection of resources for font engineering, including the OpenType specification, and various other articles and tools.
+          - name: fontTools (& ttx)
+            url: https://github.com/fonttools/fonttools
+            description: An indispensible toolkit for editing fonts via Python. Also includes ttx, a command line tool that quickly converts binary font files to human-readable XML, which can also be edited and converted back to binary.
+          - name: FontTableViewer
+            url: https://glyphsapp.com/tools/fonttableviewer
+            description: A simple app to view and compare the OpenType tables inside of your font files.
+          - name: DTL OTMaster
+            url: https://www.fontmaster.nl/otmaster.html
+            description: A dedicated app for font engineering that allows you to perform a wide range of proof tests, QA checks, and edits to your font files.
   - name: Type specimens
     description: "Type specimens are the original marketing tool for type foundries, going back hundreds of years. Today, many type foundries still design a PDF specimen (and sometimes printed copies) for each typeface release, to complement the web specimen.\n\nSee also: [Web specimen tools](#web-specimen-tools)"
     items:
