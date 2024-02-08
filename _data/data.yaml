@@ -594,7 +594,7 @@ categories:
         url: https://fontdrop.info/
       - name: Hyperglot
         url: https://hyperglot.rosettatype.com/
-        description: by Rosetta Type. This is by far the most well-researched tool for checking language support. Hyperglot is available as a command line tool and a web interface.
+        description: by Rosetta Type. This is by far the most well-researched tool for checking language support. Hyperglot is available as a command line tool and a web interface. Similarly to Shaperglot, the command-line tool checks OpenType support.
         links:
           - name: Web interface
             url: https://hyperglot.rosettatype.com/
