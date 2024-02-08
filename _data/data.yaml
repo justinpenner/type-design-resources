@@ -41,6 +41,14 @@ categories:
           - name: "Italic: What gives Typography its emphasis"
             url: https://www.niggli.ch/en/produkt/italic/
             description: by Hendrik Weber. Also available in [German](https://www.niggli.ch/en/produkt/kursiv/).
+          - name:  "Legibility: How and why typography affects ease of reading"
+            url: https://legible-typography.com/
+            description: by Mary Dyson. Available online for free in English and Spanish.
+            links:
+            - name: English version
+              url: https://legible-typography.com/en/
+            - name: Spanish version
+              url: https://legible-typography.com/es/
           - name: Recommended Type Design and Typography Books
             url: https://typedrawers.com/discussion/1275/recommended-type-design-and-typography-books/p1
             description: discussion on TypeDrawers
@@ -375,6 +383,12 @@ categories:
           - name: TYPE01
             url: https://type-01.com/
             description: News and articles from the world of type design. Online and print.
+          - name: Design Regression
+            url: https://designregression.com
+            description: an academic mini journal publishing texts that are about design for reading and reading-related research
+          - name: Typography papers
+            url: https://typography.network/typographypapers/
+            description: an academic journal published by the Department of Typography & Graphic Communication, University of Reading and the Hyphen Press. Free PDFs available.
       - name: Blogs
         description: Type foundry and type designer blogs, or blogs that frequently feature articles on type design.
         items:
