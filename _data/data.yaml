@@ -43,7 +43,7 @@ categories:
             description: by Hendrik Weber. Also available in [German](https://www.niggli.ch/en/produkt/kursiv/).
           - name:  "Legibility: How and why typography affects ease of reading"
             url: https://legible-typography.com/
-            description: by Mary Dyson. Available online for free in English and Spanish.
+            description: Book by Mary Dyson. Available online for free in English and Spanish.
             links:
             - name: English version
               url: https://legible-typography.com/en/
@@ -385,10 +385,10 @@ categories:
             description: News and articles from the world of type design. Online and print.
           - name: Design Regression
             url: https://designregression.com
-            description: an academic mini journal publishing texts that are about design for reading and reading-related research
+            description: An academic mini journal publishing texts that are about design for reading and reading-related research
           - name: Typography papers
             url: https://typography.network/typographypapers/
-            description: an academic journal published by the Department of Typography & Graphic Communication, University of Reading and the Hyphen Press. Free PDFs available.
+            description: An academic journal published by the Department of Typography & Graphic Communication, University of Reading and the Hyphen Press. Free PDFs available.
       - name: Blogs
         description: Type foundry and type designer blogs, or blogs that frequently feature articles on type design.
         items:
@@ -523,9 +523,9 @@ categories:
           - name: The Insects Project
             url: http://theinsectsproject.eu/
             description: Central European diacritics
-          - name: On diacristics
+          - name: On diacritics
             url: https://ilovetypography.com/2009/01/24/on-diacritics/
-            description: a general introduction to the design of diacritics by David Březina
+            description: A general introduction to the design of diacritics by David Březina
           - name: Diacritics resources Twitter thread 
             url: https://twitter.com/aleksamul/status/1057350288061984770
             description: by Aleksandra Samuļenkova, thread listing many resources concerning diacritics and special characters of the Latin script
@@ -585,7 +585,7 @@ categories:
         url: https://adobe-type-tools.github.io/afdko/OpenTypeFeatureFileSpecification.html
         description: Technical specification for the OpenType programming language.
   - name: Language support
-    description: "Determining the true language support of a font is a complex problem that hasn't really been solved (update: see Shaperglot below). Most of these tools will simply report which languages a font *seems* to support, based solely on its character set."
+    description: "Determining the true language support of a font is a complex problem that has not yet been completely solved. Most of these tools will simply report which languages a font *seems* to support, based solely on its character set, but some tools like Hyperglot and Shaperglot will also check OpenType features for some languages that require the use of them."
     items:
       - name: CharSet Checker
         url: https://www.alphabet-type.com/tools/charset-checker/
@@ -594,7 +594,7 @@ categories:
         url: https://fontdrop.info/
       - name: Hyperglot
         url: https://hyperglot.rosettatype.com/
-        description: by Rosetta Type. This is by far the most well-researched tool for checking language support. Hyperglot is available as a command line tool and a web interface. Similarly to Shaperglot, the command-line tool checks OpenType support.
+        description: by Rosetta Type. This is by far the most well-researched tool for checking language support. Hyperglot is available as a command line tool and a web interface. The command-line tool also checks OpenType support for some languages that require the use of OpenType features.
         links:
           - name: Web interface
             url: https://hyperglot.rosettatype.com/
@@ -602,7 +602,7 @@ categories:
             url: https://github.com/rosettatype/hyperglot
       - name: Shaperglot
         url: https://github.com/googlefonts/shaperglot
-        description: A Python library by Simon Cozens for testing a font's language support. Notably the only tool in this category that checks the behaviour of a font's OpenType features in order to confirm support for languages that require the use of OpenType features.
+        description: A Python library by Simon Cozens for testing a font's language support. It also checks the behaviour of a font's OpenType features in order to confirm support for languages that require the use of OpenType features.
       - name: Pyfontaine
         url: https://github.com/googlefonts/pyfontaine
         description: by Google Fonts
