@@ -466,6 +466,57 @@ categories:
         items:
           - name: Microsoft Character Design Standards
             url: https://docs.microsoft.com/en-us/typography/develop/character-design-standards/
+            description: Guidelines and best practises for drawing the Latin alphabet, as well as figures, diacritics, punctuation and symbols.
+          - name: How to draw a Capital Sharp S
+            url: https://typography.guru/journal/how-to-draw-a-capital-sharp-s-r18/
+            description: A guide to drawing the German capital eszett (ẞ) by Ralf Herrmann.
+          - name: How to Draw a Proper Capital Eszett
+            url: http://cinga.ch/eszett/
+            description: A guide to drawing the German capital eszett (ẞ) by Christian Thalmann.
+          - name: Vietnamese Typography
+            url: https://vietnamesetypography.com/
+            description: by Donny Trương, comprehensive resource typographic features and diacritics in Vietnamese
+          - name: diacritics.typo.cz
+            url: http://diacritics.typo.cz/
+            description: by Filip Blažek
+          - name: The Insects Project
+            url: http://theinsectsproject.eu/
+            description: Central European diacritics
+          - name: On diacritics
+            url: https://ilovetypography.com/2009/01/24/on-diacritics/
+            description: A general introduction to the design of diacritics by David Březina
+          - name: Diacritics resources Twitter thread 
+            url: https://twitter.com/aleksamul/status/1057350288061984770
+            description: by Aleksandra Samuļenkova, thread listing many resources concerning diacritics and special characters of the Latin script
+          - name: Context of Diacritics
+            url: https://www.setuptype.com/x/cod/
+            description: An analysis of languages that use Latin diacritics and the frequencies of letters and letter pairs with diacritics.
+      - name: Italics & Obliques
+        items:
+          - name: Design an Italic Typeface
+            url: https://www.linkedin.com/learning/design-an-italic-typeface
+            description: On-demand course by Charles Nix for LinkedIn Learning. You might be able to access LinkedIn Learning for free via your local library.
+          - name: Designing italics
+            url: https://gaultney.org/jvgtype/italics/designing-italics/
+            description: A thesis stemming from a five-year study by Victor Gaultney.
+          - name: The essential italic
+            url: https://gaultney.org/jvgtype/italics/essential-italic/
+            description: A presentation at ATypI 2017 by Victor Gaultney.
+          - name: The italic design process
+            url: https://gaultney.org/jvgtype/italics/italic-design-process/
+            description: A presentation at ATypI 2020 by Victor Gaultney.
+          - name: Italics workflow
+            url: https://typedrawers.com/discussion/comment/18274
+            description: A discussion on TypeDrawers.
+          - name: Maintaining Contrast and Weight across Upright and Italics
+            url: https://typedrawers.com/discussion/comment/59107
+            description: A discussion on TypeDrawers.
+          - name: Why are italics lighter than their upright counterparts?
+            url: https://typedrawers.com/discussion/1106/why-are-italics-lighter-than-their-upright-counterparts
+            description: A discussion on TypeDrawers.
+          - name: Easy oblique
+            url: https://glyphsapp.com/learn/easy-oblique
+            description: Glyphs tutorial by Rainer Erich Scheichelbauer.
       - name: Cyrillic
         items:
           - name: Cyrillic script variations and the importance of localisation
@@ -510,51 +561,6 @@ categories:
           - name: Lava Syllabics type specimen [PDF]
             url: https://www.typotheque.com/fonts/lava/syllabics/getpdf
             description: A well-researched and invaluable look at the process behind designing a Canadian Syllabics typeface, which includes many special features to support a wide range of local preferences for languages that use this script.
-      - name: Vietnamese
-        items:
-          - name: Vietnamese Typography
-            url: https://vietnamesetypography.com/
-            description: by Donny Trương, comprehensive resource typographic features and diacritics in Vietnamese
-      - name: Diacritics
-        items:
-          - name: diacritics.typo.cz
-            url: http://diacritics.typo.cz/
-            description: by Filip Blažek
-          - name: The Insects Project
-            url: http://theinsectsproject.eu/
-            description: Central European diacritics
-          - name: On diacritics
-            url: https://ilovetypography.com/2009/01/24/on-diacritics/
-            description: A general introduction to the design of diacritics by David Březina
-          - name: Diacritics resources Twitter thread 
-            url: https://twitter.com/aleksamul/status/1057350288061984770
-            description: by Aleksandra Samuļenkova, thread listing many resources concerning diacritics and special characters of the Latin script
-      - name: Italics & Obliques
-        items:
-          - name: Design an Italic Typeface
-            url: https://www.linkedin.com/learning/design-an-italic-typeface
-            description: On-demand course by Charles Nix for LinkedIn Learning. You might be able to access LinkedIn Learning for free via your local library.
-          - name: Designing italics
-            url: https://gaultney.org/jvgtype/italics/designing-italics/
-            description: A thesis stemming from a five-year study by Victor Gaultney.
-          - name: The essential italic
-            url: https://gaultney.org/jvgtype/italics/essential-italic/
-            description: A presentation at ATypI 2017 by Victor Gaultney.
-          - name: The italic design process
-            url: https://gaultney.org/jvgtype/italics/italic-design-process/
-            description: A presentation at ATypI 2020 by Victor Gaultney.
-          - name: Italics workflow
-            url: https://typedrawers.com/discussion/comment/18274
-            description: A discussion on TypeDrawers.
-          - name: Maintaining Contrast and Weight across Upright and Italics
-            url: https://typedrawers.com/discussion/comment/59107
-            description: A discussion on TypeDrawers.
-          - name: Why are italics lighter than their upright counterparts?
-            url: https://typedrawers.com/discussion/1106/why-are-italics-lighter-than-their-upright-counterparts
-            description: A discussion on TypeDrawers.
-          - name: Easy oblique
-            url: https://glyphsapp.com/learn/easy-oblique
-            description: Glyphs tutorial by Rainer Erich Scheichelbauer.
       - name: Math symbols
         items:
           - name: Fonts for Mathematics
@@ -619,6 +625,9 @@ categories:
         url: https://github.com/googlefonts/glyphsets
       - name: Koeberlin Latin Character Sets
         url: https://github.com/koeberlin/Latin-Character-Sets
+      - name: Underware Latin Plus
+        url: https://underware.nl/latin_plus/info
+        description: Latin character set by Underware that offers decent language support with a relatively small character set.
   - name: Encoding borders and ornaments
     items:
       - name: "'ornm' feature"
@@ -876,6 +885,9 @@ categories:
           - name: Vietnamese and Pinyin proofing text
             url: https://typedrawers.com/discussion/1952/vietnamese-and-pinyin-proofing-text
             description: discussion on TypeDrawers
+          - name: Wordtips Word Finder
+            url: https://word.tips/
+            description: Handy tool for finding words that contain certain letter combinations, to help you build proofing texts for kerning and ligatures.
   - name: Font engineering
     description: "Font engineering is the technical side of making font files that work as intended on a wide range of systems."
     subcategories:
