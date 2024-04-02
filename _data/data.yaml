@@ -234,6 +234,9 @@ categories:
             links:
               - name: GitHub
                 url: https://github.com/glyphr-studio/Glyphr-Studio-1
+          - name: Typlr.app
+            url: https://typlr.app/
+            description: A browser-based font editor by Evgeny Agasyants, currently in open beta.
   - name: Community
     items:
     subcategories:
