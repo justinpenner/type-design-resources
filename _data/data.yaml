@@ -208,6 +208,9 @@ categories:
             links:
               - name: GitHub
                 url: https://github.com/googlefonts/fontra
+          - name: FontStruct
+            url: https://fontstruct.com/
+            description: FontStruct lets you quickly and easily create modular fonts constructed out of geometrical shapes, which are arranged in a grid pattern, like tiles or bricks.
           - name: Gerb
             url: https://github.com/epilys/gerb
             description: A FOSS font editor written in Rust. Currently unfinished and in development (2023).
