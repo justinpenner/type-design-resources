@@ -777,6 +777,9 @@ categories:
           - name: Font Proofer
             url: https://fontproofer.com/
             description: A commercial app for proofing fonts, by Peter Nowell. Integrates with Glyphs and RoboFont, allowing you to re-generate proofs anytime with a single click.
+          - name: drawBotProofing
+            url: https://github.com/adobe-type-tools/drawBotProofing
+            description: A set of scripts for generating PDF proofs from a fonts or UFOs, by Frank Grießhammer.
       - name: Printer recommendations
         description: Discussions by type designers on printers they use for proofing type.
         items:
