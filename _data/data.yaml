@@ -951,6 +951,9 @@ categories:
           - name: DTL OTMaster
             url: https://www.fontmaster.nl/otmaster.html
             description: A dedicated app for font engineering that allows you to perform a wide range of proof tests, QA checks, and edits to your font files.
+          - name: VerticalMetricsTools
+            url: https://github.com/mathieureguer/VerticalMetricsTools
+            description: Managing vertical metrics is one of the most common font engineering problems. This set of Python tools includes a command line tool which generates a PDF to preview the vertical metrics of a font.
   - name: Type specimens
     description: "Type specimens are the original marketing tool for type foundries, going back hundreds of years. Today, many type foundries still design a PDF specimen (and sometimes printed copies) for each typeface release, to complement the web specimen.\n\nSee also: [Web specimen tools](#web-specimen-tools)"
     items:
