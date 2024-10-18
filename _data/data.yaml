@@ -862,10 +862,22 @@ categories:
             description: by Underware
           - name: TN Type Tools
             url: https://typetools.typenetwork.com/
-            description: A set of layout tools for experimenting with variable fonts in various ways. By Type Network.
+            description: A set of layout tools for experimenting with variable fonts in various ways. Made by Font Bureau, when it was part of Type Network, to develop the first Decovar and Amstelvar variable fonts in 2016; deprecated by VideoProof and then TypeRoof.
             links:
               - name: Github source
                 url: https://github.com/FontBureau/variable-type-tools/
+          - name: FB VideoProof
+            url: https://videoproof.appspot.com
+            description: Proof large design space variable fonts by animating through instance locations as keyframes. Made by Font Bureau, to develop Roboto Flex and the full Amstelvar Roman and Italic avar1 fonts, 2019-2022; deprecated by TypeRoof.
+            links:
+              - name: Github source
+                url: https://github.com/FontBureau/videoproof/
+          - name: FB TypeRoof
+            url: https://https://fontbureau.github.io/TypeRoof/
+            description: Proof large design space variable fonts by animating through instance locations as keyframes on 'stages'. Made by Font Bureau, to develop Roboto Delta and the full Amstelvar Roman and Italic avar 2 fonts, since 2023.
+            links:
+              - name: Github source
+                url: https://github.com/FontBureau/TypeRoof
           - name: Variable Font Playground
             url: https://github.com/imohanvadivel/variable-font-playground
           - name: Wakamai Fondue
