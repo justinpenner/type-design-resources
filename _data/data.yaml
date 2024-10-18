@@ -827,15 +827,14 @@ categories:
           - name: Dinamo Font Gauntlet
             url: https://dinamodarkroom.com/gauntlet/
             description: A tool for proofing and animating variable fonts.
-          - name: Font Tester
-            url: https://www.motaitalic.com/tools/font-tester/latin/
-            description: A modified version, by Mota Italic, of Pablo Impallari's Font Testing Page. See also the [Devanagari](https://www.motaitalic.com/tools/devanagari-font-tester/) and [Hebrew](https://www.motaitalic.com/tools/font-tester/hebrew/) versions.
-          - name: The Font Testing Page
+          - name: Impallari Type Font Testing Page
             url: https://impallari.com/testing/
             description: by Pablo Impallari
             links: 
               - name: Github source
                 url: https://github.com/impallari/font-testing-page
+              - name: Original URL
+                url: http://www.impallari.com/testing/
               - name: Mirror 1
                 url: http://www.cyreal.org/Font-Testing-Page/
               - name: Mirror 2
@@ -848,6 +847,9 @@ categories:
                 url: https://oketz.com/testing/
               - name: Mirror 6
                 url: https://snapbuilder.com/tools/font_testing_page/
+          - name: Mota Italic Font Testing Page
+            url: https://www.motaitalic.com/tools/font-tester/latin/
+            description: A modified version, by Mota Italic, of Pablo Impallari's Font Testing Page. See also the [Devanagari](https://www.motaitalic.com/tools/devanagari-font-tester/) and [Hebrew](https://www.motaitalic.com/tools/font-tester/hebrew/) versions.
           - name: FontDrop
             url: https://fontdrop.info/
             description: by Viktor and Clemens Nübel
