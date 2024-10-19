@@ -833,19 +833,15 @@ categories:
             links: 
               - name: Github source
                 url: https://github.com/impallari/font-testing-page
-              - name: Original URL
-                url: http://www.impallari.com/testing/
               - name: Mirror 1
                 url: http://www.cyreal.org/Font-Testing-Page/
               - name: Mirror 2
-                url: https://musictypefoundry.com/text-font-testing/
-              - name: Mirror 3
                 url: http://www.rosaliewagner.com/font-testing/
-              - name: Mirror 4
+              - name: Mirror 3
                 url: http://www.idc.iitb.ac.in/~girish/test/
-              - name: Mirror 5
+              - name: Mirror 4
                 url: https://oketz.com/testing/
-              - name: Mirror 6
+              - name: Mirror 5
                 url: https://snapbuilder.com/tools/font_testing_page/
           - name: Mota Italic Font Testing Page
             url: https://www.motaitalic.com/tools/font-tester/latin/
