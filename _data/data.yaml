@@ -967,6 +967,9 @@ categories:
           - name: VerticalMetricsTools
             url: https://github.com/mathieureguer/VerticalMetricsTools
             description: Managing vertical metrics is one of the most common font engineering problems. This set of Python tools includes a command line tool which generates a PDF to preview the vertical metrics of a font.
+          - name: FontDev
+            url: https://fontdev.app/
+            description: A web-based tool for viewing and editing the internal tables of a binary font file. Runs entirely in your browser, without uploading your font files to any server. By Olli Meier.
   - name: Type specimens
     description: "Type specimens are the original marketing tool for type foundries, going back hundreds of years. Today, many type foundries still design a PDF specimen (and sometimes printed copies) for each typeface release, to complement the web specimen.\n\nSee also: [Web specimen tools](#web-specimen-tools)"
     items:
