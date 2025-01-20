@@ -827,6 +827,9 @@ categories:
           - name: Dinamo Font Gauntlet
             url: https://dinamodarkroom.com/gauntlet/
             description: A tool for proofing and animating variable fonts.
+          - name: Font Tester
+            url: https://font-tester.foxcraft.tech/
+            description: A browser extension to help you try and test your fonts on any website. Works by simply highlighting a text on the webpage and picking your fonts. Additionally, you can also compare different versions of your fonts and compare them directly the website. 
           - name: Impallari Type Font Testing Page
             url: https://impallari.com/testing/
             description: by Pablo Impallari
