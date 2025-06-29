@@ -73,6 +73,9 @@ categories:
           - name: Typographische Gesellschaft München
             url: https://tgm-online.de/angebot/?type=tgm-angebot-Fortbildung
             description: Typographic Society of Munich hosts a wide range of in-person workshops and courses on typography, including type design.
+          - name: Knuth-Bigelow Type Design Incubator
+            url: https://silicon.stanford.edu
+            description: SILICON is a Stanford University’s initiative to advance digital inclusion and protect lower-resourced languages from extinction.
       - name: Courses
         items:
           - name: Tipo-g
@@ -311,6 +314,12 @@ categories:
             links:
               - name: Now23
                 url: https://typeparis.com/now23
+          - name: Face/Interface
+            url: https://silicon.stanford.edu/face-interface/
+            description: Global conference on type design and human-computer interaction, hosted by Stanford Univerity.
+            links:
+              - name: Now23
+                url: https://typeparis.com/now23
       - name: Events & Lectures
         description: "Events that occur regularly (except [Conferences](#conferences)), or organizations that host regular events on type design and typography."
         items:
@@ -332,6 +341,9 @@ categories:
             links:
               - name: YouTube
                 url: https://www.youtube.com/@typeelectives
+          - name: Words of Type 
+            url: https://wordsoftype.com/
+            description: WoT hosts series of lectures and workshops as opportunities to learn and practice, get live feedback, and discuss with experts.
       - name: Associations
         items:
           - name: ATypI
@@ -395,6 +407,9 @@ categories:
           - name: Typography papers
             url: https://typography.network/typographypapers/
             description: An academic journal published by the Department of Typography & Graphic Communication, University of Reading and the Hyphen Press. Free PDFs available.
+          - name: Words of Type Encyclopedia
+            url: https://wiki.wordsoftype.com/
+            description: Words of Type brings together the terms used in typography, illustrated and explained in multiple languages.
       - name: Blogs
         description: Type foundry and type designer blogs, or blogs that frequently feature articles on type design.
         items:
