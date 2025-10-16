@@ -99,6 +99,12 @@ categories:
           - name: Ohno Type School Courses
             url: https://school.ohnotype.co/
             description: A series of free courses for RoboFont users.
+          - name: Typemasters
+            url: https://typemasters.xyz
+            description: Typemasters by Leinster Type offers type design courses, workshops, and coaching services.
+          - name: TypeDesign.Asia
+            url: https://typedesign.asia/
+            description: A part-time 9-week online type design course, offered with various levels of coaching and mentorship.
       - name: Full-time programs
         items:
           - name: ANRT
@@ -122,6 +128,14 @@ categories:
           - name: Type West
             url: https://letterformarchive.org/education/
             description: at Letterform Archive (San Francisco, USA)
+      - name: Coaching
+        items:
+          - name: Typemasters
+            url: https://typemasters.xyz
+            description: Typemasters by Leinster Type offers a range of design coaching services for type designers and foundry teams.
+          - name: ILT Academy Consulting
+            url: https://academy.ilovetypography.com/consulting/
+            description: Design consulting and tutoring for type designers and foundry teams.
   - name: Software
     description: Discounted student licenses are available with many of these applications.
     subcategories:
@@ -1312,6 +1326,14 @@ categories:
           - name: Village One
             url: https://www.village.one/
             description: Clients include [TypeMates](https://www.typemates.com/), [HvD Fonts](https://www.hvdfonts.com/).
+      - name: Business coaching
+        items:
+          - name: Julia Hiles
+            url: https://www.juliahiles.com/foundry-resources
+            description: Julia is a business coach and consultant with substantial experience in the type business, having worked as a sales director for Monotype, and co-founding the I Love Typography e-commerce platform.
+          - name: Business Letters
+            url: https://www.bizlet.org/coaching
+            description: Matthew Rechs at Business Letters is a business coach and consultant to the creative and type industries. He is a former CEO of Type Network; served for several years on the board of the Unicode Consortium; and led Typekit's integration into Creative Cloud during his many years at Adobe.
   - name: See also…
     description: More lists of type design resources.
     items:
