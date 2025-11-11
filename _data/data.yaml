@@ -78,6 +78,9 @@ categories:
             description: Typographic Society of Munich hosts a wide range of in-person workshops and courses on typography, including type design.
       - name: Courses
         items:
+          - name: Plantin-Moretus
+            url: https://www.plantininstitute.be/about/index.html
+            description: The Plantin Institute of Typography organizes different programs around typography.
           - name: Tipo-g
             url: https://tipo-g.com/
             description: A type design school in Barcelona, Spain. Currently teaching a 21-week part-time program with an emphasis on variable fonts.
