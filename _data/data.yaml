@@ -24,6 +24,9 @@ categories:
           - name: Ohno Essential RoboFont
             url: https://school.ohnotype.co/p/essential-robofont
             description: Video class introduction to the classic editor
+          - name: Learning Type Design by Charles Nix – LinkedIn Learning
+            url: https://www.linkedin.com/learning/learning-type-design/what-you-should-know
+            description: Basic Glyphs Course
       - name: Books
         items:
           - name: How to design fonts?
@@ -105,6 +108,9 @@ categories:
           - name: TypeDesign.Asia
             url: https://typedesign.asia/
             description: A part-time 9-week online type design course, offered with various levels of coaching and mentorship.
+          - name: Fonte Pro by Plau
+            url: https://edu.plau.design/fontepro/
+            description: Basic type design course in Brazilian Portuguese by Plau.
       - name: Full-time programs
         items:
           - name: ANRT
@@ -297,6 +303,9 @@ categories:
             links:
               - name: YouTube
                 url: https://www.youtube.com/@granshanconference7285
+          - name: DiaTipo
+            url: https://www.diatipo.com.br/
+            description: Largest community gathering for typography in Latin America. Currently happening in São Paulo & Belém do Pará Annually.
           - name: Dynamic Font Day
             url: https://dynamicfontday.com/
             description: A conference on digital typography and technology, presented by [Typographische Gesellschaft München](https://tgm-online.de/) (Typographic Society of Munich).
@@ -415,6 +424,9 @@ categories:
           - name: "Type Design Class: Resources"
             url: https://www.typedesignclass.com/resources
             description: A series of articles and tutorials by Viktor Baltus on type design.
+          - name: "Entrelinha"
+            url: https://plau.design/entrelinha
+            description: Blog by Plau on everything type. In Brazilian Portuguese.
           - name: Blaze Type Blog
             url: https://blazetype.eu/blog
       - name: Streamers
@@ -480,6 +492,9 @@ categories:
           - name: Adobe Fonts Livestreams
             url: https://www.behance.net/adobefonts/livestreams
             description: Discussing type with Adobe’s foundry partners.
+          - name: Plau live streams
+            url: https://youtube.com/plaudesign
+            description: Live panels, font releases and typographic content in Brazilian Portuguese.
   - name: Character design
     subcategories:
       - name: Latin
