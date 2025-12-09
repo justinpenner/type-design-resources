@@ -76,9 +76,6 @@ categories:
           - name: Typographische Gesellschaft München
             url: https://tgm-online.de/angebot/?type=tgm-angebot-Fortbildung
             description: Typographic Society of Munich hosts a wide range of in-person workshops and courses on typography, including type design.
-          - name: Knuth-Bigelow Type Design Incubator
-            url: https://silicon.stanford.edu
-            description: SILICON is a Stanford University’s initiative to advance digital inclusion and protect lower-resourced languages from extinction.
       - name: Courses
         items:
           - name: Tipo-g
@@ -105,6 +102,9 @@ categories:
           - name: Ohno Type School Courses
             url: https://school.ohnotype.co/
             description: A series of free courses for RoboFont users.
+          - name: Knuth-Bigelow Type Design Incubator
+            url: https://silicon.stanford.edu
+            description: The Donald Knuth & Charles Bigelow Type Design Incubator (KBI) is a 5-week type design course. SILICON is a Stanford University initiative to advance digital inclusion and protect lower-resourced languages from extinction.
       - name: Full-time programs
         items:
           - name: ANRT
@@ -319,10 +319,7 @@ categories:
                 url: https://typeparis.com/now23
           - name: Face/Interface
             url: https://silicon.stanford.edu/face-interface/
-            description: Global conference on type design and human-computer interaction, hosted by Stanford Univerity.
-            links:
-              - name: Now23
-                url: https://typeparis.com/now23
+            description: Global conference on type design and human-computer interaction, hosted by Stanford University.
       - name: Events & Lectures
         description: "Events that occur regularly (except [Conferences](#conferences)), or organizations that host regular events on type design and typography."
         items:
