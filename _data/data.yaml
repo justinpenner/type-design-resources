@@ -24,6 +24,9 @@ categories:
           - name: Ohno Essential RoboFont
             url: https://school.ohnotype.co/p/essential-robofont
             description: Video class introduction to the classic editor
+          - name: Learning Type Design
+            url: https://www.linkedin.com/learning/learning-type-design/what-you-should-know
+            description: A beginner type design course by Charles Nix on LinkedIn Learning.
       - name: Books
         items:
           - name: How to design fonts?
@@ -78,6 +81,9 @@ categories:
             description: Typographic Society of Munich hosts a wide range of in-person workshops and courses on typography, including type design.
       - name: Courses
         items:
+          - name: Expert class Type design
+            url: https://www.plantininstitute.be/typedesign/index.html
+            description: An online, comprehensive course on type design offered by The Plantin Institute of Typography.
           - name: Tipo-g
             url: https://tipo-g.com/
             description: A type design school in Barcelona, Spain. Currently teaching a 21-week part-time program with an emphasis on variable fonts.
@@ -111,6 +117,9 @@ categories:
           - name: TypeDesign.Asia
             url: https://typedesign.asia/
             description: A part-time 9-week online type design course, offered with various levels of coaching and mentorship.
+          - name: Plau Education
+            url: https://edu.plau.design/
+            description: A collection of courses in Brazilian Portuguese by Brazilian type foundry Plau. Includes *FontePro*, a basic type design course.
       - name: Full-time programs
         items:
           - name: ANRT
@@ -303,6 +312,12 @@ categories:
             links:
               - name: YouTube
                 url: https://www.youtube.com/@granshanconference7285
+          - name: DiaTipo
+            url: https://www.instagram.com/diatiposp/
+            description: A large community gathering for typography in Latin America, held annually in São Paulo & Belém do Pará.
+            links:
+              - name: Archived conference websites
+                url: https://www.diatipo.com.br/
           - name: Dynamic Font Day
             url: https://dynamicfontday.com/
             description: A conference on digital typography and technology, presented by [Typographische Gesellschaft München](https://tgm-online.de/) (Typographic Society of Munich).
@@ -430,6 +445,9 @@ categories:
           - name: "Type Design Class: Resources"
             url: https://www.typedesignclass.com/resources
             description: A series of articles and tutorials by Viktor Baltus on type design.
+          - name: Entrelinha
+            url: https://plau.design/entrelinha
+            description: Blog by Plau on everything type. In Brazilian Portuguese.
           - name: Blaze Type Blog
             url: https://blazetype.eu/blog
       - name: Streamers
@@ -495,6 +513,9 @@ categories:
           - name: Adobe Fonts Livestreams
             url: https://www.behance.net/adobefonts/livestreams
             description: Discussing type with Adobe’s foundry partners.
+          - name: Plau live streams
+            url: https://youtube.com/plaudesign
+            description: Live panels, font releases and typographic content in Brazilian Portuguese.
   - name: Character design
     subcategories:
       - name: Latin
