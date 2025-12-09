@@ -1032,6 +1032,9 @@ categories:
         - name: Resources on the history of type specimens
           url: https://twitter.com/HoeflerCo/status/1304801378628513792
           description: Twitter thread by Hoefler&Co, a list of books
+        - name: Printing Types, a Digital Edition
+          url: https://www.c82.net/printing-types/
+          description: Nicholas Rougeux has lovingly put together a digital edition of the famous 1922 book *Printing Types* by Daniel Berkeley Updike, and the 1937 second edition.
   - name: Naming your font
     items:
     - name: Typeface name check
