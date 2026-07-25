@@ -1342,9 +1342,9 @@ categories:
           - name: Fontsampler
             url: https://underscoretype.github.io/fontsampler-js/
             description: by Johannes Neumeier
-          - name: TDF Type Tester
-            url: https://github.com/quitequinn/TypeTester_TDF
-            description: by Quinn Keaveney
+          - name: Glyphrow
+            url: https://glyphrow.com/
+            description: An accessible, dependency-free type tester by Quinn Keaveney — composable OpenType features, variable-font axes, and auto-fit sizing. Vanilla JS core with an optional React component.
           - name: Type Neighbor
             url: https://github.com/tiotype/type-neighbor
             description: by Jon Young
