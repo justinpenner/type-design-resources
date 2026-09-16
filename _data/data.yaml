@@ -1266,6 +1266,9 @@ categories:
           - name: Fontdue
             url: https://www.fontdue.com/
             description: Developed by [Tom Conroy](http://tom.conroy.com.au/) and currently used by many type foundries.
+          - name: Fontnode
+            url: https://fontnode.com
+            description: Developed by [Ian Callaghan](https://ians.dev) a no-code type foundry builder.
           - name: FoundryCore
             url: https://foundrycore.tipografia.com.ar/
             description: Developed by Guido Ferreyra and is currently used by foundries like [Blackletra Type Foundry](https://blackletra.com/), [Blaze Type](https://blazetype.eu/), and [Undercase Type](https://undercase.xyz/).
