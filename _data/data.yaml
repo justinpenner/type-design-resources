@@ -261,11 +261,11 @@ categories:
               - Mac
               - Linux
           - name: Glyphr Studio
-            url: https://github.com/glyphr-studio/Glyphr-Studio-1
-            description: A browser-based FOSS font editor.
+            url: https://www.glyphrstudio.com/
+            description: The free & open source web-based font editor, made for hobbyists and typeface design beginners.
             links:
               - name: GitHub
-                url: https://github.com/glyphr-studio/Glyphr-Studio-1
+                url: https://github.com/glyphr-studio
           - name: Typlr.app
             url: https://typlr.app/
             description: A browser-based font editor by Evgeny Agasyants, currently in open beta.
