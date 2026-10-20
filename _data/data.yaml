@@ -213,6 +213,9 @@ categories:
             url: https://fontark.net/
             data:
               - Free (while in beta)
+          - name: FontBob
+            url: https://fontbob.com/
+            description: A browser-based font editor with support for OTF, UFO, and variable font export.
       - name: Free and open source (FOSS) font editors
         items:
           - name: Birdfont
@@ -261,11 +264,11 @@ categories:
               - Mac
               - Linux
           - name: Glyphr Studio
-            url: https://github.com/glyphr-studio/Glyphr-Studio-1
-            description: A browser-based FOSS font editor.
+            url: https://www.glyphrstudio.com/
+            description: A browser-based FOSS font editor for hobbyists and beginners.
             links:
               - name: GitHub
-                url: https://github.com/glyphr-studio/Glyphr-Studio-1
+                url: https://github.com/glyphr-studio
           - name: Typlr.app
             url: https://typlr.app/
             description: A browser-based font editor by Evgeny Agasyants, currently in open beta.
@@ -1032,6 +1035,9 @@ categories:
           - name: FontDev
             url: https://fontdev.app/
             description: A web-based tool for viewing and editing the internal tables of a binary font file. Runs entirely in your browser, without uploading your font files to any server. By Olli Meier.
+          - name: vf-clamp
+            url: https://vfclamp.com/
+            description: A tool for restricting variable font axis ranges using fontTools. Available as a browser demo, command line tool, and plugins for Glyphs, RoboFont, and VS Code. By Overpunch.
   - name: Type specimens
     description: "Type specimens are the original marketing tool for type foundries, going back hundreds of years. Today, many type foundries still design a PDF specimen (and sometimes printed copies) for each typeface release, to complement the web specimen.\n\nSee also: [Web specimen tools](#web-specimen-tools)"
     items:
@@ -1342,8 +1348,8 @@ categories:
           - name: Fontsampler
             url: https://underscoretype.github.io/fontsampler-js/
             description: by Johannes Neumeier
-          - name: TDF Type Tester
-            url: https://github.com/quitequinn/TypeTester_TDF
+          - name: Glyphrow
+            url: https://glyphrow.com/
             description: by Quinn Keaveney
           - name: Type Neighbor
             url: https://github.com/tiotype/type-neighbor
@@ -1377,6 +1383,9 @@ categories:
           - name: Village One
             url: https://www.village.one/
             description: Clients include [TypeMates](https://www.typemates.com/), [HvD Fonts](https://www.hvdfonts.com/).
+          - name: Overpunch
+            url: https://www.overpunch.ca/
+            description: Formerly Liiift Studio. Clients include [MCKL](https://mckltype.com/), [The Designers Foundry](https://thedesignersfoundry.com/), [Darden Studio](https://www.dardenstudio.com/), [Sorkin Type](https://www.sorkintype.com/).
       - name: Business coaching
         items:
           - name: Julia Hiles
