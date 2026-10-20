@@ -1277,7 +1277,7 @@ categories:
             description: Developed by Guido Ferreyra and is currently used by foundries like [Blackletra Type Foundry](https://blackletra.com/), [Blaze Type](https://blazetype.eu/), and [Undercase Type](https://undercase.xyz/).
           - name: Fountain
             url: https://fountain.nymarktype.co/
-            description: An e-commerce plugin for Kirby CMS. Coming soon, from [Nymark Type](https://www.nymarktype.co/).
+            description: A self-hosted e-commerce platform for type foundries, built on Kirby CMS. By [Nymark Type](https://www.nymarktype.co/).
           - name: Lttr Shop
             url: https://www.lttrshop.com/
             description: "Developed by Filip Paldia and currently used by foundries like [DizajnDesign](https://www.dizajndesign.sk/) and [Setup Type](https://www.setuptype.com). Appears to have been discontinued around mid-2023."
