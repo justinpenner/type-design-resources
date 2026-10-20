@@ -5,3 +5,6 @@ _site
 .jekyll-metadata
 vendor
 working
+
+# Private maintenance notes and submission reports
+/_local-notes/
